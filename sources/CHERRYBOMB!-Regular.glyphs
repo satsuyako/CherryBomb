@@ -1,8 +1,8 @@
 {
 .appVersion = "1271";
 DisplayStrings = (
-"/n-hira/a-hira/n-hira/i-hira/n-hira/u-hira/n-hira/e-hira/n-hira/o-hira/n-hira/n-hira/ka-hira/n-hira/ki-hira/n-hira/ku-hira/n-hira/ke-hira/n-hira/ko-hira/n-hira \012/n-hira/sa-hira/n-hira/si-hira/n-hira/su-hira/n-hira/se-hira/n-hira/so-hira/n-hira/n-hira/ta-hira/n-hira/ti-hira/n-hira/tu-hira/n-hira/te-hira/n-hira/to-hira/n-hira \012/n-hira/na-hira/n-hira/ni-hira/n-hira/nu-hira/n-hira/ne-hira/n-hira/no-hira/n-hira/n-hira/ha-hira/n-hira/hi-hira/n-hira/hu-hira/n-hira/he-hira/n-hira/ho-hira/n-hira \012/n-hira/ga-hira/n-hira/gi-hira/n-hira/gu-hira/n-hira/ge-hira/n-hira/go-hira/n-hira/n-hira/za-hira/n-hira/zi-hira/n-hira/zu-hira/n-hira/ze-hira/n-hira/zo-hira/n-hira \012/n-hira/da-hira/n-hira/di-hira/n-hira/du-hira/n-hira/de-hira/n-hira/do-hira/n-hira/n-hira/ba-hira/n-hira/bi-hira/n-hira/bu-hira/n-hira/be-hira/n-hira/bo-hira/n-hira \012/n-hira/pa-hira/n-hira/pi-hira/n-hira/pu-hira/n-hira/pe-hira/n-hira/po-hira/n-hira/n-hira/ma-hira/n-hira/mi-hira/n-hira/mu-hira/n-hira/me-hira/n-hira/mo-hira/n-hira \012/n-hira/ya-hira/n-hira/wi-hira/n-hira/yu-hira/n-hira/we-hira/n-hira/yo-hira/n-hira/usmall-kata/u-kata \012/n-hira/ra-hira/n-hira/ri-hira/n-hira/ru-hira/n-hira/re-hira/n-hira/ro-hira/n-hira/wa-hira/n-hira/wo-hira/n-hira/n-hira/n-hira \012/n-kata/a-kata/n-kata/i-kata/n-kata/u-kata/n-kata/e-kata/n-kata/o-kata/n-kata/n-kata/ka-kata/n-kata/ki-kata/n-kata/ku-kata/n-kata/ke-kata/n-kata/ko-kata/n-kata/n-kata/sa-kata/n-kata/si-kata/n-kata/su-kata/n-kata/se-kata/n-kata/so-kata/n-kata \012/n-kata/ta-kata/n-kata/ti-kata/n-kata/tu-kata/n-kata/te-kata/n-kata/to-kata/n-kata/n-kata/na-kata/n-kata/ni-kata/n-kata/nu-kata/n-kata/ne-kata/n-kata/no-kata/n-kata/n-kata/ha-kata/n-kata/hi-kata/n-kata/hu-kata/n-kata/he-kata/n-kata/ho-kata/n-kata/n-kata/ga-kata/n-kata/gi-kata/n-kata/gu-kata/n-kata/ge-kata/n-kata/go-kata/n-kata/n-kata/za-kata/n-kata/zi-kata/n-kata/zu-kata/n-kata/ze-kata/n-kata/zo-kata/n-kata \012/n-kata/da-kata/n-kata/di-kata/n-kata/du-kata/n-kata/de-kata/n-kata/do-kata/n-kata/n-kata/ba-kata/n-kata/bi-kata/n-kata/bu-kata/n-kata/be-kata/n-kata \012/n-kata/bo-kata/n-kata/n-kata/pa-kata/n-kata/pi-kata/n-kata/pu-kata/n-kata/pe-kata/n-kata/po-kata/n-kata/n-kata/ma-kata/n-kata/mi-kata/n-kata/mu-kata/n-kata/me-kata/n-kata/mo-kata/n-kata/n-kata/ya-kata/n-kata/wi-kata/n-kata/yu-kata/n-kata/we-kata/n-kata/yo-kata/n-kata/n-kata/ra-kata/n-kata/ri-kata/n-kata/ru-kata/n-kata/re-kata/n-kata/ro-kata/n-kata/wa-kata/n-kata/wo-kata/n-kata/n-kata/n-kata",
-"/a-hira/i-hira/u-hira/e-hira/o-hira/ka-hira/ga-hira/ki-hira/gi-hira/ku-hira/gu-hira/ke-hira/ge-hira/ko-hira/go-hira \012/sa-hira/za-hira/si-hira/zi-hira/su-hira/zu-hira/se-hira/ze-hira/so-hira/zo-hira \012/ta-hira/da-hira/ti-hira/di-hira/tusmall-hira/tu-hira/du-hira/te-hira/de-hira/to-hira/do-hira \012/na-hira/ni-hira/nu-hira/ne-hira/no-hira/ha-hira/ba-hira/pa-hira/dot-kata \012/hi-hira/bi-hira/pi-hira/hu-hira/bu-hira/pu-hira/he-hira/be-hira/pe-hira/ho-hira/bo-hira/po-hira/ma-hira/mi-hira/mu-hira/me-hira/mo-hira \012/ya-hira/yu-hira/yo-hira/ra-hira/ri-hira/ru-hira/re-hira/ro-hira/wa-hira/wi-hira/we-hira/wo-hira/n-hira/vu-hira/digraphyori-hira/kasmall-hira/kesmall-hira"
+"/a-hira/i-hira/u-hira/e-hira/o-hira/ka-hira/ga-hira/ki-hira/gi-hira/ku-hira/gu-hira/ke-hira/ge-hira/ko-hira/go-hira \012/sa-hira/za-hira/si-hira/zi-hira/su-hira/zu-hira/se-hira/ze-hira/so-hira/zo-hira \012/ta-hira/da-hira/ti-hira/di-hira/tusmall-hira/tu-hira/du-hira/te-hira/de-hira/to-hira/do-hira \012/na-hira/ni-hira/nu-hira/ne-hira/no-hira/ha-hira/ba-hira/pa-hira/dot-kata \012/hi-hira/bi-hira/pi-hira/hu-hira/bu-hira/pu-hira/he-hira/be-hira/pe-hira/ho-hira/bo-hira/po-hira/ma-hira/mi-hira/mu-hira/me-hira/mo-hira \012/ya-hira/yu-hira/yo-hira/ra-hira/ri-hira/ru-hira/re-hira/ro-hira/wa-hira/wi-hira/we-hira/wo-hira/n-hira/vu-hira/digraphyori-hira/kasmall-hira/kesmall-hira",
+"/na-hira/a-hira/na-hira/i-hira/na-hira/u-hira/na-hira/e-hira/na-hira/o-hira/na-hira/na-hira/ka-hira/na-hira/ki-hira/na-hira/ku-hira/na-hira/ke-hira/na-hira/ko-hira/na-hira \012/na-hira/sa-hira/na-hira/si-hira/na-hira/su-hira/na-hira/se-hira/na-hira/so-hira/na-hira/na-hira/ta-hira/na-hira/ti-hira/na-hira/tu-hira/na-hira/te-hira/na-hira/to-hira/na-hira \012/na-hira/na-hira/na-hira/ni-hira/na-hira/nu-hira/na-hira/ne-hira/na-hira/no-hira/na-hira/na-hira/ha-hira/na-hira/hi-hira/na-hira/hu-hira/na-hira/he-hira/na-hira/ho-hira/na-hira/na-hira/ga-hira/na-hira/gi-hira/na-hira/gu-hira/na-hira/ge-hira/na-hira/go-hira/na-hira/na-hira/za-hira/na-hira/zi-hira/na-hira/zu-hira/na-hira/ze-hira/na-hira/zo-hira/na-hira \012/na-hira/da-hira/na-hira/di-hira/na-hira/du-hira/na-hira/de-hira/na-hira/do-hira/na-hira/na-hira/ba-hira/na-hira/bi-hira/na-hira/bu-hira/na-hira/be-hira/na-hira/bo-hira/na-hira \012/na-hira/pa-hira/na-hira/pi-hira/na-hira/pu-hira/na-hira/pe-hira/na-hira/po-hira/na-hira/na-hira/ma-hira/na-hira/mi-hira/na-hira/mu-hira/na-hira/me-hira/na-hira/mo-hira/na-hira/na-hira/ya-hira/na-hira/wi-hira/na-hira/yu-hira/na-hira/we-hira/na-hira/yo-hira/na-hira/na-hira/ra-hira/na-hira/ri-hira/na-hira/ru-hira/na-hira/re-hira/na-hira/ro-hira/na-hira/wa-hira \012/na-hira/wo-hira/na-hira/n-hira/na-hira/vu-hira/na-hira/vu-hira/na-hira/digraphyori-hira/na-hira \012/na-kata/a-kata/na-kata/i-kata/na-kata/u-kata/na-kata/e-kata/na-kata/o-kata/na-kata/na-kata/ka-kata/na-kata/ki-kata/na-kata/ku-kata/na-kata/ke-kata \012/na-kata/ko-kata/na-kata/sa-kata/na-kata/na-kata/si-kata/na-kata/su-kata/na-kata/se-kata/na-kata/so-kata/na-kata/na-kata/ta-kata/na-kata/ti-kata/na-kata/tu-kata \012/na-kata/te-kata/na-kata/to-kata/na-kata/na-kata/na-kata/na-kata/ni-kata/na-kata/nu-kata/na-kata/ne-kata/na-kata/no-kata/na-kata/na-kata/ha-kata/na-kata/hi-kata/na-kata/hu-kata \012/na-kata/he-kata/na-kata/ho-kata/na-kata/na-kata/ga-kata/na-kata/gi-kata/na-kata/gu-kata/na-kata/ge-kata/na-kata/go-kata/na-kata/na-kata/za-kata/na-kata/zi-kata \012/na-kata/zu-kata/na-kata/ze-kata/na-kata/zo-kata/na-kata/na-kata/da-kata/na-kata/di-kata/na-kata/du-kata/na-kata/de-kata/na-kata/do-kata/na-kata/na-kata/ba-kata/na-kata/bi-kata/na-kata/bu-kata/na-kata/be-kata/na-kata/na-kata/bo-kata/na-kata/na-kata/pa-kata/na-kata/pi-kata/na-kata/pu-kata/na-kata/pe-kata/na-kata/po-kata/na-kata/na-kata/ma-kata \012/na-kata/mi-kata/na-kata/mu-kata/na-kata/me-kata/na-kata/mo-kata/na-kata/na-kata/ya-kata/na-kata/wi-kata/na-kata/yu-kata/na-kata/we-kata/na-kata/yo-kata/na-kata/na-kata/ra-kata/na-kata/ri-kata/na-kata/ru-kata/na-kata/re-kata/na-kata/ro-kata/na-kata/wa-kata/na-kata/wo-kata/na-kata/wi-kata/na-kata/n-kata/na-kata/vi-kata/na-kata/we-kata/na-kata/ve-kata/na-kata/digraphkoto-kata/na-kata/va-kata/na-kata \012/ni-hira/a-hira/ni-hira/i-hira/ni-hira/u-hira/ni-hira/e-hira/ni-hira/o-hira/ni-hira/ni-hira/ka-hira/ni-hira/ki-hira/ni-hira/ku-hira/ni-hira/ke-hira/ni-hira/ko-hira/ni-hira \012/ni-hira/sa-hira/ni-hira/si-hira/ni-hira/su-hira/ni-hira/se-hira/ni-hira/so-hira/ni-hira/ni-hira/ta-hira/ni-hira/ti-hira/ni-hira/tu-hira/ni-hira/te-hira/ni-hira/to-hira/ni-hira \012/ni-hira/na-hira/ni-hira/ni-hira/ni-hira/nu-hira/ni-hira/ne-hira/ni-hira/no-hira/ni-hira/ni-hira/ha-hira/ni-hira/hi-hira/ni-hira/hu-hira/ni-hira/he-hira/ni-hira/ho-hira/ni-hira \012/ni-hira/ga-hira/ni-hira/gi-hira/ni-hira/gu-hira/ni-hira/ge-hira/ni-hira/go-hira/ni-hira/ni-hira/za-hira/ni-hira/zi-hira/ni-hira/zu-hira/ni-hira/ze-hira/ni-hira/zo-hira/ni-hira \012/ni-hira/da-hira/ni-hira/di-hira/ni-hira/du-hira/ni-hira/de-hira/ni-hira/do-hira/ni-hira/ni-hira/ba-hira/ni-hira/bi-hira/ni-hira/bu-hira/ni-hira/be-hira/ni-hira/bo-hira/ni-hira \012/ni-hira/pa-hira/ni-hira/pi-hira/ni-hira/pu-hira/ni-hira/pe-hira/ni-hira/po-hira/ni-hira/ni-hira/ma-hira/ni-hira/mi-hira/ni-hira/mu-hira/ni-hira/me-hira/ni-hira/mo-hira/ni-hira \012/ni-hira/ya-hira/ni-hira/wi-hira/ni-hira/yu-hira/ni-hira/we-hira/ni-hira/yo-hira/ni-hira/ni-hira/ra-hira/ni-hira/ri-hira/ni-hira/ru-hira/ni-hira/re-hira/ni-hira/ro-hira/ni-hira/wa-hira \012/ni-hira/wo-hira/ni-hira/n-hira/ni-hira/vu-hira/ni-hira/vu-hira/ni-hira/digraphyori-hira/ni-hira \012/ni-kata/a-kata/ni-kata/i-kata/ni-kata/u-kata/ni-kata/e-kata/ni-kata/o-kata/ni-kata/ni-kata/ka-kata/ni-kata/ki-kata/ni-kata/ku-kata/ni-kata/ke-kata/ni-kata/ko-kata \012/ni-kata/sa-kata/ni-kata/ni-kata/si-kata/ni-kata/su-kata/ni-kata/se-kata/ni-kata/so-kata/ni-kata/ni-kata/ta-kata/ni-kata/ti-kata/ni-kata/tu-kata/ni-kata/te-kata/ni-kata/to-kata/ni-kata \012/ni-kata/na-kata/ni-kata/ni-kata/ni-kata/nu-kata/ni-kata/ne-kata/ni-kata/no-kata/ni-kata/ni-kata/ha-kata/ni-kata/hi-kata/ni-kata/hu-kata/ni-kata/he-kata/ni-kata/ho-kata/ni-kata \012/ni-kata/ga-kata/ni-kata/gi-kata/ni-kata/gu-kata/ni-kata/ge-kata/ni-kata/go-kata/ni-kata/ni-kata/za-kata/ni-kata/zi-kata/ni-kata/zu-kata/ni-kata/ze-kata/ni-kata/zo-kata/ni-kata \012/ni-kata/da-kata/ni-kata/di-kata/ni-kata/du-kata/ni-kata/de-kata/ni-kata/do-kata/ni-kata/ni-kata/ba-kata/ni-kata/bi-kata/ni-kata/bu-kata/ni-kata/be-kata/ni-kata \012/ni-kata/bo-kata/ni-kata/ni-kata/pa-kata/ni-kata/pi-kata/ni-kata/pu-kata/ni-kata/pe-kata/ni-kata/po-kata/ni-kata/ni-kata/ma-kata/ni-kata/mi-kata/ni-kata/mu-kata/ni-kata/me-kata \012/ni-kata/mo-kata/ni-kata/ni-kata/ya-kata/ni-kata/wi-kata/ni-kata/yu-kata/ni-kata/we-kata/ni-kata/yo-kata/ni-kata/ni-kata/ra-kata/ni-kata/ri-kata/ni-kata/ru-kata/ni-kata/re-kata \012/ni-kata/ro-kata/ni-kata/wa-kata/ni-kata/wo-kata/ni-kata/wi-kata/ni-kata/n-kata/ni-kata/vi-kata/ni-kata/we-kata/ni-kata/ve-kata/ni-kata/digraphkoto-kata/ni-kata/va-kata/ni-kata \012/nu-hira/a-hira/nu-hira/i-hira/nu-hira/u-hira/nu-hira/e-hira/nu-hira/o-hira/nu-hira/nu-hira/ka-hira/nu-hira/ki-hira/nu-hira/ku-hira/nu-hira/ke-hira/nu-hira/ko-hira/nu-hira \012/nu-hira/sa-hira/nu-hira/si-hira/nu-hira/su-hira/nu-hira/se-hira/nu-hira/so-hira/nu-hira/nu-hira/ta-hira/nu-hira/ti-hira/nu-hira/tu-hira/nu-hira/te-hira/nu-hira/to-hira/nu-hira/nu-hira \012/na-hira/nu-hira/ni-hira/nu-hira/nu-hira/nu-hira/ne-hira/nu-hira/no-hira/nu-hira/nu-hira/ha-hira/nu-hira/hi-hira/nu-hira/hu-hira/nu-hira/he-hira/nu-hira/ho-hira/nu-hira \012/nu-hira/ga-hira/nu-hira/gi-hira/nu-hira/gu-hira/nu-hira/ge-hira/nu-hira/go-hira/nu-hira/nu-hira/za-hira/nu-hira/zi-hira/nu-hira/zu-hira/nu-hira/ze-hira/nu-hira/zo-hira/nu-hira \012/nu-hira/da-hira/nu-hira/di-hira/nu-hira/du-hira/nu-hira/de-hira/nu-hira/do-hira/nu-hira/nu-hira/ba-hira/nu-hira/bi-hira/nu-hira/bu-hira/nu-hira/be-hira/nu-hira/bo-hira/nu-hira \012/nu-hira/pa-hira/nu-hira/pi-hira/nu-hira/pu-hira/nu-hira/pe-hira/nu-hira/po-hira/nu-hira/nu-hira/ma-hira/nu-hira/mi-hira/nu-hira/mu-hira/nu-hira/me-hira \012/nu-hira/mo-hira/nu-hira/nu-hira/ya-hira/nu-hira/wi-hira/nu-hira/yu-hira/nu-hira/we-hira/nu-hira/yo-hira/nu-hira/nu-hira/ra-hira/nu-hira/ri-hira/nu-hira/ru-hira/nu-hira/re-hira/nu-hira/ro-hira/nu-hira/wa-hira/nu-hira/wo-hira/nu-hira/n-hira/nu-hira/vu-hira/nu-hira/vu-hira/nu-hira/digraphyori-hira/nu-hira \012/nu-kata/a-kata/nu-kata/i-kata/nu-kata/u-kata/nu-kata/e-kata/nu-kata/o-kata/nu-kata/nu-kata/ka-kata/nu-kata/ki-kata/nu-kata/ku-kata/nu-kata/ke-kata/nu-kata/ko-kata \012/nu-kata/sa-kata/nu-kata/nu-kata/si-kata/nu-kata/su-kata/nu-kata/se-kata/nu-kata/so-kata/nu-kata/nu-kata/ta-kata/nu-kata/ti-kata/nu-kata/tu-kata/nu-kata/te-kata \012/nu-kata/to-kata/nu-kata/nu-kata/na-kata/nu-kata/ni-kata/nu-kata/nu-kata/nu-kata/ne-kata/nu-kata/no-kata/nu-kata/nu-kata/ha-kata/nu-kata/hi-kata/nu-kata/hu-kata/nu-kata/he-kata/nu-kata/ho-kata \012/nu-kata/nu-kata/ga-kata/nu-kata/gi-kata/nu-kata/gu-kata/nu-kata/ge-kata/nu-kata/go-kata/nu-kata/nu-kata/za-kata/nu-kata/zi-kata/nu-kata/zu-kata/nu-kata/ze-kata/nu-kata/zo-kata/nu-kata \012/nu-kata/da-kata/nu-kata/di-kata/nu-kata/du-kata/nu-kata/de-kata/nu-kata/do-kata/nu-kata/nu-kata/ba-kata/nu-kata/bi-kata/nu-kata/bu-kata/nu-kata/be-kata/nu-kata \012/nu-kata/bo-kata/nu-kata/nu-kata/pa-kata/nu-kata/pi-kata/nu-kata/pu-kata/nu-kata/pe-kata/nu-kata/po-kata/nu-kata/nu-kata/ma-kata/nu-kata/mi-kata/nu-kata/mu-kata/nu-kata/me-kata \012/nu-kata/mo-kata/nu-kata/nu-kata/ya-kata/nu-kata/wi-kata/nu-kata/yu-kata/nu-kata/we-kata/nu-kata/yo-kata/nu-kata/nu-kata/ra-kata/nu-kata/ri-kata/nu-kata/ru-kata/nu-kata/re-kata/nu-kata/ro-kata \012/nu-kata/wa-kata/nu-kata/wo-kata/nu-kata/wi-kata/nu-kata/n-kata/nu-kata/vi-kata/nu-kata/we-kata/nu-kata/ve-kata/nu-kata/digraphkoto-kata/nu-kata/va-kata/nu-kata \012/ne-hira/a-hira/ne-hira/i-hira/ne-hira/u-hira/ne-hira/e-hira/ne-hira/o-hira/ne-hira/ne-hira/ka-hira/ne-hira/ki-hira/ne-hira/ku-hira/ne-hira/ke-hira/ne-hira/ko-hira/ne-hira \012/ne-hira/sa-hira/ne-hira/si-hira/ne-hira/su-hira/ne-hira/se-hira/ne-hira/so-hira/ne-hira/ne-hira/ta-hira/ne-hira/ti-hira/ne-hira/tu-hira/ne-hira/te-hira/ne-hira/to-hira \012/ne-hira/ne-hira/na-hira/ne-hira/ni-hira/ne-hira/nu-hira/ne-hira/ne-hira/ne-hira/no-hira/ne-hira/ne-hira/ha-hira/ne-hira/hi-hira/ne-hira/hu-hira/ne-hira/he-hira/ne-hira/ho-hira/ne-hira/ne-hira/ga-hira/ne-hira/gi-hira/ne-hira/gu-hira/ne-hira/ge-hira/ne-hira/go-hira/ne-hira/ne-hira/za-hira/ne-hira/zi-hira/ne-hira/zu-hira/ne-hira/ze-hira/ne-hira/zo-hira/ne-hira \012/ne-hira/da-hira/ne-hira/di-hira/ne-hira/du-hira/ne-hira/de-hira/ne-hira/do-hira/ne-hira/ne-hira/ba-hira/ne-hira/bi-hira/ne-hira/bu-hira/ne-hira/be-hira/ne-hira/bo-hira/ne-hira \012/ne-hira/pa-hira/ne-hira/pi-hira/ne-hira/pu-hira/ne-hira/pe-hira/ne-hira/po-hira/ne-hira/ne-hira/ma-hira/ne-hira/mi-hira/ne-hira/mu-hira/ne-hira/me-hira/ne-hira/mo-hira/ne-hira/ne-hira/ya-hira/ne-hira/wi-hira/ne-hira/yu-hira/ne-hira/we-hira/ne-hira/yo-hira/ne-hira/ne-hira/ra-hira/ne-hira/ri-hira/ne-hira/ru-hira/ne-hira/re-hira/ne-hira/ro-hira/ne-hira \012/wa-hira/ne-hira/wo-hira/ne-hira/n-hira/ne-hira/vu-hira/ne-hira/vu-hira/ne-hira/digraphyori-hira/ne-hira \012/ne-kata/a-kata/ne-kata/i-kata/ne-kata/u-kata/ne-kata/e-kata/ne-kata/o-kata/ne-kata/ne-kata/ka-kata/ne-kata/ki-kata/ne-kata/ku-kata/ne-kata/ke-kata/ne-kata/ko-kata/ne-kata/sa-kata/ne-kata \012/ne-kata/si-kata/ne-kata/su-kata/ne-kata/se-kata/ne-kata/so-kata/ne-kata/ne-kata/ta-kata/ne-kata/ti-kata/ne-kata/tu-kata/ne-kata/te-kata/ne-kata/to-kata/ne-kata/ne-kata/na-kata/ne-kata/ni-kata/ne-kata/nu-kata/ne-kata/ne-kata/ne-kata/no-kata/ne-kata/ne-kata/ha-kata/ne-kata/hi-kata/ne-kata/hu-kata/ne-kata/he-kata/ne-kata/ho-kata/ne-kata/ne-kata/ga-kata/ne-kata/gi-kata/ne-kata/gu-kata/ne-kata/ge-kata \012/ne-kata/go-kata/ne-kata/ne-kata/za-kata/ne-kata/zi-kata/ne-kata/zu-kata/ne-kata/ze-kata/ne-kata/zo-kata/ne-kata/ne-kata/da-kata/ne-kata/di-kata/ne-kata/du-kata/ne-kata/de-kata/ne-kata/do-kata/ne-kata/ne-kata/ba-kata/ne-kata/bi-kata/ne-kata/bu-kata/ne-kata/be-kata/ne-kata/ne-kata/bo-kata/ne-kata/ne-kata/pa-kata/ne-kata/pi-kata/ne-kata/pu-kata/ne-kata/pe-kata/ne-kata/po-kata \012/ne-kata/ne-kata/ma-kata/ne-kata/mi-kata/ne-kata/mu-kata/ne-kata/me-kata/ne-kata/mo-kata/ne-kata/ne-kata/ya-kata/ne-kata/wi-kata/ne-kata/yu-kata/ne-kata/we-kata/ne-kata/yo-kata/ne-kata \012/ne-kata/ra-kata/ne-kata/ri-kata/ne-kata/ru-kata/ne-kata/re-kata/ne-kata/ro-kata/ne-kata/wa-kata/ne-kata/wo-kata/ne-kata/wi-kata/ne-kata/n-kata/ne-kata/vi-kata/ne-kata/we-kata/ne-kata/ve-kata \012/ne-kata/digraphkoto-kata/ne-kata/va-kata/ne-kata \012/no-hira/a-hira/no-hira/i-hira/no-hira/u-hira/no-hira/e-hira/no-hira/o-hira/no-hira/no-hira/ka-hira/no-hira/ki-hira/no-hira/ku-hira/no-hira/ke-hira/no-hira/ko-hira/no-hira \012/no-hira/sa-hira/no-hira/si-hira/no-hira/su-hira/no-hira/se-hira/no-hira/so-hira/no-hira/no-hira/ta-hira/no-hira/ti-hira/no-hira/tu-hira/no-hira/te-hira/no-hira/to-hira/no-hira \012/no-hira/na-hira/no-hira/ni-hira/no-hira/nu-hira/no-hira/ne-hira/no-hira/no-hira/no-hira/no-hira/ha-hira/no-hira/hi-hira/no-hira/hu-hira/no-hira/he-hira/no-hira/ho-hira/no-hira \012/no-hira/ga-hira/no-hira/gi-hira/no-hira/gu-hira/no-hira/ge-hira/no-hira/go-hira/no-hira/no-hira/za-hira/no-hira/zi-hira/no-hira/zu-hira/no-hira/ze-hira/no-hira/zo-hira/no-hira \012/no-hira/da-hira/no-hira/di-hira/no-hira/du-hira/no-hira/de-hira/no-hira/do-hira/no-hira/no-hira/ba-hira/no-hira/bi-hira/no-hira/bu-hira/no-hira/be-hira/no-hira/bo-hira/no-hira \012/no-hira/pa-hira/no-hira/pi-hira/no-hira/pu-hira/no-hira/pe-hira/no-hira/po-hira/no-hira/no-hira/ma-hira/no-hira/mi-hira/no-hira/mu-hira/no-hira/me-hira/no-hira/mo-hira/no-hira \012/no-hira/ya-hira/no-hira/wi-hira/no-hira/yu-hira/no-hira/we-hira/no-hira/yo-hira/no-hira/no-hira/ra-hira/no-hira/ri-hira/no-hira/ru-hira/no-hira/re-hira/no-hira/ro-hira/no-hira \012/wa-hira/no-hira/wo-hira/no-hira/n-hira/no-hira/vu-hira/no-hira/vu-hira/no-hira/digraphyori-hira/no-hira \012/no-kata/a-kata/no-kata/i-kata/no-kata/u-kata/no-kata/e-kata/no-kata/o-kata/no-kata/no-kata/ka-kata/no-kata/ki-kata/no-kata/ku-kata/no-kata/ke-kata/no-kata/ko-kata/no-kata/sa-kata/no-kata/no-kata/si-kata/no-kata/su-kata/no-kata/se-kata/no-kata/so-kata/no-kata/no-kata/ta-kata/no-kata/ti-kata/no-kata/tu-kata/no-kata/te-kata/no-kata/to-kata/no-kata/no-kata/na-kata/no-kata/ni-kata/no-kata/nu-kata/no-kata/ne-kata/no-kata/no-kata/no-kata/no-kata/ha-kata/no-kata/hi-kata/no-kata/hu-kata/no-kata/he-kata/no-kata/ho-kata/no-kata/no-kata/ga-kata/no-kata/gi-kata/no-kata/gu-kata/no-kata/ge-kata/no-kata/go-kata/no-kata/no-kata/za-kata/no-kata/zi-kata/no-kata \012/zu-kata/no-kata/ze-kata/no-kata/zo-kata/no-kata/no-kata/da-kata/no-kata/di-kata/no-kata/du-kata/no-kata/de-kata/no-kata/do-kata/no-kata/no-kata/ba-kata/no-kata/bi-kata/no-kata/bu-kata/no-kata/be-kata/no-kata/no-kata/bo-kata/no-kata/no-kata/pa-kata/no-kata/pi-kata/no-kata/pu-kata/no-kata/pe-kata/no-kata/po-kata/no-kata/no-kata/ma-kata/no-kata/mi-kata/no-kata/mu-kata/no-kata/me-kata/no-kata/mo-kata/no-kata/no-kata/ya-kata/no-kata/wi-kata/no-kata/yu-kata/no-kata/we-kata/no-kata/yo-kata/no-kata/no-kata/ra-kata/no-kata/ri-kata/no-kata/ru-kata/no-kata/re-kata/no-kata/ro-kata/no-kata/wa-kata/no-kata/wo-kata/no-kata/wi-kata/no-kata/n-kata/no-kata/vi-kata/no-kata/we-kata/no-kata/ve-kata/no-kata/digraphkoto-kata/no-kata/va-kata/no-kata"
 );
 classes = (
 {
@@ -849,7 +849,7 @@ name = ROS;
 value = "Adobe-Identity-0";
 }
 );
-date = "2019-11-21 17:01:08 +0000";
+date = "2019-11-29 14:38:24 +0000";
 designer = satsuyako;
 designerURL = "https://satsuyako.com/";
 disablesAutomaticAlignment = 1;
@@ -2685,7 +2685,7 @@ unicode = 0059;
 },
 {
 glyphname = Z;
-lastChange = "2019-11-27 18:16:44 +0000";
+lastChange = "2019-12-01 11:40:13 +0000";
 layers = (
 {
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
@@ -2693,27 +2693,27 @@ paths = (
 {
 closed = 1;
 nodes = (
-"449 0 OFFCURVE",
+"502 0 OFFCURVE",
 "623 0 OFFCURVE",
 "623 119 CURVE SMOOTH",
 "623 223 OFFCURVE",
-"512 233 OFFCURVE",
-"391 236 CURVE",
-"504 300 OFFCURVE",
+"502 233 OFFCURVE",
+"381 236 CURVE",
+"494 300 OFFCURVE",
 "625 395 OFFCURVE",
 "625 514 CURVE SMOOTH",
 "625 674 OFFCURVE",
 "458 697 OFFCURVE",
 "286 697 CURVE SMOOTH",
 "141 697 OFFCURVE",
-"25 656 OFFCURVE",
-"25 546 CURVE SMOOTH",
-"25 425 OFFCURVE",
-"190 410 OFFCURVE",
-"297 421 CURVE",
-"197 351 OFFCURVE",
-"45 246 OFFCURVE",
-"45 152 CURVE SMOOTH",
+"25 668 OFFCURVE",
+"25 558 CURVE SMOOTH",
+"25 447 OFFCURVE",
+"141 431 OFFCURVE",
+"317 431 CURVE",
+"217 361 OFFCURVE",
+"45 236 OFFCURVE",
+"45 142 CURVE SMOOTH",
 "45 7 OFFCURVE",
 "195 0 OFFCURVE",
 "329 0 CURVE SMOOTH"
@@ -12089,7 +12089,7 @@ unicode = 309E;
 },
 {
 glyphname = "prolonged-kana";
-lastChange = "2019-11-12 06:18:19 +0000";
+lastChange = "2019-12-01 08:35:41 +0000";
 layers = (
 {
 hints = (
@@ -12113,18 +12113,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"545 251 OFFCURVE",
-"685 245 OFFCURVE",
+"545 242 OFFCURVE",
+"685 235 OFFCURVE",
 "685 353 CURVE SMOOTH",
-"685 460 OFFCURVE",
-"545 455 OFFCURVE",
-"355 455 CURVE SMOOTH",
-"155 455 OFFCURVE",
-"25 460 OFFCURVE",
+"685 470 OFFCURVE",
+"545 465 OFFCURVE",
+"355 465 CURVE SMOOTH",
+"155 465 OFFCURVE",
+"25 470 OFFCURVE",
 "25 353 CURVE SMOOTH",
-"25 245 OFFCURVE",
-"155 251 OFFCURVE",
-"355 251 CURVE SMOOTH"
+"25 235 OFFCURVE",
+"155 242 OFFCURVE",
+"355 242 CURVE SMOOTH"
 );
 }
 );
@@ -20668,14 +20668,14 @@ unicode = 017C;
 },
 {
 glyphname = "asmall-hira";
-lastChange = "2019-11-23 20:24:08 +0000";
+lastChange = "2019-12-01 09:42:05 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = "a-hira";
-transform = "{0.77179, 0, 0, 0.77179, -4, 0}";
+transform = "{0.77179, 0, 0, 0.77179, 6, 0}";
 }
 );
 hints = (
@@ -20686,14 +20686,14 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 560;
+width = 570;
 }
 );
 unicode = 3041;
 },
 {
 glyphname = "a-hira";
-lastChange = "2019-11-29 11:48:15 +0000";
+lastChange = "2019-12-01 19:48:34 +0000";
 layers = (
 {
 guideLines = (
@@ -20803,7 +20803,7 @@ unicode = 3042;
 },
 {
 glyphname = "ismall-hira";
-lastChange = "2019-11-23 20:24:27 +0000";
+lastChange = "2019-12-01 09:41:36 +0000";
 layers = (
 {
 components = (
@@ -20821,14 +20821,14 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 594;
+width = 624;
 }
 );
 unicode = 3043;
 },
 {
 glyphname = "i-hira";
-lastChange = "2019-11-29 13:56:43 +0000";
+lastChange = "2019-12-01 19:33:10 +0000";
 layers = (
 {
 guideLines = (
@@ -20855,13 +20855,13 @@ nodes = (
 "371 258 OFFCURVE",
 "297 198 CURVE SMOOTH",
 "276 181 OFFCURVE",
-"234 254 OFFCURVE",
-"238 356 CURVE SMOOTH",
-"241 425 OFFCURVE",
-"249 499 OFFCURVE",
-"249 535 CURVE SMOOTH",
-"249 590 OFFCURVE",
-"215 630 OFFCURVE",
+"244 254 OFFCURVE",
+"248 356 CURVE SMOOTH",
+"251 425 OFFCURVE",
+"259 499 OFFCURVE",
+"259 535 CURVE SMOOTH",
+"259 590 OFFCURVE",
+"225 630 OFFCURVE",
 "159 630 CURVE SMOOTH",
 "42 630 OFFCURVE",
 "25 483 OFFCURVE",
@@ -20876,19 +20876,19 @@ closed = 1;
 nodes = (
 "736 113 OFFCURVE",
 "771 216 OFFCURVE",
-"771 304 CURVE",
+"771 304 CURVE SMOOTH",
 "771 412 OFFCURVE",
-"708 577 OFFCURVE",
-"601 577 CURVE",
-"545 577 OFFCURVE",
-"504 535 OFFCURVE",
-"514 477 CURVE",
-"532 371 OFFCURVE",
-"594 378 OFFCURVE",
-"582 205 CURVE",
-"578 149 OFFCURVE",
+"698 577 OFFCURVE",
+"591 577 CURVE SMOOTH",
+"535 577 OFFCURVE",
+"494 535 OFFCURVE",
+"504 477 CURVE SMOOTH",
+"522 371 OFFCURVE",
+"584 378 OFFCURVE",
+"572 205 CURVE SMOOTH",
+"568 149 OFFCURVE",
 "617 113 OFFCURVE",
-"667 113 CURVE"
+"667 113 CURVE SMOOTH"
 );
 }
 );
@@ -20899,19 +20899,19 @@ unicode = 3044;
 },
 {
 glyphname = "usmall-hira";
-lastChange = "2019-11-03 10:54:54 +0000";
+lastChange = "2019-12-01 09:41:41 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = "u-hira";
-transform = "{0.75176, 0, 0, 0.75176, -4, 3}";
+transform = "{0.75176, 0, 0, 0.75176, 14, 3}";
 }
 );
 guideLines = (
 {
-position = "{206, 598}";
+position = "{224, 598}";
 }
 );
 hints = (
@@ -20922,14 +20922,14 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 467;
+width = 477;
 }
 );
 unicode = 3045;
 },
 {
 glyphname = "u-hira";
-lastChange = "2019-11-28 20:17:35 +0000";
+lastChange = "2019-12-01 19:47:56 +0000";
 layers = (
 {
 hints = (
@@ -21003,19 +21003,19 @@ unicode = 3046;
 },
 {
 glyphname = "esmall-hira";
-lastChange = "2019-11-23 20:24:49 +0000";
+lastChange = "2019-12-01 09:41:59 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = "e-hira";
-transform = "{0.76323, 0, 0, 0.76323, -4, 0}";
+transform = "{0.76323, 0, 0, 0.76323, 6, 0}";
 }
 );
 guideLines = (
 {
-position = "{223, 538}";
+position = "{233, 538}";
 }
 );
 hints = (
@@ -21026,14 +21026,14 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 449;
+width = 459;
 }
 );
 unicode = 3047;
 },
 {
 glyphname = "e-hira";
-lastChange = "2019-11-28 10:45:52 +0000";
+lastChange = "2019-12-01 19:47:49 +0000";
 layers = (
 {
 hints = (
@@ -21122,19 +21122,19 @@ unicode = 3048;
 },
 {
 glyphname = "osmall-hira";
-lastChange = "2019-11-03 10:54:50 +0000";
+lastChange = "2019-12-01 09:41:56 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = "o-hira";
-transform = "{0.7692, 0, 0, 0.7692, -4, 0}";
+transform = "{0.7692, 0, 0, 0.7692, 13, 0}";
 }
 );
 guideLines = (
 {
-position = "{207, 598}";
+position = "{224, 598}";
 }
 );
 hints = (
@@ -21145,14 +21145,14 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 595;
+width = 629;
 }
 );
 unicode = 3049;
 },
 {
 glyphname = "o-hira";
-lastChange = "2019-11-29 09:51:35 +0000";
+lastChange = "2019-12-01 19:21:16 +0000";
 layers = (
 {
 guideLines = (
@@ -21258,7 +21258,7 @@ unicode = 304A;
 },
 {
 glyphname = "ka-hira";
-lastChange = "2019-11-29 13:56:48 +0000";
+lastChange = "2019-12-01 19:33:30 +0000";
 layers = (
 {
 hints = (
@@ -21351,7 +21351,7 @@ unicode = 304B;
 },
 {
 glyphname = "ga-hira";
-lastChange = "2019-11-29 14:01:54 +0000";
+lastChange = "2019-12-01 19:49:46 +0000";
 layers = (
 {
 components = (
@@ -21379,7 +21379,7 @@ unicode = 304C;
 },
 {
 glyphname = "ki-hira";
-lastChange = "2019-11-29 12:18:04 +0000";
+lastChange = "2019-12-01 19:21:22 +0000";
 layers = (
 {
 guideLines = (
@@ -21497,7 +21497,7 @@ unicode = 304D;
 },
 {
 glyphname = "gi-hira";
-lastChange = "2019-11-29 12:58:19 +0000";
+lastChange = "2019-12-01 19:49:51 +0000";
 layers = (
 {
 components = (
@@ -21525,7 +21525,7 @@ unicode = 304E;
 },
 {
 glyphname = "ku-hira";
-lastChange = "2019-11-29 12:18:09 +0000";
+lastChange = "2019-12-01 19:48:10 +0000";
 layers = (
 {
 hints = (
@@ -21578,7 +21578,7 @@ unicode = 304F;
 },
 {
 glyphname = "gu-hira";
-lastChange = "2019-11-29 09:40:07 +0000";
+lastChange = "2019-12-01 19:49:53 +0000";
 layers = (
 {
 components = (
@@ -21607,7 +21607,7 @@ unicode = 3050;
 },
 {
 glyphname = "ke-hira";
-lastChange = "2019-11-28 13:59:41 +0000";
+lastChange = "2019-12-01 19:33:37 +0000";
 layers = (
 {
 hints = (
@@ -21626,9 +21626,9 @@ nodes = (
 "601 70 OFFCURVE",
 "633 169 CURVE SMOOTH",
 "658 245 OFFCURVE",
-"666 364 OFFCURVE",
-"666 431 CURVE SMOOTH",
-"666 561 OFFCURVE",
+"670 364 OFFCURVE",
+"670 431 CURVE SMOOTH",
+"670 561 OFFCURVE",
 "663 699 OFFCURVE",
 "558 699 CURVE SMOOTH",
 "495 699 OFFCURVE",
@@ -21697,7 +21697,7 @@ unicode = 3051;
 },
 {
 glyphname = "ge-hira";
-lastChange = "2019-11-29 14:02:03 +0000";
+lastChange = "2019-12-01 19:49:56 +0000";
 layers = (
 {
 components = (
@@ -21725,27 +21725,27 @@ unicode = 3052;
 },
 {
 glyphname = "ko-hira";
-lastChange = "2019-11-29 14:03:16 +0000";
+lastChange = "2019-12-01 19:48:17 +0000";
 layers = (
 {
 guideLines = (
 {
 angle = 270;
-position = "{-4, 363}";
+position = "{6, 363}";
 },
 {
 angle = 270;
-position = "{578, 372}";
+position = "{588, 372}";
 },
 {
-position = "{118, 263}";
+position = "{128, 263}";
 },
 {
-position = "{145, 14}";
+position = "{155, 14}";
 },
 {
 angle = 270;
-position = "{287, 460}";
+position = "{297, 460}";
 }
 );
 hints = (
@@ -21760,51 +21760,51 @@ paths = (
 {
 closed = 1;
 nodes = (
-"414 10 OFFCURVE",
-"559 55 OFFCURVE",
-"559 164 CURVE SMOOTH",
-"559 204 OFFCURVE",
-"530 243 OFFCURVE",
-"482 243 CURVE SMOOTH",
-"424 243 OFFCURVE",
-"402 182 OFFCURVE",
-"287 182 CURVE SMOOTH",
-"176 188 OFFCURVE",
-"162 249 OFFCURVE",
-"96 249 CURVE SMOOTH",
-"51 249 OFFCURVE",
-"20 211 OFFCURVE",
-"20 171 CURVE SMOOTH",
-"20 52 OFFCURVE",
-"170 16 OFFCURVE",
-"287 10 CURVE SMOOTH"
+"434 10 OFFCURVE",
+"579 56 OFFCURVE",
+"579 166 CURVE SMOOTH",
+"579 207 OFFCURVE",
+"550 246 OFFCURVE",
+"502 246 CURVE SMOOTH",
+"444 246 OFFCURVE",
+"422 184 OFFCURVE",
+"297 184 CURVE SMOOTH",
+"176 184 OFFCURVE",
+"162 252 OFFCURVE",
+"96 252 CURVE SMOOTH",
+"51 252 OFFCURVE",
+"20 214 OFFCURVE",
+"20 173 CURVE SMOOTH",
+"20 53 OFFCURVE",
+"170 10 OFFCURVE",
+"297 10 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"524 447 OFFCURVE",
-"555 485 OFFCURVE",
-"555 525 CURVE SMOOTH",
-"555 641 OFFCURVE",
-"404 674 OFFCURVE",
-"287 674 CURVE SMOOTH",
-"178 680 OFFCURVE",
-"24 648 OFFCURVE",
-"23 532 CURVE SMOOTH",
-"23 492 OFFCURVE",
-"50 454 OFFCURVE",
-"96 454 CURVE SMOOTH",
-"161 454 OFFCURVE",
-"177 483 OFFCURVE",
-"287 477 CURVE SMOOTH",
-"402 477 OFFCURVE",
-"405 447 OFFCURVE",
-"473 447 CURVE SMOOTH"
+"544 440 OFFCURVE",
+"575 479 OFFCURVE",
+"575 521 CURVE SMOOTH",
+"575 640 OFFCURVE",
+"424 674 OFFCURVE",
+"297 674 CURVE SMOOTH",
+"178 674 OFFCURVE",
+"24 647 OFFCURVE",
+"23 528 CURVE SMOOTH",
+"23 487 OFFCURVE",
+"50 448 OFFCURVE",
+"96 448 CURVE SMOOTH",
+"161 448 OFFCURVE",
+"177 471 OFFCURVE",
+"297 471 CURVE SMOOTH",
+"432 471 OFFCURVE",
+"425 440 OFFCURVE",
+"493 440 CURVE SMOOTH"
 );
 }
 );
-width = 584;
+width = 604;
 }
 );
 leftKerningGroup = ko;
@@ -21812,7 +21812,7 @@ unicode = 3053;
 },
 {
 glyphname = "go-hira";
-lastChange = "2019-11-29 14:02:11 +0000";
+lastChange = "2019-12-01 19:35:17 +0000";
 layers = (
 {
 components = (
@@ -21845,7 +21845,7 @@ unicode = 3054;
 },
 {
 glyphname = "sa-hira";
-lastChange = "2019-11-29 13:53:51 +0000";
+lastChange = "2019-12-01 19:48:33 +0000";
 layers = (
 {
 guideLines = (
@@ -21937,7 +21937,7 @@ unicode = 3055;
 },
 {
 glyphname = "za-hira";
-lastChange = "2019-11-29 14:02:14 +0000";
+lastChange = "2019-12-01 19:23:36 +0000";
 layers = (
 {
 components = (
@@ -21965,7 +21965,7 @@ unicode = 3056;
 },
 {
 glyphname = "si-hira";
-lastChange = "2019-11-29 13:57:53 +0000";
+lastChange = "2019-12-01 19:48:36 +0000";
 layers = (
 {
 guideLines = (
@@ -22023,7 +22023,7 @@ unicode = 3057;
 },
 {
 glyphname = "zi-hira";
-lastChange = "2019-11-29 13:32:40 +0000";
+lastChange = "2019-12-01 19:50:07 +0000";
 layers = (
 {
 components = (
@@ -22051,7 +22051,7 @@ unicode = 3058;
 },
 {
 glyphname = "su-hira";
-lastChange = "2019-11-29 12:59:35 +0000";
+lastChange = "2019-12-01 11:35:58 +0000";
 layers = (
 {
 components = (
@@ -22124,7 +22124,7 @@ unicode = 3059;
 },
 {
 glyphname = "zu-hira";
-lastChange = "2019-11-29 13:09:44 +0000";
+lastChange = "2019-12-01 19:50:10 +0000";
 layers = (
 {
 components = (
@@ -22152,7 +22152,7 @@ unicode = 305A;
 },
 {
 glyphname = "se-hira";
-lastChange = "2019-11-29 13:53:28 +0000";
+lastChange = "2019-12-01 19:33:58 +0000";
 layers = (
 {
 hints = (
@@ -22167,74 +22167,74 @@ paths = (
 {
 closed = 1;
 nodes = (
-"637 5 OFFCURVE",
-"689 39 OFFCURVE",
-"689 99 CURVE SMOOTH",
-"689 151 OFFCURVE",
-"635 166 OFFCURVE",
-"590 166 CURVE SMOOTH",
-"552 166 OFFCURVE",
-"511 161 OFFCURVE",
-"459 161 CURVE SMOOTH",
-"281 161 OFFCURVE",
-"342 402 OFFCURVE",
-"342 573 CURVE SMOOTH",
-"342 634 OFFCURVE",
-"322 697 OFFCURVE",
-"250 697 CURVE SMOOTH",
-"126 697 OFFCURVE",
-"144 510 OFFCURVE",
-"144 435 CURVE SMOOTH",
-"144 334 OFFCURVE",
-"147 192 OFFCURVE",
-"208 110 CURVE SMOOTH",
-"285 7 OFFCURVE",
-"407 2 OFFCURVE",
-"544 2 CURVE SMOOTH"
+"647 5 OFFCURVE",
+"699 39 OFFCURVE",
+"699 99 CURVE SMOOTH",
+"699 151 OFFCURVE",
+"645 166 OFFCURVE",
+"600 166 CURVE SMOOTH",
+"562 166 OFFCURVE",
+"521 161 OFFCURVE",
+"469 161 CURVE SMOOTH",
+"291 161 OFFCURVE",
+"352 402 OFFCURVE",
+"352 573 CURVE SMOOTH",
+"352 634 OFFCURVE",
+"332 697 OFFCURVE",
+"260 697 CURVE SMOOTH",
+"136 697 OFFCURVE",
+"154 510 OFFCURVE",
+"154 435 CURVE SMOOTH",
+"154 334 OFFCURVE",
+"157 192 OFFCURVE",
+"218 110 CURVE SMOOTH",
+"295 7 OFFCURVE",
+"417 2 OFFCURVE",
+"554 2 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"677 364 OFFCURVE",
-"802 356 OFFCURVE",
-"802 463 CURVE SMOOTH",
-"802 570 OFFCURVE",
-"677 562 OFFCURVE",
-"404 562 CURVE SMOOTH",
-"130 562 OFFCURVE",
-"5 570 OFFCURVE",
-"5 463 CURVE SMOOTH",
-"5 356 OFFCURVE",
-"130 364 OFFCURVE",
-"404 364 CURVE SMOOTH"
+"687 364 OFFCURVE",
+"812 356 OFFCURVE",
+"812 463 CURVE SMOOTH",
+"812 570 OFFCURVE",
+"687 562 OFFCURVE",
+"414 562 CURVE SMOOTH",
+"140 562 OFFCURVE",
+"15 570 OFFCURVE",
+"15 463 CURVE SMOOTH",
+"15 356 OFFCURVE",
+"140 364 OFFCURVE",
+"414 364 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"582 217 OFFCURVE",
-"617 245 OFFCURVE",
-"629 306 CURVE SMOOTH",
-"645 389 OFFCURVE",
-"646 561 OFFCURVE",
-"646 587 CURVE SMOOTH",
-"646 651 OFFCURVE",
-"616 696 OFFCURVE",
-"557 696 CURVE SMOOTH",
-"483 696 OFFCURVE",
-"458 645 OFFCURVE",
-"458 548 CURVE SMOOTH",
-"458 511 OFFCURVE",
-"455 434 OFFCURVE",
-"455 366 CURVE SMOOTH",
-"455 283 OFFCURVE",
-"470 217 OFFCURVE",
-"539 217 CURVE SMOOTH"
+"592 217 OFFCURVE",
+"627 245 OFFCURVE",
+"639 306 CURVE SMOOTH",
+"655 389 OFFCURVE",
+"656 561 OFFCURVE",
+"656 587 CURVE SMOOTH",
+"656 651 OFFCURVE",
+"626 696 OFFCURVE",
+"567 696 CURVE SMOOTH",
+"493 696 OFFCURVE",
+"468 645 OFFCURVE",
+"468 548 CURVE SMOOTH",
+"468 511 OFFCURVE",
+"465 434 OFFCURVE",
+"465 366 CURVE SMOOTH",
+"465 283 OFFCURVE",
+"480 217 OFFCURVE",
+"549 217 CURVE SMOOTH"
 );
 }
 );
-width = 807;
+width = 827;
 }
 );
 leftKerningGroup = se;
@@ -22242,7 +22242,7 @@ unicode = 305B;
 },
 {
 glyphname = "ze-hira";
-lastChange = "2019-11-29 12:19:04 +0000";
+lastChange = "2019-12-01 19:50:12 +0000";
 layers = (
 {
 components = (
@@ -22270,7 +22270,7 @@ unicode = 305C;
 },
 {
 glyphname = "so-hira";
-lastChange = "2019-11-29 12:18:02 +0000";
+lastChange = "2019-12-01 19:22:11 +0000";
 layers = (
 {
 guideLines = (
@@ -22351,7 +22351,7 @@ unicode = 305D;
 },
 {
 glyphname = "zo-hira";
-lastChange = "2019-11-29 14:01:33 +0000";
+lastChange = "2019-12-01 19:50:16 +0000";
 layers = (
 {
 components = (
@@ -22379,7 +22379,7 @@ unicode = 305E;
 },
 {
 glyphname = "ta-hira";
-lastChange = "2019-11-29 12:56:10 +0000";
+lastChange = "2019-12-01 19:48:47 +0000";
 layers = (
 {
 guideLines = (
@@ -22508,7 +22508,7 @@ unicode = 305F;
 },
 {
 glyphname = "da-hira";
-lastChange = "2019-11-29 12:02:03 +0000";
+lastChange = "2019-12-01 19:50:23 +0000";
 layers = (
 {
 components = (
@@ -22536,7 +22536,7 @@ unicode = 3060;
 },
 {
 glyphname = "ti-hira";
-lastChange = "2019-11-29 12:58:12 +0000";
+lastChange = "2019-12-01 19:34:12 +0000";
 layers = (
 {
 hints = (
@@ -22564,15 +22564,15 @@ nodes = (
 "562 416 OFFCURVE",
 "418 416 CURVE SMOOTH",
 "385 416 OFFCURVE",
-"348 413 OFFCURVE",
-"320 409 CURVE",
-"339 472 OFFCURVE",
-"373 582 OFFCURVE",
-"373 629 CURVE SMOOTH",
-"373 684 OFFCURVE",
-"328 709 OFFCURVE",
-"293 709 CURVE SMOOTH",
-"257 709 OFFCURVE",
+"353 413 OFFCURVE",
+"325 409 CURVE",
+"344 472 OFFCURVE",
+"378 582 OFFCURVE",
+"378 629 CURVE SMOOTH",
+"378 684 OFFCURVE",
+"333 709 OFFCURVE",
+"298 709 CURVE SMOOTH",
+"262 709 OFFCURVE",
 "214 688 OFFCURVE",
 "196 628 CURVE SMOOTH",
 "169 536 OFFCURVE",
@@ -22624,7 +22624,7 @@ unicode = 3061;
 },
 {
 glyphname = "di-hira";
-lastChange = "2019-11-29 12:19:12 +0000";
+lastChange = "2019-12-01 19:50:36 +0000";
 layers = (
 {
 components = (
@@ -22644,7 +22644,7 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 716;
+width = 706;
 }
 );
 leftKerningGroup = ti;
@@ -22652,19 +22652,19 @@ unicode = 3062;
 },
 {
 glyphname = "tusmall-hira";
-lastChange = "2019-11-03 10:54:52 +0000";
+lastChange = "2019-12-01 10:39:57 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = "tu-hira";
-transform = "{0.75568, 0, 0, 0.75568, -4, 2}";
+transform = "{0.75568, 0, 0, 0.75568, 6, 2}";
 }
 );
 guideLines = (
 {
-position = "{207, 598}";
+position = "{217, 598}";
 }
 );
 hints = (
@@ -22675,14 +22675,14 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 555;
+width = 565;
 }
 );
 unicode = 3063;
 },
 {
 glyphname = "tu-hira";
-lastChange = "2019-11-29 13:56:51 +0000";
+lastChange = "2019-12-01 19:34:18 +0000";
 layers = (
 {
 hints = (
@@ -22735,7 +22735,7 @@ unicode = 3064;
 },
 {
 glyphname = "du-hira";
-lastChange = "2019-11-29 13:32:32 +0000";
+lastChange = "2019-12-01 19:24:16 +0000";
 layers = (
 {
 components = (
@@ -22763,7 +22763,7 @@ unicode = 3065;
 },
 {
 glyphname = "te-hira";
-lastChange = "2019-11-29 13:53:32 +0000";
+lastChange = "2019-12-01 19:22:27 +0000";
 layers = (
 {
 hints = (
@@ -22819,7 +22819,7 @@ unicode = 3066;
 },
 {
 glyphname = "de-hira";
-lastChange = "2019-11-28 20:24:59 +0000";
+lastChange = "2019-12-01 19:24:17 +0000";
 layers = (
 {
 components = (
@@ -22847,7 +22847,7 @@ unicode = 3067;
 },
 {
 glyphname = "to-hira";
-lastChange = "2019-11-29 14:03:05 +0000";
+lastChange = "2019-12-01 19:48:58 +0000";
 layers = (
 {
 hints = (
@@ -22920,7 +22920,7 @@ unicode = 3068;
 },
 {
 glyphname = "do-hira";
-lastChange = "2019-11-29 13:53:15 +0000";
+lastChange = "2019-12-01 19:50:46 +0000";
 layers = (
 {
 components = (
@@ -22948,7 +22948,7 @@ unicode = 3069;
 },
 {
 glyphname = "na-hira";
-lastChange = "2019-11-29 14:01:48 +0000";
+lastChange = "2019-12-01 19:01:31 +0000";
 layers = (
 {
 hints = (
@@ -23074,7 +23074,7 @@ unicode = 306A;
 },
 {
 glyphname = "ni-hira";
-lastChange = "2019-11-29 12:18:29 +0000";
+lastChange = "2019-12-01 19:22:52 +0000";
 layers = (
 {
 guideLines = (
@@ -23168,7 +23168,7 @@ unicode = 306B;
 },
 {
 glyphname = "nu-hira";
-lastChange = "2019-11-29 13:45:02 +0000";
+lastChange = "2019-12-01 19:26:17 +0000";
 layers = (
 {
 hints = (
@@ -23270,7 +23270,7 @@ unicode = 306C;
 },
 {
 glyphname = "ne-hira";
-lastChange = "2019-11-29 13:01:51 +0000";
+lastChange = "2019-12-01 19:38:40 +0000";
 layers = (
 {
 guideLines = (
@@ -23377,7 +23377,7 @@ unicode = 306D;
 },
 {
 glyphname = "no-hira";
-lastChange = "2019-11-29 12:20:47 +0000";
+lastChange = "2019-12-01 19:52:53 +0000";
 layers = (
 {
 guideLines = (
@@ -23446,7 +23446,7 @@ unicode = 306E;
 },
 {
 glyphname = "ha-hira";
-lastChange = "2019-11-29 13:58:04 +0000";
+lastChange = "2019-12-01 19:49:25 +0000";
 layers = (
 {
 guideLines = (
@@ -23553,7 +23553,7 @@ nodes = (
 );
 }
 );
-width = 821;
+width = 831;
 }
 );
 leftKerningGroup = ha;
@@ -23562,7 +23562,7 @@ unicode = 306F;
 },
 {
 glyphname = "ba-hira";
-lastChange = "2019-11-29 13:12:40 +0000";
+lastChange = "2019-12-01 19:24:21 +0000";
 layers = (
 {
 components = (
@@ -23590,7 +23590,7 @@ unicode = 3070;
 },
 {
 glyphname = "pa-hira";
-lastChange = "2019-11-29 14:02:36 +0000";
+lastChange = "2019-12-01 19:36:43 +0000";
 layers = (
 {
 components = (
@@ -23610,7 +23610,7 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 1014;
+width = 1013;
 }
 );
 leftKerningGroup = ha;
@@ -23618,7 +23618,7 @@ unicode = 3071;
 },
 {
 glyphname = "hi-hira";
-lastChange = "2019-11-29 13:58:01 +0000";
+lastChange = "2019-12-01 19:49:30 +0000";
 layers = (
 {
 guideLines = (
@@ -23642,12 +23642,12 @@ nodes = (
 "619 114 OFFCURVE",
 "628 266 CURVE",
 "665 235 OFFCURVE",
-"702 214 OFFCURVE",
-"735 214 CURVE SMOOTH",
-"776 214 OFFCURVE",
-"809 243 OFFCURVE",
-"809 292 CURVE SMOOTH",
-"809 375 OFFCURVE",
+"702 224 OFFCURVE",
+"735 224 CURVE SMOOTH",
+"776 224 OFFCURVE",
+"809 253 OFFCURVE",
+"809 302 CURVE SMOOTH",
+"809 385 OFFCURVE",
 "663 465 OFFCURVE",
 "592 465 CURVE SMOOTH",
 "518 465 OFFCURVE",
@@ -23694,7 +23694,7 @@ unicode = 3072;
 },
 {
 glyphname = "bi-hira";
-lastChange = "2019-11-29 14:01:02 +0000";
+lastChange = "2019-12-01 19:35:59 +0000";
 layers = (
 {
 components = (
@@ -23704,7 +23704,7 @@ transform = "{1, 0, 0, 1, -10, 0}";
 },
 {
 name = "voicedcomb-kana";
-transform = "{1, 0, 0, 1, 604, -198}";
+transform = "{1, 0, 0, 1, 599, -198}";
 }
 );
 hints = (
@@ -23723,7 +23723,7 @@ unicode = 3073;
 },
 {
 glyphname = "pi-hira";
-lastChange = "2019-11-29 13:52:45 +0000";
+lastChange = "2019-12-01 19:24:44 +0000";
 layers = (
 {
 components = (
@@ -23743,7 +23743,7 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 920;
+width = 919;
 }
 );
 leftKerningGroup = hi;
@@ -23751,7 +23751,7 @@ unicode = 3074;
 },
 {
 glyphname = "hu-hira";
-lastChange = "2019-11-29 13:57:58 +0000";
+lastChange = "2019-12-01 19:34:48 +0000";
 layers = (
 {
 guideLines = (
@@ -23872,7 +23872,7 @@ unicode = 3075;
 },
 {
 glyphname = "bu-hira";
-lastChange = "2019-11-29 14:01:00 +0000";
+lastChange = "2019-12-01 19:51:00 +0000";
 layers = (
 {
 components = (
@@ -23900,7 +23900,7 @@ unicode = 3076;
 },
 {
 glyphname = "pu-hira";
-lastChange = "2019-11-29 13:01:25 +0000";
+lastChange = "2019-12-01 19:36:49 +0000";
 layers = (
 {
 components = (
@@ -23928,7 +23928,7 @@ unicode = 3077;
 },
 {
 glyphname = "he-hira";
-lastChange = "2019-11-29 13:44:40 +0000";
+lastChange = "2019-12-01 19:49:36 +0000";
 layers = (
 {
 hints = (
@@ -23981,7 +23981,7 @@ unicode = 3078;
 },
 {
 glyphname = "be-hira";
-lastChange = "2019-11-29 13:39:19 +0000";
+lastChange = "2019-12-01 19:51:03 +0000";
 layers = (
 {
 components = (
@@ -24009,7 +24009,7 @@ unicode = 3079;
 },
 {
 glyphname = "pe-hira";
-lastChange = "2019-11-29 14:02:39 +0000";
+lastChange = "2019-12-01 19:24:50 +0000";
 layers = (
 {
 components = (
@@ -24037,7 +24037,7 @@ unicode = 307A;
 },
 {
 glyphname = "ho-hira";
-lastChange = "2019-11-29 13:13:47 +0000";
+lastChange = "2019-12-01 19:49:43 +0000";
 layers = (
 {
 guideLines = (
@@ -24166,7 +24166,7 @@ unicode = 307B;
 },
 {
 glyphname = "bo-hira";
-lastChange = "2019-11-29 12:59:52 +0000";
+lastChange = "2019-12-01 19:36:10 +0000";
 layers = (
 {
 components = (
@@ -24194,7 +24194,7 @@ unicode = 307C;
 },
 {
 glyphname = "po-hira";
-lastChange = "2019-11-29 12:47:45 +0000";
+lastChange = "2019-12-01 19:51:17 +0000";
 layers = (
 {
 components = (
@@ -24222,7 +24222,7 @@ unicode = 307D;
 },
 {
 glyphname = "ma-hira";
-lastChange = "2019-11-29 13:00:04 +0000";
+lastChange = "2019-12-01 19:51:23 +0000";
 layers = (
 {
 hints = (
@@ -24320,7 +24320,7 @@ unicode = 307E;
 },
 {
 glyphname = "mi-hira";
-lastChange = "2019-11-29 14:01:09 +0000";
+lastChange = "2019-12-01 19:37:04 +0000";
 layers = (
 {
 hints = (
@@ -24419,7 +24419,7 @@ unicode = 307F;
 },
 {
 glyphname = "mu-hira";
-lastChange = "2019-11-29 14:01:11 +0000";
+lastChange = "2019-12-01 19:37:12 +0000";
 layers = (
 {
 guideLines = (
@@ -24546,7 +24546,7 @@ unicode = 3080;
 },
 {
 glyphname = "me-hira";
-lastChange = "2019-11-29 13:27:39 +0000";
+lastChange = "2019-12-01 19:51:34 +0000";
 layers = (
 {
 guideLines = (
@@ -24644,7 +24644,7 @@ unicode = 3081;
 },
 {
 glyphname = "mo-hira";
-lastChange = "2019-11-29 13:57:07 +0000";
+lastChange = "2019-12-01 19:51:38 +0000";
 layers = (
 {
 guideLines = (
@@ -24746,19 +24746,19 @@ unicode = 3082;
 },
 {
 glyphname = "yasmall-hira";
-lastChange = "2019-11-27 19:27:10 +0000";
+lastChange = "2019-12-01 09:43:45 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = "ya-hira";
-transform = "{0.76683, 0, 0, 0.76683, -4, 1}";
+transform = "{0.76683, 0, 0, 0.76683, 6, 1}";
 }
 );
 guideLines = (
 {
-position = "{198, 598}";
+position = "{208, 598}";
 }
 );
 hints = (
@@ -24769,14 +24769,14 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 627;
+width = 634;
 }
 );
 unicode = 3083;
 },
 {
 glyphname = "ya-hira";
-lastChange = "2019-11-29 14:01:16 +0000";
+lastChange = "2019-12-01 19:51:45 +0000";
 layers = (
 {
 hints = (
@@ -24882,14 +24882,14 @@ unicode = 3084;
 },
 {
 glyphname = "yusmall-hira";
-lastChange = "2019-11-03 10:55:17 +0000";
+lastChange = "2019-12-01 09:43:41 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = "yu-hira";
-transform = "{0.76526, 0, 0, 0.76526, -4, 1}";
+transform = "{0.76526, 0, 0, 0.76526, 6, 1}";
 }
 );
 hints = (
@@ -24900,14 +24900,14 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 604;
+width = 614;
 }
 );
 unicode = 3085;
 },
 {
 glyphname = "yu-hira";
-lastChange = "2019-11-29 14:01:20 +0000";
+lastChange = "2019-12-01 19:37:42 +0000";
 layers = (
 {
 guideLines = (
@@ -25002,14 +25002,14 @@ unicode = 3086;
 },
 {
 glyphname = "yosmall-hira";
-lastChange = "2019-11-27 20:21:12 +0000";
+lastChange = "2019-12-01 10:28:42 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = "yo-hira";
-transform = "{0.75788, 0, 0, 0.75788, -4, 1}";
+transform = "{0.75788, 0, 0, 0.75788, 6, 1}";
 }
 );
 hints = (
@@ -25020,14 +25020,14 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 569;
+width = 579;
 }
 );
 unicode = 3087;
 },
 {
 glyphname = "yo-hira";
-lastChange = "2019-11-29 13:26:11 +0000";
+lastChange = "2019-12-01 19:52:04 +0000";
 layers = (
 {
 hints = (
@@ -25116,7 +25116,7 @@ unicode = 3088;
 },
 {
 glyphname = "ra-hira";
-lastChange = "2019-11-29 13:33:09 +0000";
+lastChange = "2019-12-01 19:37:50 +0000";
 layers = (
 {
 hints = (
@@ -25205,7 +25205,7 @@ unicode = 3089;
 },
 {
 glyphname = "ri-hira";
-lastChange = "2019-11-29 13:39:26 +0000";
+lastChange = "2019-12-01 19:52:14 +0000";
 layers = (
 {
 hints = (
@@ -25280,7 +25280,7 @@ unicode = 308A;
 },
 {
 glyphname = "ru-hira";
-lastChange = "2019-11-29 13:44:49 +0000";
+lastChange = "2019-12-01 19:00:19 +0000";
 layers = (
 {
 hints = (
@@ -25362,7 +25362,7 @@ unicode = 308B;
 },
 {
 glyphname = "re-hira";
-lastChange = "2019-11-29 13:51:16 +0000";
+lastChange = "2019-12-01 19:52:23 +0000";
 layers = (
 {
 hints = (
@@ -25446,14 +25446,14 @@ nodes = (
 );
 }
 );
-width = 781;
+width = 771;
 }
 );
 unicode = 308C;
 },
 {
 glyphname = "ro-hira";
-lastChange = "2019-11-29 13:53:44 +0000";
+lastChange = "2019-12-01 19:52:26 +0000";
 layers = (
 {
 guideLines = (
@@ -25530,14 +25530,14 @@ unicode = 308D;
 },
 {
 glyphname = "wasmall-hira";
-lastChange = "2019-11-03 10:56:06 +0000";
+lastChange = "2019-12-01 09:43:36 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = "wa-hira";
-transform = "{0.76605, 0, 0, 0.76605, -4, 0}";
+transform = "{0.76605, 0, 0, 0.76605, 14, 0}";
 }
 );
 hints = (
@@ -25548,14 +25548,14 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 561;
+width = 594;
 }
 );
 unicode = 308E;
 },
 {
 glyphname = "wa-hira";
-lastChange = "2019-11-29 12:08:23 +0000";
+lastChange = "2019-12-01 19:52:29 +0000";
 layers = (
 {
 guideLines = (
@@ -25647,7 +25647,7 @@ unicode = 308F;
 },
 {
 glyphname = "wi-hira";
-lastChange = "2019-11-29 13:54:03 +0000";
+lastChange = "2019-12-01 19:51:48 +0000";
 layers = (
 {
 guideLines = (
@@ -25748,7 +25748,7 @@ unicode = 3090;
 },
 {
 glyphname = "we-hira";
-lastChange = "2019-11-29 13:27:18 +0000";
+lastChange = "2019-12-01 19:52:01 +0000";
 layers = (
 {
 guideLines = (
@@ -25876,7 +25876,7 @@ unicode = 3091;
 },
 {
 glyphname = "wo-hira";
-lastChange = "2019-11-29 13:58:32 +0000";
+lastChange = "2019-12-01 19:52:37 +0000";
 layers = (
 {
 guideLines = (
@@ -25982,7 +25982,7 @@ unicode = 3092;
 },
 {
 glyphname = "n-hira";
-lastChange = "2019-11-29 14:03:08 +0000";
+lastChange = "2019-12-01 19:52:41 +0000";
 layers = (
 {
 guideLines = (
@@ -26053,14 +26053,14 @@ nodes = (
 );
 }
 );
-width = 685;
+width = 695;
 }
 );
 unicode = 3093;
 },
 {
 glyphname = "vu-hira";
-lastChange = "2019-11-28 10:55:42 +0000";
+lastChange = "2019-12-01 19:52:45 +0000";
 layers = (
 {
 components = (
@@ -26069,7 +26069,7 @@ name = "u-hira";
 },
 {
 name = "voicedcomb-kana";
-transform = "{1, 0, 0, 1, 543, -318}";
+transform = "{1, 0, 0, 1, 526, -305}";
 }
 );
 hints = (
@@ -26080,14 +26080,14 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 797;
+width = 780;
 }
 );
 unicode = 3094;
 },
 {
 glyphname = "digraphyori-hira";
-lastChange = "2019-11-28 10:55:49 +0000";
+lastChange = "2019-12-01 19:52:51 +0000";
 layers = (
 {
 guideLines = (
@@ -26194,19 +26194,19 @@ unicode = 309F;
 },
 {
 glyphname = "kasmall-hira";
-lastChange = "2019-11-03 10:54:51 +0000";
+lastChange = "2019-12-01 09:44:11 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = "ka-hira";
-transform = "{0.77102, 0, 0, 0.77102, -4, 1}";
+transform = "{0.77102, 0, 0, 0.77102, 13, 1}";
 }
 );
 guideLines = (
 {
-position = "{197, 598}";
+position = "{214, 598}";
 }
 );
 hints = (
@@ -26217,26 +26217,26 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 651;
+width = 684;
 }
 );
 unicode = 3095;
 },
 {
 glyphname = "kesmall-hira";
-lastChange = "2019-11-03 10:54:52 +0000";
+lastChange = "2019-12-01 09:44:14 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = "ke-hira";
-transform = "{0.76357, 0, 0, 0.76357, -4, 2}";
+transform = "{0.76357, 0, 0, 0.76357, 6, 2}";
 }
 );
 guideLines = (
 {
-position = "{197, 598}";
+position = "{207, 598}";
 }
 );
 hints = (
@@ -26247,14 +26247,14 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 639;
+width = 649;
 }
 );
 unicode = 3096;
 },
 {
 glyphname = "asmall-kata";
-lastChange = "2019-11-04 10:45:22 +0000";
+lastChange = "2019-12-01 09:41:00 +0000";
 layers = (
 {
 components = (
@@ -26270,14 +26270,14 @@ position = "{387, 536}";
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 631;
+width = 608;
 }
 );
 unicode = 30A1;
 },
 {
 glyphname = "a-kata";
-lastChange = "2019-11-29 13:47:22 +0000";
+lastChange = "2019-12-01 19:53:03 +0000";
 layers = (
 {
 guideLines = (
@@ -26379,7 +26379,7 @@ unicode = 30A3;
 },
 {
 glyphname = "i-kata";
-lastChange = "2019-11-29 13:52:36 +0000";
+lastChange = "2019-12-01 19:26:25 +0000";
 layers = (
 {
 guideLines = (
@@ -26447,7 +26447,7 @@ unicode = 30A4;
 },
 {
 glyphname = "usmall-kata";
-lastChange = "2019-11-03 10:59:09 +0000";
+lastChange = "2019-12-01 09:41:05 +0000";
 layers = (
 {
 components = (
@@ -26463,14 +26463,14 @@ position = "{157, 602}";
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 564;
+width = 587;
 }
 );
 unicode = 30A5;
 },
 {
 glyphname = "u-kata";
-lastChange = "2019-11-29 13:47:20 +0000";
+lastChange = "2019-12-01 19:52:58 +0000";
 layers = (
 {
 guideLines = (
@@ -26491,20 +26491,20 @@ paths = (
 closed = 1;
 nodes = (
 "592 3 OFFCURVE",
-"726 182 OFFCURVE",
-"726 387 CURVE SMOOTH",
-"726 581 OFFCURVE",
-"608 615 OFFCURVE",
-"373 615 CURVE SMOOTH",
-"161 615 OFFCURVE",
-"25 586 OFFCURVE",
-"25 404 CURVE SMOOTH",
-"25 276 OFFCURVE",
-"62 199 OFFCURVE",
-"145 199 CURVE SMOOTH",
-"245 199 OFFCURVE",
-"233 309 OFFCURVE",
-"233 400 CURVE",
+"736 182 OFFCURVE",
+"736 387 CURVE SMOOTH",
+"736 602 OFFCURVE",
+"646 620 OFFCURVE",
+"381 620 CURVE SMOOTH",
+"116 620 OFFCURVE",
+"25 602 OFFCURVE",
+"25 387 CURVE SMOOTH",
+"25 259 OFFCURVE",
+"78 187 OFFCURVE",
+"160 199 CURVE SMOOTH",
+"250 212 OFFCURVE",
+"248 309 OFFCURVE",
+"248 400 CURVE",
 "520 400 LINE",
 "520 309 OFFCURVE",
 "515 212 OFFCURVE",
@@ -26520,22 +26520,22 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"466 461 OFFCURVE",
-"480 515 OFFCURVE",
-"480 599 CURVE SMOOTH",
-"480 662 OFFCURVE",
-"473 731 OFFCURVE",
-"378 731 CURVE SMOOTH",
-"288 731 OFFCURVE",
-"278 662 OFFCURVE",
-"278 599 CURVE SMOOTH",
-"278 517 OFFCURVE",
-"291 461 OFFCURVE",
-"378 461 CURVE SMOOTH"
+"478 451 OFFCURVE",
+"493 495 OFFCURVE",
+"493 579 CURVE SMOOTH",
+"493 642 OFFCURVE",
+"496 731 OFFCURVE",
+"383 731 CURVE SMOOTH",
+"275 731 OFFCURVE",
+"275 642 OFFCURVE",
+"275 579 CURVE SMOOTH",
+"275 497 OFFCURVE",
+"289 451 OFFCURVE",
+"383 451 CURVE SMOOTH"
 );
 }
 );
-width = 751;
+width = 761;
 }
 );
 unicode = 30A6;
@@ -26565,7 +26565,7 @@ unicode = 30A7;
 },
 {
 glyphname = "e-kata";
-lastChange = "2019-11-29 12:17:38 +0000";
+lastChange = "2019-12-01 19:39:07 +0000";
 layers = (
 {
 guideLines = (
@@ -26649,30 +26649,30 @@ unicode = 30A8;
 },
 {
 glyphname = "osmall-kata";
-lastChange = "2019-11-03 10:59:09 +0000";
+lastChange = "2019-12-01 09:41:15 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = "o-kata";
-transform = "{0.75937, 0, 0, 0.75937, 6, 0}";
+transform = "{0.75937, 0, 0, 0.75937, 14, 0}";
 }
 );
 guideLines = (
 {
-position = "{-230, 602}";
+position = "{-222, 602}";
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 594;
+width = 625;
 }
 );
 unicode = 30A9;
 },
 {
 glyphname = "o-kata";
-lastChange = "2019-11-29 14:00:26 +0000";
+lastChange = "2019-12-01 19:39:04 +0000";
 layers = (
 {
 guideLines = (
@@ -26760,7 +26760,7 @@ unicode = 30AA;
 },
 {
 glyphname = "ka-kata";
-lastChange = "2019-11-29 14:00:23 +0000";
+lastChange = "2019-12-01 19:53:31 +0000";
 layers = (
 {
 guideLines = (
@@ -26839,15 +26839,15 @@ nodes = (
 );
 }
 );
-width = 732;
+width = 731;
 }
 );
-leftKerningGroup = "ka-kana";
+leftKerningGroup = "ka-kata";
 unicode = 30AB;
 },
 {
 glyphname = "ga-kata";
-lastChange = "2019-11-29 13:40:44 +0000";
+lastChange = "2019-12-01 19:42:24 +0000";
 layers = (
 {
 components = (
@@ -26870,12 +26870,12 @@ layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
 width = 745;
 }
 );
-leftKerningGroup = "ka-kana";
+leftKerningGroup = "ka-kata";
 unicode = 30AC;
 },
 {
 glyphname = "ki-kata";
-lastChange = "2019-11-29 14:00:22 +0000";
+lastChange = "2019-12-01 19:41:13 +0000";
 layers = (
 {
 guideLines = (
@@ -26953,12 +26953,12 @@ nodes = (
 width = 735;
 }
 );
-leftKerningGroup = "ki-kana";
+leftKerningGroup = "ki-kata";
 unicode = 30AD;
 },
 {
 glyphname = "gi-kata";
-lastChange = "2019-11-29 13:55:37 +0000";
+lastChange = "2019-12-01 19:54:11 +0000";
 layers = (
 {
 components = (
@@ -26974,12 +26974,12 @@ layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
 width = 724;
 }
 );
-leftKerningGroup = "ki-kana";
+leftKerningGroup = "ki-kata";
 unicode = 30AE;
 },
 {
 glyphname = "ku-kata";
-lastChange = "2019-11-29 13:47:35 +0000";
+lastChange = "2019-12-01 19:39:24 +0000";
 layers = (
 {
 hints = (
@@ -27039,7 +27039,7 @@ unicode = 30AF;
 },
 {
 glyphname = "gu-kata";
-lastChange = "2019-11-29 14:00:10 +0000";
+lastChange = "2019-12-01 19:54:16 +0000";
 layers = (
 {
 components = (
@@ -27048,11 +27048,11 @@ name = "ku-kata";
 },
 {
 name = "voicedcomb-kana";
-transform = "{1, 0, 0, 1, 580, 21}";
+transform = "{1, 0, 0, 1, 570, 21}";
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 764;
+width = 754;
 }
 );
 leftKerningGroup = "ku-kana";
@@ -27060,7 +27060,7 @@ unicode = 30B0;
 },
 {
 glyphname = "ke-kata";
-lastChange = "2019-11-29 13:41:17 +0000";
+lastChange = "2019-12-01 19:39:27 +0000";
 layers = (
 {
 hints = (
@@ -27075,68 +27075,68 @@ paths = (
 {
 closed = 1;
 nodes = (
-"364 -15 OFFCURVE",
-"510 43 OFFCURVE",
-"570 136 CURVE SMOOTH",
-"627 225 OFFCURVE",
-"632 297 OFFCURVE",
-"629 393 CURVE SMOOTH",
-"626 516 OFFCURVE",
-"424 497 OFFCURVE",
-"424 421 CURVE SMOOTH",
-"424 306 OFFCURVE",
-"411 215 OFFCURVE",
-"323 161 CURVE SMOOTH",
-"283 136 OFFCURVE",
-"243 121 OFFCURVE",
-"243 78 CURVE SMOOTH",
-"243 41 OFFCURVE",
-"262 17 OFFCURVE",
-"296 7 CURVE SMOOTH"
+"365 -15 OFFCURVE",
+"511 43 OFFCURVE",
+"571 136 CURVE SMOOTH",
+"628 225 OFFCURVE",
+"633 297 OFFCURVE",
+"630 393 CURVE SMOOTH",
+"627 516 OFFCURVE",
+"425 497 OFFCURVE",
+"425 421 CURVE SMOOTH",
+"425 306 OFFCURVE",
+"412 215 OFFCURVE",
+"324 161 CURVE SMOOTH",
+"284 136 OFFCURVE",
+"244 121 OFFCURVE",
+"244 78 CURVE SMOOTH",
+"244 41 OFFCURVE",
+"263 17 OFFCURVE",
+"297 7 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"275 314 OFFCURVE",
-"332 457 OFFCURVE",
-"332 579 CURVE SMOOTH",
-"332 685 OFFCURVE",
-"292 733 OFFCURVE",
-"220 733 CURVE SMOOTH",
-"150 733 OFFCURVE",
-"103 690 OFFCURVE",
-"99 617 CURVE SMOOTH",
-"94 523 OFFCURVE",
-"99 456 OFFCURVE",
-"68 394 CURVE SMOOTH",
-"47 352 OFFCURVE",
-"18 318 OFFCURVE",
-"26 270 CURVE SMOOTH",
-"36 207 OFFCURVE",
-"123 173 OFFCURVE",
-"204 243 CURVE SMOOTH"
+"281 299 OFFCURVE",
+"323 457 OFFCURVE",
+"323 579 CURVE SMOOTH",
+"323 685 OFFCURVE",
+"283 733 OFFCURVE",
+"211 733 CURVE SMOOTH",
+"141 733 OFFCURVE",
+"94 690 OFFCURVE",
+"90 617 CURVE SMOOTH",
+"85 523 OFFCURVE",
+"90 456 OFFCURVE",
+"59 394 CURVE SMOOTH",
+"38 352 OFFCURVE",
+"19 308 OFFCURVE",
+"27 260 CURVE SMOOTH",
+"37 197 OFFCURVE",
+"124 163 OFFCURVE",
+"205 233 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"662 377 OFFCURVE",
-"765 377 OFFCURVE",
-"765 480 CURVE SMOOTH",
-"765 581 OFFCURVE",
-"662 581 OFFCURVE",
-"445 581 CURVE SMOOTH",
-"239 581 OFFCURVE",
-"125 581 OFFCURVE",
-"125 480 CURVE SMOOTH",
-"125 377 OFFCURVE",
-"239 377 OFFCURVE",
-"445 377 CURVE SMOOTH"
+"663 377 OFFCURVE",
+"766 377 OFFCURVE",
+"766 480 CURVE SMOOTH",
+"766 581 OFFCURVE",
+"663 581 OFFCURVE",
+"446 581 CURVE SMOOTH",
+"240 581 OFFCURVE",
+"126 581 OFFCURVE",
+"126 480 CURVE SMOOTH",
+"126 377 OFFCURVE",
+"240 377 OFFCURVE",
+"446 377 CURVE SMOOTH"
 );
 }
 );
-width = 789;
+width = 791;
 }
 );
 leftKerningGroup = "ke-kana";
@@ -27144,7 +27144,7 @@ unicode = 30B1;
 },
 {
 glyphname = "ge-kata";
-lastChange = "2019-11-29 13:56:33 +0000";
+lastChange = "2019-12-01 19:56:12 +0000";
 layers = (
 {
 components = (
@@ -27178,7 +27178,7 @@ unicode = 30B2;
 },
 {
 glyphname = "ko-kata";
-lastChange = "2019-11-29 13:49:52 +0000";
+lastChange = "2019-12-01 19:39:31 +0000";
 layers = (
 {
 hints = (
@@ -27236,7 +27236,7 @@ nodes = (
 );
 }
 );
-width = 700;
+width = 699;
 }
 );
 leftKerningGroup = "ko-kana";
@@ -27244,7 +27244,7 @@ unicode = 30B3;
 },
 {
 glyphname = "go-kata";
-lastChange = "2019-11-29 14:00:14 +0000";
+lastChange = "2019-12-01 19:42:49 +0000";
 layers = (
 {
 components = (
@@ -27272,7 +27272,7 @@ unicode = 30B4;
 },
 {
 glyphname = "sa-kata";
-lastChange = "2019-11-29 13:56:20 +0000";
+lastChange = "2019-12-01 19:39:36 +0000";
 layers = (
 {
 guideLines = (
@@ -27367,7 +27367,7 @@ unicode = 30B5;
 },
 {
 glyphname = "za-kata";
-lastChange = "2019-11-29 14:00:01 +0000";
+lastChange = "2019-12-01 19:42:53 +0000";
 layers = (
 {
 components = (
@@ -27377,11 +27377,11 @@ name = "sa-kata";
 },
 {
 name = "voicedcomb-kana";
-transform = "{1, 0, 0, 1, 701, -48}";
+transform = "{1, 0, 0, 1, 691, -48}";
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 913;
+width = 903;
 }
 );
 leftKerningGroup = "sa-kata";
@@ -27389,7 +27389,7 @@ unicode = 30B6;
 },
 {
 glyphname = "si-kata";
-lastChange = "2019-11-29 14:00:30 +0000";
+lastChange = "2019-12-01 19:39:49 +0000";
 layers = (
 {
 guideLines = (
@@ -27472,7 +27472,7 @@ unicode = 30B7;
 },
 {
 glyphname = "zi-kata";
-lastChange = "2019-11-29 10:39:24 +0000";
+lastChange = "2019-12-01 19:42:55 +0000";
 layers = (
 {
 components = (
@@ -27493,7 +27493,7 @@ unicode = 30B8;
 },
 {
 glyphname = "su-kata";
-lastChange = "2019-11-29 13:41:27 +0000";
+lastChange = "2019-12-01 19:39:52 +0000";
 layers = (
 {
 guideLines = (
@@ -27516,27 +27516,27 @@ paths = (
 {
 closed = 1;
 nodes = (
-"345 2 OFFCURVE",
-"631 286 OFFCURVE",
-"631 461 CURVE SMOOTH",
-"631 646 OFFCURVE",
-"496 677 OFFCURVE",
-"289 677 CURVE SMOOTH",
-"177 677 OFFCURVE",
+"335 2 OFFCURVE",
+"641 286 OFFCURVE",
+"641 461 CURVE SMOOTH",
+"641 646 OFFCURVE",
+"506 677 OFFCURVE",
+"299 677 CURVE SMOOTH",
+"187 677 OFFCURVE",
 "25 658 OFFCURVE",
 "25 545 CURVE SMOOTH",
 "25 418 OFFCURVE",
-"221 446 OFFCURVE",
-"394 446 CURVE",
-"327 268 OFFCURVE",
-"203 205 OFFCURVE",
-"105 147 CURVE SMOOTH",
-"72 128 OFFCURVE",
-"58 98 OFFCURVE",
-"58 75 CURVE SMOOTH",
-"58 34 OFFCURVE",
-"90 2 OFFCURVE",
-"147 2 CURVE SMOOTH"
+"231 446 OFFCURVE",
+"404 446 CURVE",
+"337 268 OFFCURVE",
+"184 208 OFFCURVE",
+"85 151 CURVE SMOOTH",
+"52 132 OFFCURVE",
+"38 102 OFFCURVE",
+"38 75 CURVE SMOOTH",
+"38 34 OFFCURVE",
+"70 2 OFFCURVE",
+"127 2 CURVE SMOOTH"
 );
 },
 {
@@ -27555,14 +27555,14 @@ nodes = (
 );
 }
 );
-width = 688;
+width = 678;
 }
 );
 unicode = 30B9;
 },
 {
 glyphname = "zu-kata";
-lastChange = "2019-11-29 12:03:54 +0000";
+lastChange = "2019-12-01 19:29:42 +0000";
 layers = (
 {
 components = (
@@ -27583,7 +27583,7 @@ unicode = 30BA;
 },
 {
 glyphname = "se-kata";
-lastChange = "2019-11-29 14:00:31 +0000";
+lastChange = "2019-12-01 19:39:55 +0000";
 layers = (
 {
 guideLines = (
@@ -27661,7 +27661,7 @@ unicode = 30BB;
 },
 {
 glyphname = "ze-kata";
-lastChange = "2019-11-29 13:52:10 +0000";
+lastChange = "2019-12-01 19:43:01 +0000";
 layers = (
 {
 components = (
@@ -27682,7 +27682,7 @@ unicode = 30BC;
 },
 {
 glyphname = "so-kata";
-lastChange = "2019-11-29 13:41:32 +0000";
+lastChange = "2019-12-01 19:39:59 +0000";
 layers = (
 {
 guideLines = (
@@ -27753,7 +27753,7 @@ unicode = 30BD;
 },
 {
 glyphname = "zo-kata";
-lastChange = "2019-11-29 13:48:38 +0000";
+lastChange = "2019-12-01 19:55:00 +0000";
 layers = (
 {
 components = (
@@ -27781,12 +27781,12 @@ unicode = 30BE;
 },
 {
 glyphname = "ta-kata";
-lastChange = "2019-11-29 13:47:45 +0000";
+lastChange = "2019-12-01 19:40:04 +0000";
 layers = (
 {
 guideLines = (
 {
-position = "{331, 0}";
+position = "{341, 0}";
 }
 );
 hints = (
@@ -27801,67 +27801,67 @@ paths = (
 {
 closed = 1;
 nodes = (
-"393 0 OFFCURVE",
-"710 124 OFFCURVE",
-"710 490 CURVE SMOOTH",
-"710 633 OFFCURVE",
-"663 683 OFFCURVE",
-"575 699 CURVE SMOOTH",
-"510 708 OFFCURVE",
-"367 706 OFFCURVE",
-"342 705 CURVE SMOOTH",
-"277 702 OFFCURVE",
-"224 695 OFFCURVE",
-"179 641 CURVE SMOOTH",
-"149 605 OFFCURVE",
-"107 529 OFFCURVE",
-"67 454 CURVE SMOOTH",
-"36 397 OFFCURVE",
-"15 366 OFFCURVE",
-"15 321 CURVE SMOOTH",
-"15 273 OFFCURVE",
-"44 244 OFFCURVE",
-"97 244 CURVE SMOOTH",
-"178 244 OFFCURVE",
-"275 366 OFFCURVE",
-"333 500 CURVE",
-"494 500 LINE",
-"487 348 OFFCURVE",
-"410 225 OFFCURVE",
-"254 183 CURVE SMOOTH",
-"171 160 OFFCURVE",
-"128 124 OFFCURVE",
-"138 67 CURVE SMOOTH",
-"146 14 OFFCURVE",
-"198 3 OFFCURVE",
-"260 2 CURVE SMOOTH"
+"403 0 OFFCURVE",
+"720 124 OFFCURVE",
+"720 490 CURVE SMOOTH",
+"720 633 OFFCURVE",
+"673 683 OFFCURVE",
+"585 699 CURVE SMOOTH",
+"520 708 OFFCURVE",
+"377 706 OFFCURVE",
+"352 705 CURVE SMOOTH",
+"287 702 OFFCURVE",
+"234 695 OFFCURVE",
+"189 641 CURVE SMOOTH",
+"159 605 OFFCURVE",
+"117 529 OFFCURVE",
+"77 454 CURVE SMOOTH",
+"46 397 OFFCURVE",
+"25 366 OFFCURVE",
+"25 321 CURVE SMOOTH",
+"25 273 OFFCURVE",
+"54 244 OFFCURVE",
+"107 244 CURVE SMOOTH",
+"188 244 OFFCURVE",
+"285 366 OFFCURVE",
+"343 500 CURVE",
+"504 500 LINE",
+"497 348 OFFCURVE",
+"420 225 OFFCURVE",
+"264 183 CURVE SMOOTH",
+"181 160 OFFCURVE",
+"138 124 OFFCURVE",
+"148 67 CURVE SMOOTH",
+"156 14 OFFCURVE",
+"208 3 OFFCURVE",
+"270 2 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"460 188 OFFCURVE",
-"512 205 OFFCURVE",
-"512 272 CURVE SMOOTH",
-"512 303 OFFCURVE",
-"484 321 OFFCURVE",
-"476 327 CURVE SMOOTH",
-"437 351 OFFCURVE",
-"262 466 OFFCURVE",
-"228 466 CURVE SMOOTH",
-"172 466 OFFCURVE",
-"143 436 OFFCURVE",
-"143 399 CURVE SMOOTH",
-"143 374 OFFCURVE",
-"149 345 OFFCURVE",
-"177 326 CURVE SMOOTH",
-"270 258 OFFCURVE",
-"393 188 OFFCURVE",
-"426 188 CURVE SMOOTH"
+"470 188 OFFCURVE",
+"522 205 OFFCURVE",
+"522 272 CURVE SMOOTH",
+"522 303 OFFCURVE",
+"494 321 OFFCURVE",
+"486 327 CURVE SMOOTH",
+"447 351 OFFCURVE",
+"272 466 OFFCURVE",
+"238 466 CURVE SMOOTH",
+"182 466 OFFCURVE",
+"153 436 OFFCURVE",
+"153 399 CURVE SMOOTH",
+"153 374 OFFCURVE",
+"159 345 OFFCURVE",
+"187 326 CURVE SMOOTH",
+"280 258 OFFCURVE",
+"403 188 OFFCURVE",
+"436 188 CURVE SMOOTH"
 );
 }
 );
-width = 735;
+width = 745;
 }
 );
 leftKerningGroup = "ta-kata";
@@ -27869,7 +27869,7 @@ unicode = 30BF;
 },
 {
 glyphname = "da-kata";
-lastChange = "2019-11-29 13:28:21 +0000";
+lastChange = "2019-12-01 19:43:08 +0000";
 layers = (
 {
 components = (
@@ -27891,7 +27891,7 @@ unicode = 30C0;
 },
 {
 glyphname = "ti-kata";
-lastChange = "2019-11-29 13:29:21 +0000";
+lastChange = "2019-12-01 19:40:07 +0000";
 layers = (
 {
 guideLines = (
@@ -27980,7 +27980,7 @@ unicode = 30C1;
 },
 {
 glyphname = "di-kata";
-lastChange = "2019-11-29 14:07:21 +0000";
+lastChange = "2019-12-01 19:43:10 +0000";
 layers = (
 {
 components = (
@@ -27989,7 +27989,7 @@ name = "ti-kata";
 },
 {
 name = "voicedcomb-kana";
-transform = "{1, 0, 0, 1, 634, -311}";
+transform = "{1, 0, 0, 1, 631, -311}";
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
@@ -28001,7 +28001,7 @@ unicode = 30C2;
 },
 {
 glyphname = "tusmall-kata";
-lastChange = "2019-11-03 10:59:09 +0000";
+lastChange = "2019-12-01 09:40:38 +0000";
 layers = (
 {
 components = (
@@ -28017,14 +28017,14 @@ position = "{-24, 602}";
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 662;
+width = 641;
 }
 );
 unicode = 30C3;
 },
 {
 glyphname = "tu-kata";
-lastChange = "2019-11-29 13:20:13 +0000";
+lastChange = "2019-12-01 19:27:43 +0000";
 layers = (
 {
 hints = (
@@ -28102,7 +28102,7 @@ unicode = 30C4;
 },
 {
 glyphname = "du-kata";
-lastChange = "2019-11-29 13:16:54 +0000";
+lastChange = "2019-12-01 19:43:12 +0000";
 layers = (
 {
 components = (
@@ -28130,7 +28130,7 @@ unicode = 30C5;
 },
 {
 glyphname = "te-kata";
-lastChange = "2019-11-29 13:29:24 +0000";
+lastChange = "2019-12-01 19:41:28 +0000";
 layers = (
 {
 hints = (
@@ -28232,7 +28232,7 @@ unicode = 30C6;
 },
 {
 glyphname = "de-kata";
-lastChange = "2019-11-28 20:28:01 +0000";
+lastChange = "2019-12-01 19:43:19 +0000";
 layers = (
 {
 components = (
@@ -28260,7 +28260,7 @@ unicode = 30C7;
 },
 {
 glyphname = "to-kata";
-lastChange = "2019-11-29 13:19:02 +0000";
+lastChange = "2019-12-01 19:41:30 +0000";
 layers = (
 {
 hints = (
@@ -28333,7 +28333,7 @@ unicode = 30C8;
 },
 {
 glyphname = "do-kata";
-lastChange = "2019-11-29 11:50:22 +0000";
+lastChange = "2019-12-01 19:43:22 +0000";
 layers = (
 {
 components = (
@@ -28361,7 +28361,7 @@ unicode = 30C9;
 },
 {
 glyphname = "na-kata";
-lastChange = "2019-11-29 13:59:14 +0000";
+lastChange = "2019-12-01 19:54:08 +0000";
 layers = (
 {
 hints = (
@@ -28427,7 +28427,7 @@ unicode = 30CA;
 },
 {
 glyphname = "ni-kata";
-lastChange = "2019-11-29 13:56:29 +0000";
+lastChange = "2019-12-01 19:21:03 +0000";
 layers = (
 {
 guideLines = (
@@ -28510,7 +28510,7 @@ unicode = 30CB;
 },
 {
 glyphname = "nu-kata";
-lastChange = "2019-11-29 13:21:46 +0000";
+lastChange = "2019-12-01 19:32:59 +0000";
 layers = (
 {
 hints = (
@@ -28585,7 +28585,7 @@ unicode = 30CC;
 },
 {
 glyphname = "ne-kata";
-lastChange = "2019-11-29 12:24:57 +0000";
+lastChange = "2019-12-01 19:47:31 +0000";
 layers = (
 {
 guideLines = (
@@ -28645,23 +28645,17 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"386 1 OFFCURVE",
-"416 33 OFFCURVE",
-"422 68 CURVE SMOOTH",
-"425 87 OFFCURVE",
-"426 147 OFFCURVE",
-"426 181 CURVE SMOOTH",
-"426 231 OFFCURVE",
-"382 256 OFFCURVE",
+"437 1 OFFCURVE",
+"425 86 OFFCURVE",
+"425 181 CURVE SMOOTH",
+"425 231 OFFCURVE",
+"381 256 OFFCURVE",
 "336 256 CURVE SMOOTH",
 "249 256 OFFCURVE",
 "242 202 OFFCURVE",
 "242 119 CURVE SMOOTH",
-"242 98 OFFCURVE",
-"243 81 OFFCURVE",
-"245 68 CURVE SMOOTH",
-"251 33 OFFCURVE",
-"288 1 OFFCURVE",
+"242 61 OFFCURVE",
+"254 1 OFFCURVE",
 "334 1 CURVE SMOOTH"
 );
 },
@@ -28719,7 +28713,7 @@ unicode = 30CD;
 },
 {
 glyphname = "no-kata";
-lastChange = "2019-11-29 14:00:37 +0000";
+lastChange = "2019-12-01 19:56:21 +0000";
 layers = (
 {
 hints = (
@@ -28762,7 +28756,7 @@ unicode = 30CE;
 },
 {
 glyphname = "ha-kata";
-lastChange = "2019-11-29 14:00:05 +0000";
+lastChange = "2019-12-01 19:42:06 +0000";
 layers = (
 {
 hints = (
@@ -28828,7 +28822,7 @@ unicode = 30CF;
 },
 {
 glyphname = "ba-kata";
-lastChange = "2019-11-29 12:05:02 +0000";
+lastChange = "2019-12-01 19:30:13 +0000";
 layers = (
 {
 components = (
@@ -28861,7 +28855,7 @@ unicode = 30D0;
 },
 {
 glyphname = "pa-kata";
-lastChange = "2019-11-29 13:43:15 +0000";
+lastChange = "2019-12-01 19:54:45 +0000";
 layers = (
 {
 components = (
@@ -28894,7 +28888,7 @@ unicode = 30D1;
 },
 {
 glyphname = "hi-kata";
-lastChange = "2019-11-29 14:03:21 +0000";
+lastChange = "2019-12-01 19:54:53 +0000";
 layers = (
 {
 hints = (
@@ -28975,7 +28969,7 @@ unicode = 30D2;
 },
 {
 glyphname = "bi-kata";
-lastChange = "2019-11-29 13:20:31 +0000";
+lastChange = "2019-12-01 19:30:16 +0000";
 layers = (
 {
 components = (
@@ -29008,7 +29002,7 @@ unicode = 30D3;
 },
 {
 glyphname = "pi-kata";
-lastChange = "2019-11-29 13:16:57 +0000";
+lastChange = "2019-12-01 19:43:46 +0000";
 layers = (
 {
 components = (
@@ -29041,7 +29035,7 @@ unicode = 30D4;
 },
 {
 glyphname = "hu-kata";
-lastChange = "2019-11-29 13:48:13 +0000";
+lastChange = "2019-12-01 19:54:58 +0000";
 layers = (
 {
 hints = (
@@ -29096,7 +29090,7 @@ unicode = 30D5;
 },
 {
 glyphname = "bu-kata";
-lastChange = "2019-11-29 13:43:43 +0000";
+lastChange = "2019-12-01 19:43:33 +0000";
 layers = (
 {
 components = (
@@ -29121,7 +29115,7 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 819;
+width = 809;
 }
 );
 leftKerningGroup = "hu-kata";
@@ -29129,7 +29123,7 @@ unicode = 30D6;
 },
 {
 glyphname = "pu-kata";
-lastChange = "2019-11-29 13:16:46 +0000";
+lastChange = "2019-12-01 19:54:50 +0000";
 layers = (
 {
 components = (
@@ -29157,7 +29151,7 @@ unicode = 30D7;
 },
 {
 glyphname = "he-kata";
-lastChange = "2019-11-29 13:52:08 +0000";
+lastChange = "2019-12-01 19:17:04 +0000";
 layers = (
 {
 hints = (
@@ -29207,7 +29201,7 @@ nodes = (
 );
 }
 );
-width = 891;
+width = 881;
 }
 );
 leftKerningGroup = "he-kata";
@@ -29215,7 +29209,7 @@ unicode = 30D8;
 },
 {
 glyphname = "be-kata";
-lastChange = "2019-11-29 13:52:13 +0000";
+lastChange = "2019-12-01 19:43:38 +0000";
 layers = (
 {
 components = (
@@ -29248,7 +29242,7 @@ unicode = 30D9;
 },
 {
 glyphname = "pe-kata";
-lastChange = "2019-11-29 10:42:10 +0000";
+lastChange = "2019-12-01 19:30:45 +0000";
 layers = (
 {
 components = (
@@ -29281,7 +29275,7 @@ unicode = 30DA;
 },
 {
 glyphname = "ho-kata";
-lastChange = "2019-11-29 12:06:59 +0000";
+lastChange = "2019-12-01 19:42:20 +0000";
 layers = (
 {
 hints = (
@@ -29399,7 +29393,7 @@ unicode = 30DB;
 },
 {
 glyphname = "bo-kata";
-lastChange = "2019-11-29 13:19:10 +0000";
+lastChange = "2019-12-01 19:43:41 +0000";
 layers = (
 {
 components = (
@@ -29427,7 +29421,7 @@ unicode = 30DC;
 },
 {
 glyphname = "po-kata";
-lastChange = "2019-11-29 11:32:28 +0000";
+lastChange = "2019-12-01 19:19:13 +0000";
 layers = (
 {
 components = (
@@ -29455,7 +29449,7 @@ unicode = 30DD;
 },
 {
 glyphname = "ma-kata";
-lastChange = "2019-11-29 13:55:53 +0000";
+lastChange = "2019-12-01 19:44:05 +0000";
 layers = (
 {
 hints = (
@@ -29523,7 +29517,7 @@ unicode = 30DE;
 },
 {
 glyphname = "mi-kata";
-lastChange = "2019-11-29 13:34:15 +0000";
+lastChange = "2019-12-01 19:44:07 +0000";
 layers = (
 {
 hints = (
@@ -29617,7 +29611,7 @@ unicode = 30DF;
 },
 {
 glyphname = "mu-kata";
-lastChange = "2019-11-29 13:23:16 +0000";
+lastChange = "2019-12-01 19:32:18 +0000";
 layers = (
 {
 hints = (
@@ -29647,13 +29641,13 @@ nodes = (
 "391 224 OFFCURVE",
 "260 212 CURVE",
 "309 279 OFFCURVE",
-"497 475 OFFCURVE",
-"497 586 CURVE SMOOTH",
-"497 655 OFFCURVE",
-"455 702 OFFCURVE",
+"495 475 OFFCURVE",
+"495 586 CURVE SMOOTH",
+"495 655 OFFCURVE",
+"453 702 OFFCURVE",
 "374 702 CURVE SMOOTH",
-"237 702 OFFCURVE",
-"25 373 OFFCURVE",
+"235 702 OFFCURVE",
+"25 340 OFFCURVE",
 "25 211 CURVE SMOOTH",
 "25 88 OFFCURVE",
 "85 30 OFFCURVE",
@@ -29685,7 +29679,7 @@ unicode = 30E0;
 },
 {
 glyphname = "me-kata";
-lastChange = "2019-11-29 13:31:11 +0000";
+lastChange = "2019-12-01 19:55:58 +0000";
 layers = (
 {
 hints = (
@@ -29705,55 +29699,55 @@ paths = (
 {
 closed = 1;
 nodes = (
-"309 0 OFFCURVE",
-"715 392 OFFCURVE",
-"715 572 CURVE SMOOTH",
-"715 657 OFFCURVE",
-"663 701 OFFCURVE",
+"299 0 OFFCURVE",
+"705 402 OFFCURVE",
+"705 582 CURVE SMOOTH",
+"705 662 OFFCURVE",
+"661 701 OFFCURVE",
 "593 701 CURVE SMOOTH",
-"465 701 OFFCURVE",
-"428 483 OFFCURVE",
-"258 321 CURVE SMOOTH",
-"144 212 OFFCURVE",
-"25 173 OFFCURVE",
-"25 90 CURVE SMOOTH",
-"25 37 OFFCURVE",
-"68 0 OFFCURVE",
-"136 0 CURVE SMOOTH"
+"475 701 OFFCURVE",
+"418 473 OFFCURVE",
+"248 311 CURVE SMOOTH",
+"134 202 OFFCURVE",
+"25 163 OFFCURVE",
+"25 80 CURVE",
+"25 27 OFFCURVE",
+"58 0 OFFCURVE",
+"126 0 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"668 13 OFFCURVE",
-"691 59 OFFCURVE",
-"691 99 CURVE SMOOTH",
-"691 162 OFFCURVE",
-"605 274 OFFCURVE",
-"460 422 CURVE SMOOTH",
-"390 493 OFFCURVE",
-"266 618 OFFCURVE",
-"189 618 CURVE SMOOTH",
-"113 618 OFFCURVE",
-"71 572 OFFCURVE",
-"71 508 CURVE SMOOTH",
-"71 419 OFFCURVE",
-"204 313 OFFCURVE",
-"315 209 CURVE SMOOTH",
-"423 107 OFFCURVE",
+"663 13 OFFCURVE",
+"681 59 OFFCURVE",
+"681 99 CURVE SMOOTH",
+"681 162 OFFCURVE",
+"595 270 OFFCURVE",
+"450 418 CURVE SMOOTH",
+"380 489 OFFCURVE",
+"256 614 OFFCURVE",
+"179 614 CURVE SMOOTH",
+"103 614 OFFCURVE",
+"61 577 OFFCURVE",
+"61 513 CURVE SMOOTH",
+"61 424 OFFCURVE",
+"194 318 OFFCURVE",
+"305 214 CURVE SMOOTH",
+"413 112 OFFCURVE",
 "527 13 OFFCURVE",
 "601 13 CURVE SMOOTH"
 );
 }
 );
-width = 740;
+width = 730;
 }
 );
 unicode = 30E1;
 },
 {
 glyphname = "mo-kata";
-lastChange = "2019-11-10 11:32:00 +0000";
+lastChange = "2019-12-01 19:44:22 +0000";
 layers = (
 {
 hints = (
@@ -29841,19 +29835,19 @@ unicode = 30E2;
 },
 {
 glyphname = "yasmall-kata";
-lastChange = "2019-11-04 10:45:45 +0000";
+lastChange = "2019-12-01 09:42:31 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = "ya-kata";
-transform = "{0.76538, 0, 0, 0.76538, -4, 0}";
+transform = "{0.76538, 0, 0, 0.76538, 21, 0}";
 }
 );
 guideLines = (
 {
-position = "{377, 536}";
+position = "{402, 536}";
 }
 );
 hints = (
@@ -29869,14 +29863,14 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 634;
+width = 684;
 }
 );
 unicode = 30E3;
 },
 {
 glyphname = "ya-kata";
-lastChange = "2019-11-29 13:16:35 +0000";
+lastChange = "2019-12-01 19:19:52 +0000";
 layers = (
 {
 hints = (
@@ -29896,29 +29890,29 @@ paths = (
 {
 closed = 1;
 nodes = (
-"696 166 OFFCURVE",
-"833 312 OFFCURVE",
-"833 429 CURVE SMOOTH",
-"833 564 OFFCURVE",
-"747 645 OFFCURVE",
+"724 166 OFFCURVE",
+"837 345 OFFCURVE",
+"837 450 CURVE SMOOTH",
+"837 551 OFFCURVE",
+"765 646 OFFCURVE",
 "614 639 CURVE SMOOTH",
 "507 634 OFFCURVE",
 "141 523 OFFCURVE",
 "55 472 CURVE SMOOTH",
-"23 453 OFFCURVE",
-"5 421 OFFCURVE",
-"5 372 CURVE SMOOTH",
-"5 311 OFFCURVE",
-"57 274 OFFCURVE",
-"109 274 CURVE SMOOTH",
-"239 274 OFFCURVE",
-"482 369 OFFCURVE",
-"631 413 CURVE",
-"592 364 OFFCURVE",
-"528 295 OFFCURVE",
-"528 237 CURVE SMOOTH",
-"528 201 OFFCURVE",
-"561 166 OFFCURVE",
+"21 452 OFFCURVE",
+"5 416 OFFCURVE",
+"5 381 CURVE SMOOTH",
+"5 326 OFFCURVE",
+"43 272 OFFCURVE",
+"112 272 CURVE SMOOTH",
+"242 272 OFFCURVE",
+"475 356 OFFCURVE",
+"616 406 CURVE",
+"581 367 OFFCURVE",
+"520 306 OFFCURVE",
+"520 248 CURVE SMOOTH",
+"520 202 OFFCURVE",
+"548 166 OFFCURVE",
 "598 166 CURVE SMOOTH"
 );
 },
@@ -29953,19 +29947,19 @@ unicode = 30E4;
 },
 {
 glyphname = "yusmall-kata";
-lastChange = "2019-11-04 11:03:11 +0000";
+lastChange = "2019-12-01 09:42:37 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = "yu-kata";
-transform = "{0.76816, 0, 0, 0.76816, -3, 0}";
+transform = "{0.76816, 0, 0, 0.76816, 6, 0}";
 }
 );
 guideLines = (
 {
-position = "{198, 536}";
+position = "{207, 536}";
 }
 );
 hints = (
@@ -29981,14 +29975,14 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 637;
+width = 641;
 }
 );
 unicode = 30E5;
 },
 {
 glyphname = "yu-kata";
-lastChange = "2019-11-29 13:42:36 +0000";
+lastChange = "2019-12-01 19:55:43 +0000";
 layers = (
 {
 hints = (
@@ -30008,67 +30002,67 @@ paths = (
 {
 closed = 1;
 nodes = (
-"626 178 OFFCURVE",
-"677 322 OFFCURVE",
-"677 447 CURVE SMOOTH",
-"677 652 OFFCURVE",
-"517 691 OFFCURVE",
-"339 691 CURVE SMOOTH",
+"616 178 OFFCURVE",
+"667 322 OFFCURVE",
+"667 447 CURVE SMOOTH",
+"667 652 OFFCURVE",
+"507 691 OFFCURVE",
+"329 691 CURVE SMOOTH",
 "172 691 OFFCURVE",
 "53 657 OFFCURVE",
 "53 559 CURVE SMOOTH",
 "53 492 OFFCURVE",
 "114 462 OFFCURVE",
 "164 457 CURVE SMOOTH",
-"253 449 OFFCURVE",
-"397 447 OFFCURVE",
-"446 447 CURVE",
-"436 383 OFFCURVE",
-"400 242 OFFCURVE",
-"377 161 CURVE SMOOTH",
-"345 48 OFFCURVE",
-"564 12 OFFCURVE",
-"608 130 CURVE SMOOTH"
+"253 448 OFFCURVE",
+"387 447 OFFCURVE",
+"436 447 CURVE",
+"426 383 OFFCURVE",
+"390 242 OFFCURVE",
+"367 161 CURVE SMOOTH",
+"335 48 OFFCURVE",
+"554 12 OFFCURVE",
+"598 130 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"180 -5 OFFCURVE",
-"621 1 OFFCURVE",
-"685 4 CURVE SMOOTH",
-"818 10 OFFCURVE",
-"842 201 OFFCURVE",
-"689 218 CURVE SMOOTH",
-"619 226 OFFCURVE",
+"180 7 OFFCURVE",
+"601 13 OFFCURVE",
+"665 15 CURVE SMOOTH",
+"798 21 OFFCURVE",
+"822 202 OFFCURVE",
+"669 219 CURVE SMOOTH",
+"599 226 OFFCURVE",
 "188 229 OFFCURVE",
-"122 218 CURVE SMOOTH",
-"-13 196 OFFCURVE",
-"-1 22 OFFCURVE",
-"122 4 CURVE SMOOTH"
+"122 219 CURVE SMOOTH",
+"-13 199 OFFCURVE",
+"-1 32 OFFCURVE",
+"122 15 CURVE SMOOTH"
 );
 }
 );
-width = 820;
+width = 800;
 }
 );
 unicode = 30E6;
 },
 {
 glyphname = "yosmall-kata";
-lastChange = "2019-11-04 11:20:58 +0000";
+lastChange = "2019-12-01 09:42:40 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = "yo-kata";
-transform = "{0.75246, 0, 0, 0.75246, -4, 0}";
+transform = "{0.75246, 0, 0, 0.75246, 6, 0}";
 }
 );
 guideLines = (
 {
-position = "{212, 536}";
+position = "{222, 536}";
 }
 );
 hints = (
@@ -30084,14 +30078,14 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 542;
+width = 552;
 }
 );
 unicode = 30E7;
 },
 {
 glyphname = "yo-kata";
-lastChange = "2019-11-29 13:55:02 +0000";
+lastChange = "2019-12-01 19:46:13 +0000";
 layers = (
 {
 hints = (
@@ -30163,7 +30157,7 @@ unicode = 30E8;
 },
 {
 glyphname = "ra-kata";
-lastChange = "2019-11-29 13:55:57 +0000";
+lastChange = "2019-12-01 19:46:20 +0000";
 layers = (
 {
 hints = (
@@ -30234,7 +30228,7 @@ unicode = 30E9;
 },
 {
 glyphname = "ri-kata";
-lastChange = "2019-11-29 13:49:28 +0000";
+lastChange = "2019-12-01 19:31:51 +0000";
 layers = (
 {
 guideLines = (
@@ -30305,7 +30299,7 @@ unicode = 30EA;
 },
 {
 glyphname = "ru-kata";
-lastChange = "2019-11-29 13:56:02 +0000";
+lastChange = "2019-12-01 19:46:27 +0000";
 layers = (
 {
 hints = (
@@ -30385,7 +30379,7 @@ unicode = 30EB;
 },
 {
 glyphname = "re-kata";
-lastChange = "2019-11-29 13:50:13 +0000";
+lastChange = "2019-12-01 19:46:31 +0000";
 layers = (
 {
 hints = (
@@ -30439,7 +30433,7 @@ unicode = 30EC;
 },
 {
 glyphname = "ro-kata";
-lastChange = "2019-11-29 13:52:34 +0000";
+lastChange = "2019-12-01 19:55:52 +0000";
 layers = (
 {
 hints = (
@@ -30490,19 +30484,19 @@ unicode = 30ED;
 },
 {
 glyphname = "wasmall-kata";
-lastChange = "2019-11-05 08:59:17 +0000";
+lastChange = "2019-12-01 09:42:15 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = "wa-kata";
-transform = "{0.76035, 0, 0, 0.76035, -4, 0}";
+transform = "{0.76035, 0, 0, 0.76035, 6, 0}";
 }
 );
 guideLines = (
 {
-position = "{192, 536}";
+position = "{202, 536}";
 }
 );
 hints = (
@@ -30518,14 +30512,14 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 625;
+width = 613;
 }
 );
 unicode = 30EE;
 },
 {
 glyphname = "wa-kata";
-lastChange = "2019-11-29 13:42:33 +0000";
+lastChange = "2019-12-01 19:46:42 +0000";
 layers = (
 {
 hints = (
@@ -30545,13 +30539,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"635 2 OFFCURVE",
-"775 266 OFFCURVE",
-"775 459 CURVE SMOOTH",
-"775 720 OFFCURVE",
-"611 701 OFFCURVE",
-"402 701 CURVE SMOOTH",
-"226 701 OFFCURVE",
+"625 2 OFFCURVE",
+"765 266 OFFCURVE",
+"765 459 CURVE SMOOTH",
+"765 720 OFFCURVE",
+"606 701 OFFCURVE",
+"397 701 CURVE SMOOTH",
+"221 701 OFFCURVE",
 "25 717 OFFCURVE",
 "25 507 CURVE SMOOTH",
 "25 359 OFFCURVE",
@@ -30563,27 +30557,27 @@ nodes = (
 "273 400 OFFCURVE",
 "274 435 OFFCURVE",
 "272 468 CURVE",
-"530 468 LINE",
-"530 329 OFFCURVE",
-"490 244 OFFCURVE",
-"380 184 CURVE SMOOTH",
-"336 160 OFFCURVE",
-"289 135 OFFCURVE",
-"289 85 CURVE SMOOTH",
-"289 38 OFFCURVE",
-"323 2 OFFCURVE",
-"382 2 CURVE SMOOTH"
+"520 468 LINE",
+"520 329 OFFCURVE",
+"480 244 OFFCURVE",
+"370 184 CURVE SMOOTH",
+"326 160 OFFCURVE",
+"279 135 OFFCURVE",
+"279 85 CURVE SMOOTH",
+"279 38 OFFCURVE",
+"313 2 OFFCURVE",
+"372 2 CURVE SMOOTH"
 );
 }
 );
-width = 800;
+width = 790;
 }
 );
 unicode = 30EF;
 },
 {
 glyphname = "va-kata";
-lastChange = "2019-11-05 08:59:50 +0000";
+lastChange = "2019-12-01 19:55:15 +0000";
 layers = (
 {
 components = (
@@ -30592,7 +30586,7 @@ name = "wa-kata";
 },
 {
 name = "voicedcomb-kana";
-transform = "{1, 0, 0, 1, 622, 33}";
+transform = "{1, 0, 0, 1, 612, 33}";
 }
 );
 hints = (
@@ -30615,7 +30609,7 @@ unicode = 30F7;
 },
 {
 glyphname = "wi-kata";
-lastChange = "2019-11-29 13:38:38 +0000";
+lastChange = "2019-12-01 19:46:53 +0000";
 layers = (
 {
 hints = (
@@ -30722,11 +30716,12 @@ nodes = (
 width = 827;
 }
 );
+leftKerningGroup = "vi-kata";
 unicode = 30F0;
 },
 {
 glyphname = "vi-kata";
-lastChange = "2019-11-05 09:04:39 +0000";
+lastChange = "2019-12-01 19:55:29 +0000";
 layers = (
 {
 components = (
@@ -30754,11 +30749,12 @@ layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
 width = 837;
 }
 );
+leftKerningGroup = "vi-kata";
 unicode = 30F8;
 },
 {
 glyphname = "we-kata";
-lastChange = "2019-11-29 14:07:15 +0000";
+lastChange = "2019-12-01 19:55:27 +0000";
 layers = (
 {
 hints = (
@@ -30847,11 +30843,12 @@ nodes = (
 width = 804;
 }
 );
+leftKerningGroup = "we-kata";
 unicode = 30F1;
 },
 {
 glyphname = "ve-kata";
-lastChange = "2019-11-05 09:17:18 +0000";
+lastChange = "2019-12-01 19:55:21 +0000";
 layers = (
 {
 components = (
@@ -30879,11 +30876,12 @@ layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
 width = 812;
 }
 );
+leftKerningGroup = "we-kata";
 unicode = 30F9;
 },
 {
 glyphname = "wo-kata";
-lastChange = "2019-11-29 13:56:24 +0000";
+lastChange = "2019-12-01 19:46:46 +0000";
 layers = (
 {
 hints = (
@@ -30979,7 +30977,7 @@ unicode = 30FA;
 },
 {
 glyphname = "n-kata";
-lastChange = "2019-11-29 14:07:42 +0000";
+lastChange = "2019-12-01 19:55:45 +0000";
 layers = (
 {
 hints = (
@@ -31076,7 +31074,7 @@ unicode = 30F4;
 },
 {
 glyphname = "digraphkoto-kata";
-lastChange = "2019-11-10 11:32:00 +0000";
+lastChange = "2019-12-01 19:47:27 +0000";
 layers = (
 {
 hints = (
@@ -31148,7 +31146,7 @@ unicode = 30F5;
 },
 {
 glyphname = "kesmall-kata";
-lastChange = "2019-11-03 10:59:09 +0000";
+lastChange = "2019-12-01 09:43:12 +0000";
 layers = (
 {
 components = (
@@ -31164,7 +31162,7 @@ position = "{-40, 602}";
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 585;
+width = 586;
 }
 );
 unicode = 30F6;
@@ -48148,13 +48146,17 @@ u = -10;
 "@MMK_R_hi" = -10;
 "@MMK_R_ka" = -10;
 "@MMK_R_ki" = -10;
-"@MMK_R_sa" = -10;
+"@MMK_R_sa" = 0;
+"@MMK_R_so" = -10;
 "@MMK_R_su" = -10;
 "do-hira" = -20;
 "e-hira" = -20;
 "i-hira" = -20;
 "n-hira" = -30;
-"no-hira" = -20;
+"ni-hira" = -10;
+"no-hira" = -40;
+"nu-hira" = -40;
+"ra-hira" = -30;
 "to-hira" = -20;
 "u-hira" = -20;
 "wa-hira" = -10;
@@ -48412,7 +48414,10 @@ a = {
 "@MMK_R_ho" = -20;
 "@MMK_R_ke" = -20;
 "@MMK_R_ku" = -20;
-"@MMK_R_se" = -10;
+"@MMK_R_sa" = -10;
+"@MMK_R_se" = -30;
+"@MMK_R_si" = -10;
+"@MMK_R_so" = -10;
 "@MMK_R_su" = -10;
 "@MMK_R_te" = -10;
 "@MMK_R_ti" = -10;
@@ -48421,10 +48426,12 @@ a = {
 "a-hira" = -20;
 "du-hira" = -20;
 "i-hira" = -20;
-"ka-hira" = -10;
+"ka-hira" = -30;
 "ma-hira" = -20;
 "me-hira" = -20;
 "n-hira" = -30;
+"na-hira" = -5;
+"ni-hira" = -20;
 "no-hira" = -30;
 "nu-hira" = -30;
 "ra-hira" = -20;
@@ -48441,19 +48448,41 @@ a = {
 "@MMK_R_ha-kata" = -70;
 "@MMK_R_he-kata" = -40;
 "@MMK_R_hi-kata" = 10;
+"@MMK_R_ho-kata" = -10;
+"@MMK_R_hu-kata" = -10;
+"@MMK_R_ka-kata" = -10;
+"@MMK_R_ke-kana" = -20;
+"@MMK_R_ko-kana" = -10;
+"@MMK_R_ku-kana" = -10;
 "@MMK_R_sa-kata" = -10;
-"i-kata" = -50;
+"@MMK_R_se-kata" = -10;
+"@MMK_R_si-kata" = -10;
+"@MMK_R_so-kata" = -10;
+"@MMK_R_su-kata" = -10;
+"@MMK_R_ta-kata" = -30;
+"@MMK_R_te-kata" = -10;
+"@MMK_R_ti-kata" = -10;
+"@MMK_R_vi-kata" = -20;
+"@MMK_R_we-kata" = -30;
+"a-kata" = -20;
+"digraphkoto-kata" = -20;
+"e-kata" = -10;
+"i-kata" = -60;
 "me-kata" = -50;
 "mu-kata" = -40;
-"na-kata" = -10;
-"ni-kata" = -40;
-"no-kata" = -90;
+"na-kata" = -20;
+"ne-kata" = -10;
+"ni-kata" = -80;
+"no-kata" = -130;
+"nu-kata" = -20;
 "re-kata" = 20;
 "ru-kata" = -20;
+"su-kata" = -20;
+"wo-kata" = -20;
 "yu-kata" = -40;
 };
 "ba-hira" = {
-"@MMK_R_ha" = -40;
+"@MMK_R_ha" = -50;
 "@MMK_R_ha-kata" = -100;
 "@MMK_R_he" = -100;
 "@MMK_R_hi" = -10;
@@ -48464,13 +48493,14 @@ a = {
 "@MMK_R_ki" = -40;
 "@MMK_R_ku" = -100;
 "@MMK_R_sa" = -70;
-"@MMK_R_se" = -50;
+"@MMK_R_se" = -80;
 "@MMK_R_si" = -30;
 "@MMK_R_so" = 10;
 "@MMK_R_su" = -20;
+"@MMK_R_ta" = -60;
 "@MMK_R_te" = -50;
 "@MMK_R_ti" = -30;
-"@MMK_R_tu" = -70;
+"@MMK_R_tu" = -80;
 "a-hira" = -50;
 "ha-hira" = -60;
 "i-hira" = -70;
@@ -48480,11 +48510,11 @@ a = {
 "mo-hira" = -70;
 "mu-hira" = -60;
 "n-hira" = -70;
-"na-hira" = -50;
+"na-hira" = -60;
 "ne-hira" = -30;
-"ni-hira" = -40;
+"ni-hira" = -60;
 "no-hira" = -110;
-"nu-hira" = -60;
+"nu-hira" = -90;
 "o-hira" = -40;
 "ra-hira" = -80;
 "re-hira" = -30;
@@ -48504,26 +48534,29 @@ a = {
 "@MMK_R_ho-kata" = 20;
 "@MMK_R_hu-kata" = -20;
 "@MMK_R_ka-kana" = -30;
+"@MMK_R_ka-kata" = -40;
 "@MMK_R_ki-kana" = -20;
 "@MMK_R_ku-kana" = -40;
-"@MMK_R_sa-kata" = -40;
+"@MMK_R_sa-kata" = -60;
 "@MMK_R_se-kata" = -60;
 "@MMK_R_so-kata" = -30;
 "@MMK_R_su-kata" = -10;
-"@MMK_R_ta-kata" = -10;
-"@MMK_R_te-kata" = -30;
+"@MMK_R_ta-kata" = -50;
+"@MMK_R_te-kata" = -40;
 "@MMK_R_ti-kata" = -20;
+"@MMK_R_to-kata" = 10;
 "@MMK_R_tu-kata" = -30;
-"a-kata" = -40;
-"e-kata" = 30;
+"a-kata" = -50;
+"e-kata" = 20;
 "i-kata" = -30;
 "ma-kata" = -60;
 "me-kata" = 20;
 "mi-kata" = 10;
 "n-kata" = -30;
-"na-kata" = -20;
+"na-kata" = -50;
 "no-kata" = 10;
-"o-kata" = 40;
+"nu-kata" = -30;
+"o-kata" = 10;
 "ra-kata" = -20;
 "re-kata" = 30;
 "ri-kata" = -20;
@@ -48537,15 +48570,20 @@ a = {
 "zi-kata" = -10;
 };
 "be-hira" = {
+"@MMK_R_he" = -20;
 "@MMK_R_he-kata" = -20;
 "@MMK_R_hi" = -10;
 "@MMK_R_ho" = -10;
 "@MMK_R_ka" = -20;
 "@MMK_R_ku" = -40;
 "@MMK_R_sa" = -10;
+"@MMK_R_se" = -20;
 "@MMK_R_si" = -10;
-"@MMK_R_tu" = -10;
+"@MMK_R_tu" = -20;
+"na-hira" = -10;
+"ni-hira" = -10;
 "no-hira" = -30;
+"nu-hira" = -30;
 "ra-hira" = -20;
 "ri-hira" = -10;
 "yo-hira" = -10;
@@ -48562,25 +48600,28 @@ a = {
 "@MMK_R_ko-kana" = -20;
 "@MMK_R_ku-kana" = -50;
 "@MMK_R_sa-kata" = -60;
-"@MMK_R_se-kata" = -50;
-"@MMK_R_si-kata" = -10;
+"@MMK_R_se-kata" = -70;
+"@MMK_R_si-kata" = -30;
 "@MMK_R_so-kata" = -30;
 "@MMK_R_su-kata" = -20;
-"@MMK_R_ta-kata" = -30;
+"@MMK_R_ta-kata" = -70;
 "@MMK_R_te-kata" = -30;
 "@MMK_R_ti-kata" = -30;
-"@MMK_R_to-kata" = -10;
-"@MMK_R_tu-kata" = -20;
-"a-kata" = -10;
+"@MMK_R_to-kata" = -20;
+"@MMK_R_tu-kata" = -30;
+"a-kata" = -40;
 "i-kata" = -30;
 "mu-kata" = -10;
 "n-kata" = -20;
-"na-kata" = -60;
-"nu-kata" = -20;
+"na-kata" = -90;
+"ne-kata" = -20;
+"ni-kata" = -20;
+"nu-kata" = -30;
+"o-kata" = -10;
 "ra-kata" = -10;
 "ri-kata" = -10;
 "ro-kata" = -10;
-"su-kata" = -20;
+"su-kata" = -40;
 "u-kata" = -60;
 "wa-kata" = -20;
 "wo-kata" = -20;
@@ -48591,18 +48632,30 @@ a = {
 "@MMK_R_he" = -30;
 "@MMK_R_ka" = -10;
 "@MMK_R_ku" = -30;
+"@MMK_R_se" = -10;
 "@MMK_R_so" = 20;
 "@MMK_R_ti" = 10;
 "@MMK_R_tu" = -10;
 "n-hira" = -50;
+"ne-hira" = 10;
+"ni-hira" = -20;
 "no-hira" = -40;
+"nu-hira" = -40;
 "we-hira" = -40;
 "yo-hira" = -40;
 };
 "bi-kata" = {
 "@MMK_R_he-kata" = -30;
 "@MMK_R_hu-kata" = -10;
+"@MMK_R_sa-kata" = -20;
+"@MMK_R_se-kata" = -10;
+"@MMK_R_ta-kata" = -20;
+"a-kata" = -20;
+"i-kata" = -30;
 "mu-kata" = -10;
+"ni-kata" = -30;
+"nu-kata" = -20;
+"su-kata" = -10;
 };
 "bo-hira" = {
 "@MMK_R_a" = -30;
@@ -48615,10 +48668,12 @@ a = {
 "@MMK_R_ke" = -40;
 "@MMK_R_ki" = -40;
 "@MMK_R_ku" = -50;
-"@MMK_R_sa" = -40;
-"@MMK_R_se" = -30;
+"@MMK_R_sa" = -30;
+"@MMK_R_se" = -40;
 "@MMK_R_si" = -20;
+"@MMK_R_so" = -10;
 "@MMK_R_su" = -30;
+"@MMK_R_ta" = -30;
 "@MMK_R_te" = -40;
 "@MMK_R_ti" = -20;
 "@MMK_R_tu" = -40;
@@ -48629,8 +48684,11 @@ a = {
 "mo-hira" = -40;
 "mu-hira" = -20;
 "n-hira" = -40;
+"na-hira" = -20;
+"ne-hira" = -10;
+"ni-hira" = -30;
 "no-hira" = -50;
-"nu-hira" = -30;
+"nu-hira" = -70;
 "o-hira" = -30;
 "ra-hira" = -30;
 "ri-hira" = -10;
@@ -48647,28 +48705,41 @@ a = {
 "@MMK_R_ka-kana" = -10;
 "@MMK_R_ke-kana" = -10;
 "@MMK_R_ku-kana" = -10;
-"a-kata" = -10;
+"@MMK_R_sa-kata" = -10;
+"@MMK_R_ta-kata" = -60;
+"@MMK_R_te-kata" = -10;
+"@MMK_R_ti-kata" = -20;
+"@MMK_R_tu-kata" = -10;
+"a-kata" = -20;
+"i-kata" = -50;
 "ma-kata" = -10;
 "me-kata" = -20;
 "mu-kata" = -20;
 "n-kata" = -10;
+"na-kata" = -20;
+"ne-kata" = -10;
+"ni-kata" = -10;
+"nu-kata" = -20;
 "ya-kata" = -10;
 };
 "bu-hira" = {
 "@MMK_R_he" = -20;
 "@MMK_R_hi" = -50;
-"@MMK_R_hu" = -40;
+"@MMK_R_hu" = -60;
 "@MMK_R_se" = 10;
 "@MMK_R_so" = -20;
 "@MMK_R_su" = -30;
 "@MMK_R_ta" = -40;
 "@MMK_R_te" = -40;
 "@MMK_R_ti" = -40;
-"@MMK_R_tu" = -10;
+"@MMK_R_tu" = 20;
 "a-hira" = -30;
 "n-hira" = -20;
 "na-hira" = -10;
-"ne-hira" = -20;
+"ne-hira" = -30;
+"ni-hira" = 5;
+"no-hira" = -10;
+"nu-hira" = -20;
 "o-hira" = -20;
 "ro-hira" = -30;
 "ti-hira" = -40;
@@ -48688,27 +48759,29 @@ a = {
 "@MMK_R_ki-kana" = -50;
 "@MMK_R_ko-kana" = -60;
 "@MMK_R_ku-kana" = -50;
-"@MMK_R_sa-kata" = -50;
-"@MMK_R_se-kata" = -60;
-"@MMK_R_si-kata" = -30;
-"@MMK_R_so-kata" = -50;
+"@MMK_R_sa-kata" = -90;
+"@MMK_R_se-kata" = -90;
+"@MMK_R_si-kata" = -40;
+"@MMK_R_so-kata" = -60;
 "@MMK_R_su-kata" = -40;
-"@MMK_R_ta-kata" = -70;
-"@MMK_R_te-kata" = -40;
+"@MMK_R_ta-kata" = -90;
+"@MMK_R_te-kata" = -80;
 "@MMK_R_ti-kata" = -70;
-"@MMK_R_to-kata" = -40;
-"@MMK_R_tu-kata" = -40;
-"a-kata" = -50;
+"@MMK_R_to-kata" = -60;
+"@MMK_R_tu-kata" = -50;
+"a-kata" = -70;
+"e-kata" = -80;
 "i-kata" = -90;
 "ma-kata" = -50;
 "me-kata" = -90;
 "mo-kata" = -40;
 "mu-kata" = -80;
 "n-kata" = -50;
-"na-kata" = -40;
-"ne-kata" = -30;
-"ni-kata" = -100;
+"na-kata" = -80;
+"ne-kata" = -50;
+"ni-kata" = -130;
 "no-kata" = -120;
+"nu-kata" = -70;
 "o-kata" = -50;
 "ra-kata" = -40;
 "re-kata" = -20;
@@ -48760,12 +48833,19 @@ u = -20;
 "@MMK_R_hu" = 10;
 "@MMK_R_ko" = 10;
 "@MMK_R_sa" = -10;
+"@MMK_R_se" = -30;
+"@MMK_R_so" = -10;
+"@MMK_R_ta" = -10;
 "@MMK_R_te" = -10;
 "@MMK_R_to" = 10;
 "i-hira" = -10;
 "me-hira" = 10;
 "n-hira" = 10;
+"na-hira" = -10;
 "ne-hira" = -20;
+"ni-hira" = -20;
+"no-hira" = -30;
+"nu-hira" = -30;
 "ti-hira" = -20;
 "ya-hira" = -20;
 "yo-hira" = -20;
@@ -48779,8 +48859,10 @@ u = -20;
 "@MMK_R_hu-kata" = 10;
 "@MMK_R_ke-kana" = 10;
 "@MMK_R_ki-kana" = 10;
-"@MMK_R_si-kata" = 40;
+"@MMK_R_sa-kata" = -10;
+"@MMK_R_si-kata" = 10;
 "@MMK_R_su-kata" = -20;
+"@MMK_R_ta-kata" = -10;
 "@MMK_R_ti-kata" = 10;
 "@MMK_R_to-kata" = 10;
 "@MMK_R_tu-kata" = 20;
@@ -48789,32 +48871,47 @@ u = -20;
 "me-kata" = -30;
 "mo-kata" = 10;
 "mu-kata" = -30;
-"ne-kata" = 20;
-"ni-kata" = -20;
+"ne-kata" = 10;
+"ni-kata" = -60;
 "no-kata" = -90;
+"nu-kata" = -10;
 "o-kata" = 20;
 "re-kata" = 30;
 "ri-kata" = 30;
+"su-kata" = -10;
 "wa-kata" = 10;
 };
 "de-hira" = {
 "@MMK_R_he" = 10;
 "@MMK_R_hi" = -10;
+"@MMK_R_sa" = -20;
+"@MMK_R_se" = -20;
+"@MMK_R_so" = -20;
+"@MMK_R_su" = -10;
+"@MMK_R_ta" = -10;
 "@MMK_R_te" = -20;
 "@MMK_R_ti" = -20;
+"@MMK_R_to" = -20;
+"@MMK_R_tu" = -30;
 "me-hira" = 10;
 "mi-hira" = 20;
+"na-hira" = -20;
+"ni-hira" = -10;
+"nu-hira" = -10;
 };
 "de-kata" = {
 "@MMK_R_ha-kata" = -30;
 "@MMK_R_he-kata" = -20;
-"@MMK_R_se-kata" = -10;
+"@MMK_R_sa-kata" = -20;
+"@MMK_R_se-kata" = -20;
 "@MMK_R_su-kata" = -10;
 "@MMK_R_ta-kata" = -10;
-"@MMK_R_tu-kata" = 20;
+"@MMK_R_tu-kata" = 0;
 "i-kata" = -10;
 "me-kata" = -30;
-"ni-kata" = -40;
+"na-kata" = -10;
+"ne-kata" = -10;
+"ni-kata" = -60;
 "no-kata" = -70;
 "re-kata" = 20;
 "yu-kata" = -10;
@@ -48827,17 +48924,19 @@ u = -20;
 "@MMK_R_ka" = -30;
 "@MMK_R_ku" = -40;
 "@MMK_R_sa" = -40;
-"@MMK_R_se" = -30;
-"@MMK_R_so" = 10;
-"@MMK_R_ta" = -10;
+"@MMK_R_se" = -40;
+"@MMK_R_so" = -10;
+"@MMK_R_ta" = -20;
 "@MMK_R_te" = -20;
 "@MMK_R_ti" = -20;
 "@MMK_R_tu" = -30;
 "i-hira" = -30;
-"ni-hira" = -20;
+"na-hira" = -20;
+"ni-hira" = -40;
 "no-hira" = -40;
-"nu-hira" = -30;
+"nu-hira" = -50;
 "o-hira" = -20;
+"tusmall-hira" = -60;
 "we-hira" = -20;
 "ya-hira" = -40;
 "yo-hira" = -40;
@@ -48851,14 +48950,15 @@ u = -20;
 "@MMK_R_ke-kana" = -30;
 "@MMK_R_ko-kana" = -30;
 "@MMK_R_ku-kana" = -10;
+"@MMK_R_sa-kata" = -10;
 "@MMK_R_si-kata" = -40;
 "@MMK_R_so-kata" = -20;
 "@MMK_R_su-kata" = -20;
 "@MMK_R_ta-kata" = -30;
 "@MMK_R_te-kata" = -30;
 "@MMK_R_ti-kata" = -20;
-"@MMK_R_to-kata" = -10;
-"a-kata" = -10;
+"@MMK_R_to-kata" = -20;
+"a-kata" = -30;
 "e-kata" = -30;
 "i-kata" = -90;
 "ma-kata" = -30;
@@ -48867,9 +48967,11 @@ u = -20;
 "mo-kata" = -10;
 "mu-kata" = -60;
 "n-kata" = -10;
-"ni-kata" = -70;
+"na-kata" = -10;
+"ne-kata" = -10;
+"ni-kata" = -110;
 "no-kata" = -140;
-"nu-kata" = -30;
+"nu-kata" = -40;
 "ra-kata" = -20;
 "ru-kata" = -40;
 "su-kata" = -30;
@@ -48880,20 +48982,37 @@ u = -20;
 "yo-kata" = -10;
 "yu-kata" = -30;
 };
+"digraphkoto-kata" = {
+"@MMK_R_sa-kata" = -10;
+"@MMK_R_se-kata" = -10;
+"na-kata" = -10;
+"ne-kata" = -10;
+"ni-kata" = -20;
+"nu-kata" = -30;
+"o-kata" = 10;
+"su-kata" = -20;
+};
+"digraphyori-hira" = {
+"@MMK_R_se" = -30;
+"na-hira" = -10;
+"ni-hira" = -10;
+"no-hira" = -20;
+"nu-hira" = -20;
+};
 "do-hira" = {
-"@MMK_R_ha" = -20;
+"@MMK_R_ha" = -40;
 "@MMK_R_he" = -70;
 "@MMK_R_hi" = 0;
-"@MMK_R_ho" = -10;
+"@MMK_R_ho" = -40;
 "@MMK_R_ke" = -30;
 "@MMK_R_ki" = -20;
 "@MMK_R_ku" = -70;
 "@MMK_R_sa" = -30;
-"@MMK_R_se" = -30;
+"@MMK_R_se" = -40;
 "@MMK_R_si" = -10;
-"@MMK_R_so" = 20;
+"@MMK_R_so" = 0;
 "@MMK_R_su" = -10;
-"@MMK_R_ta" = -10;
+"@MMK_R_ta" = -40;
 "@MMK_R_te" = -20;
 "@MMK_R_ti" = -10;
 "@MMK_R_tu" = -40;
@@ -48905,9 +49024,11 @@ u = -20;
 "me-hira" = -30;
 "mu-hira" = -10;
 "n-hira" = -60;
-"na-hira" = -20;
-"no-hira" = -50;
-"nu-hira" = -50;
+"na-hira" = -30;
+"ne-hira" = -20;
+"ni-hira" = -50;
+"no-hira" = -70;
+"nu-hira" = -80;
 "o-hira" = -30;
 "ra-hira" = -30;
 "re-hira" = -10;
@@ -48929,19 +49050,21 @@ u = -20;
 "@MMK_R_se-kata" = -60;
 "@MMK_R_so-kata" = -40;
 "@MMK_R_su-kata" = -50;
-"@MMK_R_tu-kata" = -10;
-"a-kata" = -50;
-"e-kata" = -10;
-"i-kata" = -10;
+"@MMK_R_tu-kata" = -20;
+"a-kata" = -60;
+"e-kata" = -40;
+"i-kata" = 0;
 "ma-kata" = -50;
 "me-kata" = -60;
 "n-kata" = -40;
-"na-kata" = -30;
-"ni-kata" = -20;
+"na-kata" = -20;
+"ne-kata" = -10;
+"ni-kata" = -40;
 "no-kata" = -50;
-"nu-kata" = -30;
+"nu-kata" = -60;
+"o-kata" = -30;
 "ru-kata" = -30;
-"su-kata" = -20;
+"su-kata" = -40;
 "u-kata" = -10;
 "wo-kata" = -40;
 "yo-kata" = -20;
@@ -48953,18 +49076,22 @@ u = -20;
 "@MMK_R_ka" = -20;
 "@MMK_R_ku" = -10;
 "@MMK_R_sa" = -20;
+"@MMK_R_se" = -40;
 "@MMK_R_si" = 0;
+"@MMK_R_so" = -10;
 "@MMK_R_su" = -20;
-"@MMK_R_te" = -20;
+"@MMK_R_ta" = -30;
+"@MMK_R_te" = -30;
 "@MMK_R_ti" = -10;
 "@MMK_R_tu" = -40;
 "a-hira" = -20;
 "i-hira" = -10;
 "mu-hira" = -20;
-"na-hira" = -20;
+"na-hira" = -40;
 "ne-hira" = -10;
+"ni-hira" = -30;
 "no-hira" = -20;
-"nu-hira" = -20;
+"nu-hira" = -40;
 "o-hira" = -20;
 "we-hira" = -30;
 "ya-hira" = -20;
@@ -48975,17 +49102,20 @@ u = -20;
 "@MMK_R_ha-kata" = -30;
 "@MMK_R_he-kata" = -40;
 "@MMK_R_ko-kana" = -20;
-"@MMK_R_sa-kata" = -10;
-"@MMK_R_se-kata" = -10;
-"@MMK_R_to-kata" = 10;
+"@MMK_R_sa-kata" = -20;
+"@MMK_R_se-kata" = -20;
+"@MMK_R_ta-kata" = -20;
+"@MMK_R_to-kata" = 0;
 "@MMK_R_tu-kata" = 20;
+"a-kata" = -10;
 "i-kata" = -40;
 "mi-kata" = 10;
 "mu-kata" = -20;
-"na-kata" = -10;
-"ne-kata" = 10;
-"ni-kata" = -30;
+"na-kata" = -20;
+"ne-kata" = 0;
+"ni-kata" = -80;
 "no-kata" = -60;
+"nu-kata" = -10;
 "re-kata" = 10;
 "ru-kata" = -40;
 "zi-kata" = -10;
@@ -49006,15 +49136,15 @@ u = -20;
 "@MMK_R_ta" = -10;
 "@MMK_R_te" = -20;
 "@MMK_R_ti" = -20;
-"@MMK_R_tu" = -30;
+"@MMK_R_tu" = -40;
 "i-hira" = -20;
 "ma-hira" = -20;
 "me-hira" = -20;
 "mo-hira" = -20;
 "mu-hira" = -20;
-"na-hira" = -10;
-"ni-hira" = -10;
-"no-hira" = -30;
+"na-hira" = -20;
+"ni-hira" = -30;
+"no-hira" = -40;
 "nu-hira" = -30;
 "ro-hira" = -10;
 "ya-hira" = -50;
@@ -49023,11 +49153,34 @@ u = -20;
 "e-kata" = {
 "@MMK_R_ha-kata" = -10;
 "@MMK_R_he-kata" = -40;
-"@MMK_R_sa-kata" = -20;
-"@MMK_R_se-kata" = -10;
-"@MMK_R_ta-kata" = -20;
-"i-kata" = -40;
-"ya-kata" = -30;
+"@MMK_R_hu-kata" = -10;
+"@MMK_R_ka-kata" = -10;
+"@MMK_R_ke-kana" = -40;
+"@MMK_R_ki-kata" = -10;
+"@MMK_R_ku-kana" = -50;
+"@MMK_R_sa-kata" = -30;
+"@MMK_R_se-kata" = -30;
+"@MMK_R_si-kata" = -10;
+"@MMK_R_ta-kata" = -80;
+"@MMK_R_ti-kata" = -10;
+"@MMK_R_to-kata" = -10;
+"@MMK_R_tu-kata" = -10;
+"@MMK_R_vi-kata" = -20;
+"@MMK_R_we-kata" = -10;
+"a-kata" = -10;
+"digraphkoto-kata" = -10;
+"i-kata" = -50;
+"mu-kata" = -10;
+"na-kata" = -50;
+"ne-kata" = -10;
+"ni-kata" = -10;
+"nu-kata" = -10;
+"ra-kata" = -10;
+"ro-kata" = -10;
+"su-kata" = -10;
+"u-kata" = -20;
+"ya-kata" = -40;
+"yo-kata" = -10;
 };
 eight = {
 "@MMK_R_W" = -20;
@@ -49088,21 +49241,24 @@ u = -10;
 "@MMK_R_sa" = -30;
 "@MMK_R_se" = -20;
 "@MMK_R_si" = -10;
+"@MMK_R_so" = -20;
 "@MMK_R_su" = -30;
 "@MMK_R_ta" = -30;
 "@MMK_R_te" = -50;
 "@MMK_R_ti" = -30;
-"@MMK_R_tu" = -40;
+"@MMK_R_tu" = -50;
 "a-hira" = -30;
 "e-hira" = -20;
-"i-hira" = -40;
+"i-hira" = -30;
 "ma-hira" = -30;
 "mo-hira" = -20;
 "mu-hira" = -20;
 "n-hira" = -50;
-"ne-hira" = -10;
+"na-hira" = -60;
+"ne-hira" = -40;
+"ni-hira" = -30;
 "no-hira" = -30;
-"nu-hira" = -30;
+"nu-hira" = -40;
 "o-hira" = -40;
 "ra-hira" = -30;
 "ro-hira" = -10;
@@ -49120,13 +49276,24 @@ u = -10;
 "@MMK_R_ho-kata" = -10;
 "@MMK_R_hu-kata" = -20;
 "@MMK_R_ki-kana" = -30;
+"@MMK_R_sa-kata" = -40;
 "@MMK_R_se-kata" = -20;
+"@MMK_R_so-kata" = -10;
 "@MMK_R_su-kata" = -10;
-"i-kata" = -10;
+"@MMK_R_ta-kata" = -20;
+"@MMK_R_to-kata" = -10;
+"@MMK_R_tu-kata" = -10;
+"a-kata" = -20;
+"e-kata" = -10;
+"i-kata" = -20;
 "me-kata" = -20;
-"ni-kata" = -20;
+"na-kata" = -30;
+"ne-kata" = -10;
+"ni-kata" = -40;
 "no-kata" = -40;
+"nu-kata" = -20;
 "ru-kata" = -20;
+"su-kata" = -30;
 };
 "ge-hira" = {
 "@MMK_R_ha" = -30;
@@ -49138,9 +49305,10 @@ u = -10;
 "@MMK_R_ko" = -20;
 "@MMK_R_ku" = -60;
 "@MMK_R_sa" = -40;
-"@MMK_R_se" = -20;
+"@MMK_R_se" = -40;
+"@MMK_R_si" = -20;
 "@MMK_R_so" = 20;
-"@MMK_R_ta" = -10;
+"@MMK_R_ta" = -20;
 "@MMK_R_te" = -20;
 "@MMK_R_to" = 10;
 "@MMK_R_tu" = -40;
@@ -49152,9 +49320,10 @@ u = -10;
 "mo-hira" = -20;
 "mu-hira" = -40;
 "n-hira" = -80;
-"na-hira" = -10;
-"no-hira" = -70;
-"nu-hira" = -60;
+"na-hira" = -20;
+"ni-hira" = -40;
+"no-hira" = -80;
+"nu-hira" = -70;
 "o-hira" = -20;
 "ra-hira" = -50;
 "ri-hira" = -20;
@@ -49170,12 +49339,25 @@ u = -10;
 "@MMK_R_ho-kata" = -20;
 "@MMK_R_hu-kata" = -20;
 "@MMK_R_ko-kana" = -10;
+"@MMK_R_sa-kata" = -30;
+"@MMK_R_se-kata" = -40;
 "@MMK_R_so-kata" = -10;
 "@MMK_R_ta-kata" = -50;
+"@MMK_R_ti-kata" = -20;
+"@MMK_R_to-kata" = -10;
+"@MMK_R_tu-kata" = -10;
+"a-kata" = -20;
+"e-kata" = -10;
 "i-kata" = -100;
 "mu-kata" = -90;
-"ni-kata" = -50;
+"na-kata" = -40;
+"ne-kata" = -20;
+"ni-kata" = -110;
+"no-kata" = -120;
+"nu-kata" = -20;
+"o-kata" = -10;
 "ru-kata" = -40;
+"su-kata" = -30;
 "u-kata" = -10;
 "wo-kata" = -10;
 "yu-kata" = -20;
@@ -49188,12 +49370,17 @@ u = -10;
 "@MMK_R_ka" = -20;
 "@MMK_R_ki" = -20;
 "@MMK_R_ku" = -10;
+"@MMK_R_se" = -20;
+"@MMK_R_su" = -10;
+"@MMK_R_ta" = -20;
 "@MMK_R_tu" = -20;
 "a-hira" = -20;
 "mu-hira" = -10;
 "n-hira" = -30;
-"no-hira" = -20;
-"nu-hira" = -10;
+"na-hira" = -10;
+"ni-hira" = -30;
+"no-hira" = -30;
+"nu-hira" = -30;
 "ra-hira" = -20;
 "we-hira" = -20;
 "ya-hira" = -20;
@@ -49206,14 +49393,20 @@ u = -10;
 "@MMK_R_ho-kata" = -40;
 "@MMK_R_hu-kata" = -40;
 "@MMK_R_ku-kana" = -50;
-"@MMK_R_se-kata" = -40;
+"@MMK_R_sa-kata" = -20;
+"@MMK_R_se-kata" = -30;
 "@MMK_R_so-kata" = -10;
-"@MMK_R_ta-kata" = -30;
-"i-kata" = -20;
+"@MMK_R_ta-kata" = -10;
+"@MMK_R_tu-kata" = -10;
+"a-kata" = -20;
+"i-kata" = 10;
 "mu-kata" = -40;
+"na-kata" = -40;
+"ne-kata" = -10;
 "ni-kata" = -30;
+"no-kata" = -20;
 "nu-kata" = -30;
-"su-kata" = -30;
+"su-kata" = -20;
 "wo-kata" = -10;
 "ya-kata" = -30;
 "yu-kata" = -40;
@@ -49224,19 +49417,19 @@ u = -10;
 "@MMK_R_hi" = -20;
 "@MMK_R_ho" = -50;
 "@MMK_R_hu" = -20;
-"@MMK_R_ka" = -60;
+"@MMK_R_ka" = -39;
 "@MMK_R_ke" = -40;
 "@MMK_R_ki" = -50;
 "@MMK_R_ko" = -40;
 "@MMK_R_ku" = -60;
-"@MMK_R_sa" = -20;
-"@MMK_R_se" = -40;
+"@MMK_R_sa" = -50;
+"@MMK_R_se" = -60;
 "@MMK_R_si" = -20;
 "@MMK_R_su" = -30;
 "@MMK_R_ta" = -30;
 "@MMK_R_te" = -60;
 "@MMK_R_ti" = -40;
-"@MMK_R_tu" = -60;
+"@MMK_R_tu" = -50;
 "a-hira" = -50;
 "i-hira" = -40;
 "ma-hira" = -40;
@@ -49244,16 +49437,17 @@ u = -10;
 "mo-hira" = -40;
 "mu-hira" = -30;
 "n-hira" = -40;
-"na-hira" = -50;
-"ni-hira" = -20;
+"na-hira" = -30;
+"ne-hira" = -10;
+"ni-hira" = -40;
 "no-hira" = -50;
-"nu-hira" = -50;
+"nu-hira" = -40;
 "o-hira" = -50;
 "ra-hira" = -30;
 "re-hira" = -20;
 "ri-hira" = -20;
 "ro-hira" = -20;
-"ta-hira" = -50;
+"ta-hira" = -30;
 "wo-hira" = -20;
 "ya-hira" = -60;
 "yo-hira" = -50;
@@ -49266,17 +49460,25 @@ u = -10;
 "@MMK_R_ka-kana" = -20;
 "@MMK_R_ku-kana" = -10;
 "@MMK_R_sa-kata" = -40;
-"@MMK_R_se-kata" = -30;
+"@MMK_R_se-kata" = -40;
+"@MMK_R_si-kata" = -10;
 "@MMK_R_so-kata" = -10;
 "@MMK_R_ta-kata" = -20;
-"a-kata" = -20;
+"@MMK_R_ti-kata" = -10;
+"@MMK_R_tu-kata" = -20;
+"a-kata" = -40;
+"e-kata" = -30;
 "i-kata" = -20;
 "n-kata" = -20;
-"na-kata" = -20;
-"ni-kata" = -30;
+"na-kata" = -30;
+"ne-kata" = -20;
+"ni-kata" = -50;
 "no-kata" = -50;
+"nu-kata" = -50;
+"o-kata" = -10;
 "re-kata" = 10;
 "ru-kata" = -30;
+"su-kata" = -30;
 "u-kata" = -10;
 };
 "gu-hira" = {
@@ -49291,14 +49493,15 @@ u = -10;
 "@MMK_R_ko" = -30;
 "@MMK_R_ku" = -20;
 "@MMK_R_sa" = -20;
-"@MMK_R_se" = -10;
+"@MMK_R_se" = -30;
+"@MMK_R_si" = -10;
 "@MMK_R_so" = -20;
 "@MMK_R_su" = -60;
-"@MMK_R_ta" = -30;
+"@MMK_R_ta" = -40;
 "@MMK_R_te" = -70;
 "@MMK_R_ti" = -40;
-"@MMK_R_to" = -20;
-"@MMK_R_tu" = -30;
+"@MMK_R_to" = -40;
+"@MMK_R_tu" = -40;
 "a-hira" = -60;
 "i-hira" = -20;
 "ma-hira" = -20;
@@ -49306,7 +49509,10 @@ u = -10;
 "mo-hira" = -10;
 "mu-hira" = -20;
 "n-hira" = -30;
-"na-hira" = -20;
+"na-hira" = -40;
+"ne-hira" = -40;
+"ni-hira" = -20;
+"no-hira" = -20;
 "nu-hira" = -20;
 "o-hira" = -50;
 "ra-hira" = -20;
@@ -49329,22 +49535,30 @@ u = -10;
 "@MMK_R_hu-kata" = -40;
 "@MMK_R_ke-kana" = -40;
 "@MMK_R_ko-kana" = -50;
+"@MMK_R_sa-kata" = -60;
 "@MMK_R_se-kata" = -50;
+"@MMK_R_si-kata" = -10;
 "@MMK_R_so-kata" = -30;
-"@MMK_R_ta-kata" = -60;
+"@MMK_R_ta-kata" = -80;
 "@MMK_R_te-kata" = -20;
-"@MMK_R_ti-kata" = -50;
+"@MMK_R_ti-kata" = -60;
+"@MMK_R_to-kata" = -30;
 "@MMK_R_tu-kata" = -30;
-"i-kata" = -110;
+"a-kata" = -50;
+"i-kata" = -100;
 "mi-kata" = -20;
 "mu-kata" = -100;
 "n-kata" = -30;
-"ni-kata" = -80;
-"no-kata" = -110;
-"nu-kata" = -30;
+"na-kata" = -80;
+"ne-kata" = -20;
+"ni-kata" = -120;
+"no-kata" = -120;
+"nu-kata" = -50;
+"o-kata" = -40;
 "re-kata" = -10;
 "ri-kata" = -10;
 "ru-kata" = -80;
+"su-kata" = -70;
 "u-kata" = -60;
 "wo-kata" = -40;
 "ya-kata" = -60;
@@ -49373,23 +49587,35 @@ seven = -60;
 "@MMK_R_hi-kata" = -40;
 "@MMK_R_ho-kata" = -20;
 "@MMK_R_hu-kata" = -80;
+"@MMK_R_ka-kata" = -70;
 "@MMK_R_ko-kana" = -30;
-"@MMK_R_sa-kata" = -50;
-"@MMK_R_se-kata" = -70;
-"@MMK_R_so-kata" = -50;
-"@MMK_R_tu-kata" = -60;
-"a-kata" = -60;
+"@MMK_R_sa-kata" = -90;
+"@MMK_R_se-kata" = -100;
+"@MMK_R_si-kata" = -80;
+"@MMK_R_so-kata" = -100;
+"@MMK_R_ta-kata" = -70;
+"@MMK_R_ti-kata" = -50;
+"@MMK_R_to-kata" = -33;
+"@MMK_R_tu-kata" = -80;
+"a-kata" = -100;
 "i-kata" = -30;
 "n-kata" = -70;
+"na-kata" = -80;
+"ne-kata" = -20;
+"ni-kata" = -20;
+"nu-kata" = -70;
+"o-kata" = -15;
 "ra-kata" = -70;
 "ro-kata" = -30;
 "ru-kata" = -10;
+"su-kata" = -30;
 "wo-kata" = -90;
 "ya-kata" = -70;
 "zi-kata" = -60;
 };
 "he-hira" = {
 "@MMK_R_ha" = -20;
+"@MMK_R_he" = -10;
 "@MMK_R_hi" = -80;
 "@MMK_R_ho" = -20;
 "@MMK_R_ka" = -30;
@@ -49397,20 +49623,24 @@ seven = -60;
 "@MMK_R_ki" = -50;
 "@MMK_R_ku" = -30;
 "@MMK_R_sa" = -60;
-"@MMK_R_se" = -90;
+"@MMK_R_se" = -110;
 "@MMK_R_si" = -30;
-"@MMK_R_so" = -50;
+"@MMK_R_so" = -70;
 "@MMK_R_su" = -100;
 "@MMK_R_ta" = -30;
 "@MMK_R_te" = -140;
 "@MMK_R_ti" = -110;
 "@MMK_R_to" = -30;
-"@MMK_R_tu" = -100;
+"@MMK_R_tu" = -130;
 "a-hira" = -40;
 "e-hira" = -40;
 "i-hira" = -30;
 "ma-hira" = -60;
-"no-hira" = -10;
+"na-hira" = -60;
+"ne-hira" = -10;
+"ni-hira" = -30;
+"no-hira" = -20;
+"nu-hira" = -10;
 "o-hira" = -20;
 "ra-hira" = -40;
 "ri-hira" = -50;
@@ -49431,32 +49661,33 @@ seven = -60;
 "@MMK_R_ki-kana" = -50;
 "@MMK_R_ko-kana" = -30;
 "@MMK_R_ku-kana" = -60;
-"@MMK_R_sa-kata" = -100;
-"@MMK_R_se-kata" = -110;
+"@MMK_R_sa-kata" = -110;
+"@MMK_R_se-kata" = -120;
 "@MMK_R_si-kata" = -60;
-"@MMK_R_so-kata" = -90;
+"@MMK_R_so-kata" = -120;
 "@MMK_R_su-kata" = -50;
-"@MMK_R_ta-kata" = -40;
+"@MMK_R_ta-kata" = -60;
 "@MMK_R_te-kata" = -30;
-"@MMK_R_ti-kata" = -40;
+"@MMK_R_ti-kata" = -30;
 "@MMK_R_to-kata" = -10;
-"@MMK_R_tu-kata" = -80;
-"a-kata" = -90;
-"e-kata" = -10;
+"@MMK_R_tu-kata" = -90;
+"a-kata" = -130;
+"e-kata" = 0;
 "i-kata" = -20;
 "ma-kata" = -120;
 "me-kata" = -10;
 "mo-kata" = -40;
 "n-kata" = -80;
 "na-kata" = -80;
+"ni-kata" = -10;
 "nu-kata" = -70;
-"o-kata" = -20;
+"o-kata" = -10;
 "ra-kata" = -70;
 "re-kata" = -10;
 "ri-kata" = -50;
 "ro-kata" = -20;
 "ru-kata" = -20;
-"su-kata" = -50;
+"su-kata" = -45;
 "u-kata" = -60;
 "wa-kata" = -80;
 "wo-kata" = -80;
@@ -49468,11 +49699,12 @@ seven = -60;
 "hi-hira" = {
 "@MMK_R_hi" = -70;
 "@MMK_R_hu" = -40;
-"@MMK_R_ka" = -40;
+"@MMK_R_ka" = -50;
 "@MMK_R_ko" = -20;
 "@MMK_R_sa" = -60;
-"@MMK_R_se" = -50;
-"@MMK_R_su" = -80;
+"@MMK_R_se" = -60;
+"@MMK_R_so" = -30;
+"@MMK_R_su" = -90;
 "@MMK_R_ta" = -40;
 "@MMK_R_te" = -100;
 "@MMK_R_ti" = -80;
@@ -49481,6 +49713,10 @@ seven = -60;
 "a-hira" = -50;
 "bi-hira" = -80;
 "e-hira" = -40;
+"na-hira" = -50;
+"ne-hira" = -40;
+"ni-hira" = -10;
+"no-hira" = -10;
 "nu-hira" = -10;
 "ru-hira" = -20;
 "u-hira" = -30;
@@ -49491,29 +49727,51 @@ seven = -60;
 "hi-kata" = {
 "@MMK_R_ha-kata" = -40;
 "@MMK_R_he-kata" = -30;
-"@MMK_R_sa-kata" = -10;
-"@MMK_R_se-kata" = -10;
-"@MMK_R_so-kata" = -20;
+"@MMK_R_sa-kata" = -30;
+"@MMK_R_se-kata" = -20;
+"@MMK_R_si-kata" = -20;
+"@MMK_R_so-kata" = -30;
+"@MMK_R_ta-kata" = -20;
+"@MMK_R_ti-kata" = -20;
 "@MMK_R_tu-kata" = -10;
-"a-kata" = -30;
+"a-kata" = -40;
+"i-kata" = -30;
+"me-kata" = -10;
 "mu-kata" = -20;
 "n-kata" = -30;
+"na-kata" = -10;
+"ne-kata" = -10;
+"ni-kata" = -30;
+"no-kata" = -10;
+"nu-kata" = -60;
+"su-kata" = -30;
 "yu-kata" = -20;
 "zi-kata" = -20;
 };
 "ho-hira" = {
 "@MMK_R_ti" = 10;
 "@MMK_R_to" = 20;
+"@MMK_R_tu" = -10;
 "mi-hira" = 10;
 "n-hira" = -20;
-"no-hira" = -10;
-"nu-hira" = -10;
+"ne-hira" = 20;
+"ni-hira" = -10;
+"no-hira" = -20;
+"nu-hira" = -30;
 "u-hira" = 20;
 };
 "ho-kata" = {
 "@MMK_R_he-kata" = -20;
+"@MMK_R_sa-kata" = -10;
 "@MMK_R_se-kata" = -10;
 "@MMK_R_si-kata" = -10;
+"@MMK_R_ta-kata" = -40;
+"a-kata" = -20;
+"i-kata" = -40;
+"na-kata" = -20;
+"ne-kata" = -10;
+"ni-kata" = -20;
+"nu-kata" = -40;
 "ya-kata" = -10;
 };
 "hu-hira" = {
@@ -49525,20 +49783,27 @@ seven = -60;
 "@MMK_R_ke" = -30;
 "@MMK_R_ki" = -50;
 "@MMK_R_ko" = -10;
+"@MMK_R_sa" = -60;
+"@MMK_R_se" = -100;
 "@MMK_R_si" = -40;
-"@MMK_R_so" = -40;
+"@MMK_R_so" = -70;
 "@MMK_R_su" = -100;
 "@MMK_R_ta" = -30;
 "@MMK_R_te" = -110;
 "@MMK_R_ti" = -90;
-"@MMK_R_tu" = -90;
+"@MMK_R_to" = -30;
+"@MMK_R_tu" = -120;
 "a-hira" = -50;
 "e-hira" = -50;
 "i-hira" = -40;
+"na-hira" = -70;
+"ne-hira" = -20;
+"ni-hira" = -40;
 "no-hira" = -40;
-"nu-hira" = -10;
+"nu-hira" = -30;
 "o-hira" = -20;
 "ra-hira" = -50;
+"re-hira" = -20;
 "ru-hira" = -60;
 "u-hira" = -80;
 "wo-hira" = -80;
@@ -49546,28 +49811,43 @@ seven = -60;
 "hu-kata" = {
 "@MMK_R_ha-kata" = -60;
 "@MMK_R_hi-kata" = 20;
-"@MMK_R_se-kata" = -10;
+"@MMK_R_sa-kata" = -10;
+"@MMK_R_se-kata" = -20;
+"@MMK_R_so-kata" = -10;
+"@MMK_R_ta-kata" = -10;
 "a-kata" = -20;
+"e-kata" = -20;
+"i-kata" = -20;
 "me-kata" = -30;
 "mu-kata" = -10;
+"na-kata" = -10;
+"ne-kata" = -10;
+"ni-kata" = -60;
+"no-kata" = -40;
+"nu-kata" = -30;
 "re-kata" = 10;
 "ru-kata" = -30;
+"su-kata" = -20;
 "yu-kata" = -20;
 };
 "i-hira" = {
 "@MMK_R_he" = 10;
 "@MMK_R_hi" = -40;
 "@MMK_R_hu" = -20;
-"@MMK_R_ka" = -10;
+"@MMK_R_ka" = -20;
 "@MMK_R_sa" = -10;
+"@MMK_R_se" = -30;
+"@MMK_R_so" = -30;
 "@MMK_R_su" = -40;
-"@MMK_R_ta" = -20;
+"@MMK_R_ta" = -30;
 "@MMK_R_te" = -50;
-"@MMK_R_ti" = -40;
+"@MMK_R_ti" = -60;
 "@MMK_R_tu" = -30;
 "a-hira" = -30;
-"na-hira" = -10;
-"ne-hira" = -10;
+"n-hira" = -10;
+"na-hira" = -30;
+"ne-hira" = -20;
+"ni-hira" = -10;
 "nu-hira" = -10;
 "o-hira" = -10;
 "re-hira" = -20;
@@ -49581,28 +49861,42 @@ seven = -60;
 "yo-hira" = -10;
 };
 "i-kata" = {
-"@MMK_R_ha-kata" = -80;
-"@MMK_R_he-kata" = -80;
-"@MMK_R_ho-kata" = -10;
+"@MMK_R_ha-kata" = -100;
+"@MMK_R_he-kata" = -100;
+"@MMK_R_hi-kata" = -10;
+"@MMK_R_ho-kata" = -20;
 "@MMK_R_hu-kata" = -10;
-"@MMK_R_ke-kana" = -30;
+"@MMK_R_ka-kata" = -10;
+"@MMK_R_ke-kana" = -40;
+"@MMK_R_ki-kata" = -10;
 "@MMK_R_ku-kana" = -40;
-"@MMK_R_sa-kata" = -30;
-"@MMK_R_se-kata" = -20;
-"@MMK_R_ta-kata" = -60;
-"@MMK_R_ti-kata" = -10;
-"i-kata" = -100;
-"me-kata" = -60;
-"mu-kata" = -80;
-"na-kata" = -20;
-"ni-kata" = -30;
-"no-kata" = -70;
-"nu-kata" = 10;
+"@MMK_R_sa-kata" = -20;
+"@MMK_R_se-kata" = -25;
+"@MMK_R_ta-kata" = -80;
+"@MMK_R_ti-kata" = -20;
+"@MMK_R_to-kata" = -10;
+"@MMK_R_vi-kata" = -30;
+"@MMK_R_we-kata" = -20;
+"a-kata" = -5;
+"i-kata" = -130;
+"me-kata" = -50;
+"mu-kata" = -100;
+"n-kata" = -10;
+"na-kata" = -50;
+"ne-kata" = -30;
+"ni-kata" = -80;
+"no-kata" = -140;
+"nu-kata" = -10;
+"o-kata" = -10;
+"ra-kata" = -10;
 "re-kata" = 10;
 "ro-kata" = -20;
-"ru-kata" = -30;
+"ru-kata" = -50;
+"su-kata" = -5;
+"tusmall-kata" = -30;
 "u-kata" = -30;
-"ya-kata" = -30;
+"wa-kata" = -10;
+"ya-kata" = -40;
 "yu-kata" = -20;
 };
 "ka-hira" = {
@@ -49619,7 +49913,7 @@ seven = -60;
 "@MMK_R_sa" = -20;
 "@MMK_R_se" = -20;
 "@MMK_R_si" = -10;
-"@MMK_R_so" = -30;
+"@MMK_R_so" = -40;
 "@MMK_R_su" = -50;
 "@MMK_R_ta" = -50;
 "@MMK_R_te" = -70;
@@ -49635,8 +49929,8 @@ seven = -60;
 "mo-hira" = -20;
 "mu-hira" = -40;
 "n-hira" = -20;
-"na-hira" = -40;
-"ne-hira" = -30;
+"na-hira" = -50;
+"ne-hira" = -40;
 "ni-hira" = -10;
 "no-hira" = -10;
 "nu-hira" = -20;
@@ -49658,11 +49952,25 @@ seven = -60;
 "@MMK_R_ha-kata" = -30;
 "@MMK_R_hu-kata" = -30;
 "@MMK_R_ka-kana" = -30;
+"@MMK_R_sa-kata" = -30;
+"@MMK_R_si-kata" = -20;
+"@MMK_R_so-kata" = -30;
 "@MMK_R_su-kata" = -30;
+"@MMK_R_ti-kata" = 0;
+"@MMK_R_tu-kata" = -10;
+"a-kata" = -50;
+"e-kata" = -30;
+"i-kata" = -10;
 "me-kata" = -40;
 "n-kata" = -20;
+"na-kata" = -10;
+"ne-kata" = -10;
+"ni-kata" = -30;
+"no-kata" = -30;
+"nu-kata" = -50;
 "re-kata" = 0;
 "ru-kata" = -20;
+"su-kata" = -50;
 "yu-kata" = -20;
 };
 "ke-hira" = {
@@ -49679,10 +49987,10 @@ seven = -60;
 "@MMK_R_si" = -10;
 "@MMK_R_so" = -30;
 "@MMK_R_su" = -20;
-"@MMK_R_ta" = -10;
+"@MMK_R_ta" = -20;
 "@MMK_R_te" = -20;
 "@MMK_R_ti" = -20;
-"@MMK_R_to" = -20;
+"@MMK_R_to" = -30;
 "@MMK_R_tu" = -20;
 "a-hira" = -30;
 "e-hira" = -40;
@@ -49693,12 +50001,14 @@ seven = -60;
 "mu-hira" = -20;
 "n-hira" = -60;
 "na-hira" = -10;
+"ne-hira" = -10;
+"ni-hira" = -30;
 "no-hira" = -50;
-"nu-hira" = -50;
+"nu-hira" = -70;
 "ra-hira" = -30;
 "re-hira" = -10;
 "ro-hira" = -30;
-"ru-hira" = -10;
+"ru-hira" = -30;
 "u-hira" = -20;
 "wa-hira" = -10;
 "we-hira" = -70;
@@ -49713,16 +50023,27 @@ seven = -60;
 "@MMK_R_he-kata" = -60;
 "@MMK_R_ho-kata" = -10;
 "@MMK_R_ke-kana" = -50;
+"@MMK_R_sa-kata" = -10;
 "@MMK_R_se-kata" = -10;
+"@MMK_R_si-kata" = -20;
+"@MMK_R_so-kata" = -10;
 "@MMK_R_su-kata" = -20;
 "@MMK_R_ta-kata" = -40;
 "@MMK_R_te-kata" = -30;
 "@MMK_R_ti-kata" = -10;
+"@MMK_R_to-kata" = -10;
+"a-kata" = -20;
+"e-kata" = -20;
 "i-kata" = -90;
 "me-kata" = -40;
 "mu-kata" = -80;
+"na-kata" = -30;
+"ne-kata" = -20;
+"ni-kata" = -80;
 "no-kata" = -140;
+"nu-kata" = -30;
 "ru-kata" = -40;
+"su-kata" = -20;
 "yu-kata" = -40;
 "zi-kata" = -20;
 };
@@ -49730,16 +50051,20 @@ seven = -60;
 "@MMK_R_he" = -20;
 "@MMK_R_hu" = -10;
 "@MMK_R_ku" = -10;
+"@MMK_R_se" = -10;
 "@MMK_R_te" = -10;
+"@MMK_R_ti" = -10;
 "@MMK_R_tu" = -20;
 "me-hira" = -20;
 "mi-hira" = -20;
 "mo-hira" = -10;
 "n-hira" = -30;
+"ni-hira" = -10;
 "no-hira" = -30;
+"nu-hira" = -30;
 "ya-hira" = -20;
 "yo-hira" = -40;
-"yosmall-hira" = -50;
+"yosmall-hira" = -60;
 "yu-hira" = -20;
 };
 "ki-kata" = {
@@ -49748,12 +50073,24 @@ seven = -60;
 "@MMK_R_ho-kata" = -20;
 "@MMK_R_hu-kata" = -30;
 "@MMK_R_ki-kana" = -20;
+"@MMK_R_sa-kata" = -50;
 "@MMK_R_se-kata" = -30;
+"@MMK_R_si-kata" = -10;
 "@MMK_R_su-kata" = -20;
+"@MMK_R_ta-kata" = -10;
+"@MMK_R_to-kata" = -10;
+"@MMK_R_tu-kata" = -10;
+"a-kata" = -30;
+"i-kata" = -10;
 "me-kata" = -40;
 "n-kata" = -20;
+"na-kata" = -50;
+"ne-kata" = -20;
+"ni-kata" = -40;
 "no-kata" = -50;
+"nu-kata" = -40;
 "ru-kata" = -20;
+"su-kata" = -30;
 "yo-kata" = -20;
 "yu-kata" = -20;
 };
@@ -49761,20 +50098,38 @@ seven = -60;
 "@MMK_R_hi" = -10;
 "@MMK_R_ke" = 10;
 "@MMK_R_ki" = 10;
-"@MMK_R_ko" = 10;
+"@MMK_R_ko" = 0;
 "@MMK_R_ku" = -20;
+"@MMK_R_sa" = -10;
+"@MMK_R_se" = -10;
+"@MMK_R_so" = -20;
+"@MMK_R_ti" = -10;
+"@MMK_R_tu" = -10;
 "n-hira" = 0;
 "ne-hira" = 10;
+"ni-hira" = -10;
+"no-hira" = -20;
+"nu-hira" = -20;
 "o-hira" = 10;
 "ya-hira" = -40;
-"yu-hira" = -20;
+"yu-hira" = -30;
 };
 "ko-kata" = {
 "@MMK_R_ko-kana" = -20;
+"@MMK_R_sa-kata" = -20;
 "@MMK_R_se-kata" = -20;
+"@MMK_R_so-kata" = -20;
+"@MMK_R_tu-kata" = -10;
+"a-kata" = -30;
+"e-kata" = -20;
+"na-kata" = -20;
+"ne-kata" = -10;
+"ni-kata" = -30;
 "no-kata" = -30;
+"nu-kata" = -30;
 "re-kata" = 20;
 "ru-kata" = -10;
+"su-kata" = -20;
 };
 "ku-hira" = {
 "@MMK_R_he" = -40;
@@ -49782,11 +50137,16 @@ seven = -60;
 "@MMK_R_ke" = -20;
 "@MMK_R_ku" = -40;
 "@MMK_R_sa" = -10;
+"@MMK_R_si" = -10;
+"@MMK_R_ta" = -10;
 "@MMK_R_te" = -10;
+"@MMK_R_ti" = -10;
 "@MMK_R_tu" = -30;
 "a-hira" = -10;
 "i-hira" = -20;
-"no-hira" = -20;
+"ni-hira" = -30;
+"no-hira" = -40;
+"nu-hira" = -30;
 "ra-hira" = -20;
 "ya-hira" = -30;
 "yo-hira" = -20;
@@ -49796,14 +50156,21 @@ seven = -60;
 "@MMK_R_ha-kata" = -60;
 "@MMK_R_he-kata" = -30;
 "@MMK_R_ku-kana" = -10;
+"@MMK_R_ta-kata" = -20;
+"@MMK_R_ti-kata" = -10;
 "@MMK_R_to-kata" = 10;
+"e-kata" = -10;
 "i-kata" = -40;
 "me-kata" = -40;
 "mu-kata" = -30;
-"ni-kata" = -60;
+"na-kata" = -20;
+"ne-kata" = -10;
+"ni-kata" = -80;
 "no-kata" = -80;
+"nu-kata" = -20;
 "re-kata" = 10;
 "ru-kata" = -30;
+"su-kata" = -25;
 "yu-kata" = -30;
 };
 l = {
@@ -49840,28 +50207,42 @@ u = -20;
 "@MMK_R_he" = -30;
 "@MMK_R_ho" = -10;
 "@MMK_R_ku" = -30;
+"@MMK_R_se" = -20;
+"@MMK_R_so" = -5;
 "@MMK_R_te" = -10;
 "@MMK_R_tu" = -20;
 "a-hira" = -20;
 "i-hira" = -20;
 "n-hira" = -40;
-"no-hira" = -30;
-"nu-hira" = -20;
+"na-hira" = -10;
+"ne-hira" = 10;
+"ni-hira" = -20;
+"no-hira" = -40;
+"nu-hira" = -40;
 "we-hira" = -30;
 "yo-hira" = -60;
 };
 "ma-kata" = {
 "@MMK_R_he-kata" = -40;
 "@MMK_R_ho-kata" = -10;
+"@MMK_R_sa-kata" = -10;
+"@MMK_R_se-kata" = -10;
+"@MMK_R_si-kata" = -10;
 "@MMK_R_ta-kata" = -30;
+"@MMK_R_te-kata" = -20;
+"@MMK_R_ti-kata" = -10;
 "i-kata" = -70;
 "me-kata" = -50;
 "mi-kata" = -20;
 "mu-kata" = -60;
-"ni-kata" = -60;
+"na-kata" = -20;
+"ne-kata" = -20;
+"ni-kata" = -90;
 "no-kata" = -80;
+"nu-kata" = -10;
 "ra-kata" = -10;
 "ru-kata" = -40;
+"su-kata" = -20;
 "wo-kata" = -20;
 "yu-kata" = -30;
 };
@@ -49871,13 +50252,19 @@ u = -20;
 "@MMK_R_ho" = 10;
 "@MMK_R_ka" = -20;
 "@MMK_R_ko" = 10;
+"@MMK_R_se" = -40;
+"@MMK_R_so" = -20;
 "@MMK_R_su" = -50;
+"@MMK_R_ta" = -30;
 "@MMK_R_te" = -50;
 "@MMK_R_ti" = -40;
+"@MMK_R_to" = -10;
 "@MMK_R_tu" = -40;
 "a-hira" = -30;
 "e-hira" = -10;
 "mo-hira" = -10;
+"na-hira" = -40;
+"no-hira" = -10;
 "ro-hira" = -30;
 "we-hira" = -40;
 "wo-hira" = -50;
@@ -49890,17 +50277,23 @@ u = -20;
 "@MMK_R_he-kata" = -40;
 "@MMK_R_ke-kana" = -30;
 "@MMK_R_ku-kana" = -30;
-"@MMK_R_sa-kata" = -10;
-"@MMK_R_se-kata" = -20;
+"@MMK_R_sa-kata" = -20;
+"@MMK_R_se-kata" = -30;
+"@MMK_R_si-kata" = -10;
 "@MMK_R_ta-kata" = -30;
+"@MMK_R_ti-kata" = -10;
 "@MMK_R_to-kata" = 10;
 "i-kata" = -60;
 "ma-kata" = 0;
 "me-kata" = -10;
 "mu-kata" = -30;
 "na-kata" = -50;
+"ne-kata" = -30;
 "ni-kata" = -30;
+"no-kata" = -10;
+"nu-kata" = -10;
 "re-kata" = 20;
+"su-kata" = -10;
 "u-kata" = -30;
 };
 "mi-hira" = {
@@ -49913,24 +50306,27 @@ u = -20;
 "@MMK_R_ke" = -20;
 "@MMK_R_ki" = -40;
 "@MMK_R_ku" = -20;
-"@MMK_R_sa" = -50;
-"@MMK_R_se" = -50;
+"@MMK_R_sa" = -60;
+"@MMK_R_se" = -60;
 "@MMK_R_si" = -30;
-"@MMK_R_so" = -40;
+"@MMK_R_so" = -60;
 "@MMK_R_su" = -80;
 "@MMK_R_ta" = -40;
 "@MMK_R_te" = -110;
-"@MMK_R_ti" = -90;
-"@MMK_R_to" = -20;
-"@MMK_R_tu" = -70;
+"@MMK_R_ti" = -100;
+"@MMK_R_to" = -30;
+"@MMK_R_tu" = -90;
 "a-hira" = -50;
 "e-hira" = -60;
 "i-hira" = -30;
 "mo-hira" = -30;
 "mu-hira" = -20;
 "n-hira" = -10;
+"na-hira" = -60;
+"ne-hira" = -20;
+"ni-hira" = -30;
 "no-hira" = -20;
-"nu-hira" = -10;
+"nu-hira" = -20;
 "o-hira" = -30;
 "ra-hira" = -20;
 "re-hira" = -20;
@@ -49949,13 +50345,18 @@ u = -20;
 "mi-kata" = {
 "@MMK_R_ha-kata" = -20;
 "@MMK_R_hi-kata" = 10;
-"@MMK_R_se-kata" = -10;
-"@MMK_R_ta-kata" = -20;
+"@MMK_R_sa-kata" = -20;
+"@MMK_R_se-kata" = -20;
+"@MMK_R_ta-kata" = -30;
+"@MMK_R_te-kata" = -10;
 "@MMK_R_to-kata" = 10;
-"@MMK_R_tu-kata" = 10;
+"@MMK_R_tu-kata" = -10;
 "ma-kata" = -10;
 "mu-kata" = -10;
 "na-kata" = -30;
+"ne-kata" = -20;
+"ni-kata" = -30;
+"nu-kata" = -10;
 "ra-kata" = -20;
 "wi-kata" = -10;
 "ya-kata" = -30;
@@ -49963,17 +50364,33 @@ u = -20;
 "mo-hira" = {
 "@MMK_R_hi" = -40;
 "@MMK_R_ko" = 10;
-"@MMK_R_se" = -10;
+"@MMK_R_se" = -60;
 "@MMK_R_si" = -10;
+"@MMK_R_so" = -40;
 "@MMK_R_su" = -30;
+"@MMK_R_ta" = -30;
 "@MMK_R_te" = -60;
-"@MMK_R_ti" = -20;
-"@MMK_R_tu" = -30;
-"u-hira" = -20;
+"@MMK_R_ti" = -60;
+"@MMK_R_to" = -10;
+"@MMK_R_tu" = -50;
+"na-hira" = -50;
+"ni-hira" = -20;
+"no-hira" = -20;
+"nu-hira" = -20;
+"u-hira" = -60;
 "wo-hira" = -20;
 "ya-hira" = -40;
 };
 "mo-kata" = {
+"@MMK_R_sa-kata" = -20;
+"@MMK_R_se-kata" = -30;
+"@MMK_R_ta-kata" = -10;
+"i-kata" = -10;
+"na-kata" = -30;
+"ne-kata" = -10;
+"ni-kata" = -30;
+"nu-kata" = -10;
+"su-kata" = -10;
 "ya-kata" = -10;
 };
 "mu-hira" = {
@@ -49986,15 +50403,15 @@ u = -20;
 "@MMK_R_ko" = -20;
 "@MMK_R_ku" = -10;
 "@MMK_R_sa" = -60;
-"@MMK_R_se" = -40;
+"@MMK_R_se" = -90;
 "@MMK_R_si" = -30;
-"@MMK_R_so" = -20;
+"@MMK_R_so" = -50;
 "@MMK_R_su" = -100;
-"@MMK_R_ta" = -50;
+"@MMK_R_ta" = -60;
 "@MMK_R_te" = -110;
 "@MMK_R_ti" = -80;
 "@MMK_R_to" = -30;
-"@MMK_R_tu" = -80;
+"@MMK_R_tu" = -100;
 "a-hira" = -60;
 "e-hira" = -50;
 "i-hira" = -20;
@@ -50002,8 +50419,11 @@ u = -20;
 "me-hira" = -10;
 "mu-hira" = -20;
 "n-hira" = -20;
+"na-hira" = -60;
+"ne-hira" = -40;
+"ni-hira" = -20;
 "no-hira" = -20;
-"nu-hira" = -10;
+"nu-hira" = -20;
 "o-hira" = -40;
 "ra-hira" = -20;
 "re-hira" = -30;
@@ -50030,18 +50450,18 @@ u = -20;
 "@MMK_R_ko-kana" = -50;
 "@MMK_R_ku-kana" = -70;
 "@MMK_R_sa-kata" = -140;
-"@MMK_R_se-kata" = -120;
+"@MMK_R_se-kata" = -140;
 "@MMK_R_si-kata" = -80;
-"@MMK_R_so-kata" = -100;
+"@MMK_R_so-kata" = -140;
 "@MMK_R_su-kata" = -40;
 "@MMK_R_ta-kata" = -60;
-"@MMK_R_te-kata" = -50;
-"@MMK_R_ti-kata" = -40;
+"@MMK_R_te-kata" = -60;
+"@MMK_R_ti-kata" = -50;
 "@MMK_R_to-kata" = -20;
 "@MMK_R_tu-kata" = -100;
 "a-kata" = -100;
 "e-kata" = -10;
-"i-kata" = -50;
+"i-kata" = -40;
 "ma-kata" = -150;
 "mi-kata" = -10;
 "mo-kata" = -70;
@@ -50050,13 +50470,13 @@ u = -20;
 "na-kata" = -110;
 "ne-kata" = -10;
 "ni-kata" = -20;
-"nu-kata" = -60;
-"o-kata" = -30;
+"nu-kata" = -70;
+"o-kata" = -20;
 "ra-kata" = -70;
 "re-kata" = -10;
 "ri-kata" = -50;
 "ro-kata" = -30;
-"su-kata" = -50;
+"su-kata" = -40;
 "u-kata" = -50;
 "wa-kata" = -80;
 "we-kata" = -10;
@@ -50091,7 +50511,7 @@ u = -20;
 "@MMK_R_ha" = 10;
 "@MMK_R_he" = 20;
 "@MMK_R_hi" = -70;
-"@MMK_R_ho" = 10;
+"@MMK_R_ho" = -10;
 "@MMK_R_hu" = 0;
 "@MMK_R_ka" = -40;
 "@MMK_R_ke" = -10;
@@ -50099,13 +50519,13 @@ u = -20;
 "@MMK_R_ku" = -20;
 "@MMK_R_sa" = -40;
 "@MMK_R_se" = -60;
-"@MMK_R_si" = -10;
-"@MMK_R_so" = -30;
-"@MMK_R_su" = -80;
-"@MMK_R_ta" = -10;
-"@MMK_R_te" = -120;
-"@MMK_R_ti" = -70;
-"@MMK_R_tu" = -90;
+"@MMK_R_si" = -20;
+"@MMK_R_so" = -40;
+"@MMK_R_su" = -90;
+"@MMK_R_ta" = -30;
+"@MMK_R_te" = -130;
+"@MMK_R_ti" = -90;
+"@MMK_R_tu" = -140;
 "a-hira" = -40;
 "e-hira" = -40;
 "go-hira" = 20;
@@ -50116,13 +50536,17 @@ u = -20;
 "mo-hira" = -10;
 "n-hira" = 10;
 "n-kata" = -50;
-"na-hira" = -20;
-"o-hira" = -30;
+"na-hira" = -40;
+"ne-hira" = -10;
+"ni-hira" = -10;
+"no-hira" = -10;
+"nu-hira" = -10;
+"o-hira" = -20;
 "ra-hira" = -10;
 "ri-hira" = -20;
 "ro-hira" = -30;
 "ru-hira" = -30;
-"se-hira" = -100;
+"se-hira" = -90;
 "u-hira" = -50;
 "vu-hira" = -60;
 "wa-hira" = -30;
@@ -50134,153 +50558,330 @@ u = -20;
 "n-kata" = {
 "@MMK_R_ha-kata" = -40;
 "@MMK_R_he-kata" = -40;
+"@MMK_R_sa-kata" = -10;
+"@MMK_R_se-kata" = -10;
+"@MMK_R_si-kata" = -10;
 "@MMK_R_ta-kata" = -20;
 "i-kata" = -40;
 "me-kata" = -40;
 "mu-kata" = -20;
 "na-kata" = -10;
-"ni-kata" = -40;
-"no-kata" = -50;
+"ne-kata" = -10;
+"ni-kata" = -80;
+"no-kata" = -80;
+"nu-kata" = -10;
 "re-kata" = 10;
 "ri-kata" = 10;
+"su-kata" = -10;
 };
 n.full = {
 "@MMK_R_o" = -10;
 };
 "na-hira" = {
-"@MMK_R_ha" = 10;
-"@MMK_R_he" = -30;
-"@MMK_R_hi" = -60;
-"@MMK_R_hu" = -40;
-"@MMK_R_ki" = -20;
+"@MMK_R_ha" = -10;
+"@MMK_R_he" = -40;
+"@MMK_R_hi" = -70;
+"@MMK_R_ho" = -10;
+"@MMK_R_hu" = -60;
+"@MMK_R_ka" = -10;
+"@MMK_R_ke" = -5;
+"@MMK_R_ki" = -30;
+"@MMK_R_ko" = -30;
 "@MMK_R_ku" = -20;
-"@MMK_R_se" = 10;
-"@MMK_R_so" = -20;
-"@MMK_R_su" = -30;
-"@MMK_R_te" = -40;
-"@MMK_R_ti" = -40;
-"@MMK_R_to" = -30;
+"@MMK_R_sa" = -10;
+"@MMK_R_se" = -5;
+"@MMK_R_si" = -5;
+"@MMK_R_so" = -40;
+"@MMK_R_su" = -50;
+"@MMK_R_ta" = -42;
+"@MMK_R_te" = -50;
+"@MMK_R_ti" = -50;
+"@MMK_R_to" = -40;
 "@MMK_R_tu" = -20;
-"a-hira" = -40;
-"bi-hira" = -50;
-"e-hira" = -10;
-"mi-hira" = -20;
-"n-hira" = -30;
-"ne-hira" = -10;
-"no-hira" = -20;
-"o-hira" = -20;
-"ro-hira" = -50;
-"ru-hira" = -20;
+"a-hira" = -50;
+"bi-hira" = -60;
+"digraphyori-hira" = -60;
+"e-hira" = -20;
+"i-hira" = -10;
+"ma-hira" = -25;
+"me-hira" = -30;
+"mi-hira" = -30;
+"mo-hira" = -40;
+"mu-hira" = -40;
+"n-hira" = -40;
+"na-hira" = -35;
+"na-kata" = -10;
+"ne-hira" = -40;
+"ni-hira" = -10;
+"no-hira" = -30;
+"nu-hira" = -40;
+"o-hira" = -30;
+"ra-hira" = -10;
+"re-hira" = -35;
+"ro-hira" = -80;
+"ru-hira" = -35;
 "tu-hira" = -20;
 "u-hira" = -30;
-"we-hira" = -70;
-"wi-hira" = -40;
-"wo-hira" = -30;
-"yo-hira" = -50;
+"vu-hira" = -40;
+"wa-hira" = -30;
+"we-hira" = -80;
+"wi-hira" = -50;
+"wo-hira" = -40;
+"ya-hira" = -10;
+"yo-hira" = -80;
+"yu-hira" = -10;
 };
 "na-kata" = {
-"@MMK_R_ha-kata" = -80;
+"@MMK_R_ha-kata" = -90;
 "@MMK_R_he-kata" = -50;
-"@MMK_R_ho-kata" = -20;
-"@MMK_R_hu-kata" = -30;
-"@MMK_R_ko-kana" = -20;
-"@MMK_R_sa-kata" = -10;
-"@MMK_R_se-kata" = -10;
+"@MMK_R_hi-kata" = -10;
+"@MMK_R_ho-kata" = -30;
+"@MMK_R_hu-kata" = -40;
+"@MMK_R_ka-kata" = -20;
+"@MMK_R_ke-kana" = -30;
+"@MMK_R_ki-kata" = -40;
+"@MMK_R_ko-kana" = -60;
+"@MMK_R_ku-kana" = -20;
+"@MMK_R_sa-kata" = -30;
+"@MMK_R_se-kata" = -20;
 "@MMK_R_si-kata" = -20;
-"@MMK_R_so-kata" = -20;
-"@MMK_R_su-kata" = -40;
-"@MMK_R_ta-kata" = -20;
-"@MMK_R_to-kata" = -10;
+"@MMK_R_so-kata" = -40;
+"@MMK_R_su-kata" = -50;
+"@MMK_R_ta-kata" = -40;
+"@MMK_R_te-kata" = -30;
+"@MMK_R_ti-kata" = -40;
+"@MMK_R_to-kata" = -30;
+"@MMK_R_tu-kata" = -20;
+"@MMK_R_vi-kata" = -50;
+"@MMK_R_we-kata" = -90;
 "a-kata" = -60;
-"i-kata" = -30;
-"me-kata" = -60;
-"mi-kata" = -40;
-"mu-kata" = -50;
+"digraphkoto-kata" = -70;
+"e-kata" = -50;
+"i-kata" = -50;
+"ma-kata" = -60;
+"me-kata" = -70;
+"mi-kata" = -50;
+"mo-kata" = -20;
+"mu-kata" = -60;
 "n-kata" = -40;
-"ni-kata" = -80;
-"no-kata" = -130;
-"nu-kata" = -60;
-"ru-kata" = -60;
+"na-kata" = -10;
+"ne-kata" = -10;
+"ni-hira" = -10;
+"ni-kata" = -90;
+"no-kata" = -150;
+"nu-kata" = -70;
+"o-kata" = -20;
+"ra-kata" = -10;
+"ri-kata" = -10;
+"ru-kata" = -70;
+"su-kata" = -60;
 "u-kata" = -10;
+"va-kata" = -20;
 "wo-kata" = -40;
-"yo-kata" = -30;
-"yu-kata" = -50;
+"yo-kata" = -40;
+"yu-kata" = -80;
 };
 "ne-hira" = {
 "@MMK_R_he" = 10;
-"@MMK_R_hi" = -60;
-"@MMK_R_ka" = -30;
+"@MMK_R_hi" = -70;
+"@MMK_R_hu" = -20;
+"@MMK_R_ka" = -50;
+"@MMK_R_ke" = -10;
+"@MMK_R_ki" = -20;
+"@MMK_R_ko" = -10;
+"@MMK_R_ku" = -10;
 "@MMK_R_sa" = -50;
-"@MMK_R_se" = -40;
-"@MMK_R_so" = -10;
-"@MMK_R_su" = -70;
-"@MMK_R_te" = -100;
-"@MMK_R_ti" = -70;
-"@MMK_R_tu" = -80;
+"@MMK_R_se" = -90;
+"@MMK_R_si" = -10;
+"@MMK_R_so" = -20;
+"@MMK_R_su" = -90;
+"@MMK_R_ta" = -30;
+"@MMK_R_te" = -120;
+"@MMK_R_ti" = -80;
+"@MMK_R_to" = -20;
+"@MMK_R_tu" = -110;
 "a-hira" = -30;
-"e-hira" = -30;
+"digraphyori-hira" = -10;
+"e-hira" = -40;
+"i-hira" = -10;
+"ma-hira" = -50;
+"me-hira" = 10;
+"mi-hira" = 10;
+"mo-hira" = -10;
 "na-hira" = -30;
-"o-hira" = -20;
+"ne-hira" = -10;
+"o-hira" = -10;
+"re-hira" = -10;
+"ri-hira" = -10;
+"ro-hira" = -30;
+"ru-hira" = -20;
 "u-hira" = -30;
-"we-hira" = -50;
+"vu-hira" = -30;
+"wa-hira" = -20;
+"we-hira" = -60;
+"wo-hira" = -100;
+"ya-hira" = -30;
+"yu-hira" = -10;
 };
 "ne-kata" = {
-"@MMK_R_ha-kata" = -10;
-"@MMK_R_he-kata" = -20;
-"@MMK_R_hu-kata" = -40;
-"@MMK_R_sa-kata" = -40;
-"@MMK_R_se-kata" = -50;
-"@MMK_R_so-kata" = -20;
-"@MMK_R_ta-kata" = -20;
-"ya-kata" = -20;
+"@MMK_R_ha-kata" = -20;
+"@MMK_R_he-kata" = -50;
+"@MMK_R_hi-kata" = -40;
+"@MMK_R_ho-kata" = -10;
+"@MMK_R_hu-kata" = -80;
+"@MMK_R_ka-kata" = -70;
+"@MMK_R_ke-kana" = -50;
+"@MMK_R_ki-kata" = -50;
+"@MMK_R_ko-kana" = -40;
+"@MMK_R_ku-kana" = -50;
+"@MMK_R_sa-kata" = -70;
+"@MMK_R_se-kata" = -70;
+"@MMK_R_si-kata" = -50;
+"@MMK_R_so-kata" = -60;
+"@MMK_R_su-kata" = -20;
+"@MMK_R_ta-kata" = -60;
+"@MMK_R_te-kata" = -50;
+"@MMK_R_ti-kata" = -50;
+"@MMK_R_to-kata" = -20;
+"@MMK_R_tu-kata" = -50;
+"@MMK_R_vi-kata" = -30;
+"@MMK_R_we-kata" = -10;
+"a-kata" = -60;
+"digraphkoto-kata" = -70;
+"e-kata" = -10;
+"i-kata" = -40;
+"ma-kata" = -70;
+"me-kata" = -20;
+"mi-kata" = -10;
+"mo-kata" = -50;
+"mu-kata" = -20;
+"n-kata" = -70;
+"na-kata" = -50;
+"ne-kata" = -10;
+"ni-kata" = -10;
+"no-hira" = -20;
+"no-kata" = -20;
+"nu-kata" = -60;
+"o-kata" = -10;
+"ra-kata" = -40;
+"re-kata" = -10;
+"ri-kata" = -40;
+"ro-kata" = -20;
+"ru-kata" = -10;
+"su-kata" = -30;
+"u-kata" = -50;
+"va-kata" = -60;
+"wa-kata" = -60;
+"wo-kata" = -60;
+"ya-kata" = -40;
+"yo-kata" = -30;
+"yu-kata" = -10;
 };
 "ni-hira" = {
-"@MMK_R_hi" = -30;
-"@MMK_R_ko" = 10;
-"@MMK_R_ku" = -20;
-"@MMK_R_se" = 10;
-"@MMK_R_te" = -10;
-"@MMK_R_ti" = -10;
-"a-hira" = -10;
+"@MMK_R_ha" = -10;
+"@MMK_R_he" = -20;
+"@MMK_R_hi" = -50;
+"@MMK_R_ho" = -10;
+"@MMK_R_hu" = -10;
+"@MMK_R_ka" = -10;
+"@MMK_R_ke" = -20;
+"@MMK_R_ki" = -20;
+"@MMK_R_ko" = -10;
+"@MMK_R_ku" = -50;
+"@MMK_R_sa" = -10;
+"@MMK_R_se" = -10;
+"@MMK_R_si" = -10;
+"@MMK_R_so" = -20;
+"@MMK_R_su" = -20;
+"@MMK_R_ta" = -10;
+"@MMK_R_te" = -20;
+"@MMK_R_ti" = -20;
+"@MMK_R_to" = -30;
+"@MMK_R_tu" = -20;
+"a-hira" = -20;
+"digraphyori-hira" = -20;
+"e-hira" = -20;
 "i-hira" = -10;
-"no-hira" = -10;
-"nu-hira" = -20;
-"we-hira" = -40;
+"ma-hira" = -20;
+"me-hira" = -10;
+"mo-hira" = -10;
+"mu-hira" = -10;
+"n-hira" = -10;
+"na-hira" = -10;
+"ni-hira" = -10;
+"ni-kata" = -10;
+"no-hira" = -20;
+"nu-hira" = -30;
+"o-hira" = -10;
+"ra-hira" = -20;
+"ro-hira" = -30;
+"ru-hira" = -10;
+"u-hira" = -20;
+"vu-hira" = -20;
+"wa-hira" = -10;
+"we-hira" = -50;
+"wi-hira" = -10;
+"wo-hira" = -10;
+"ya-hira" = -50;
+"yo-hira" = -20;
+"yu-hira" = -30;
 };
 "ni-kata" = {
-"@MMK_R_he-kata" = -30;
+"@MMK_R_ha-kata" = -30;
+"@MMK_R_he-kata" = -40;
 "@MMK_R_hi-kata" = -40;
-"@MMK_R_hu-kata" = -60;
+"@MMK_R_ho-kata" = -10;
+"@MMK_R_hu-kata" = -90;
 "@MMK_R_ka-kana" = -50;
-"@MMK_R_ke-kana" = -40;
+"@MMK_R_ka-kata" = -80;
+"@MMK_R_ke-kana" = -60;
 "@MMK_R_ki-kana" = -30;
-"@MMK_R_ku-kana" = -50;
-"@MMK_R_sa-kata" = -80;
-"@MMK_R_se-kata" = -80;
-"@MMK_R_si-kata" = -50;
-"@MMK_R_so-kata" = -50;
-"@MMK_R_ta-kata" = -40;
-"@MMK_R_te-kata" = -30;
-"@MMK_R_ti-kata" = -20;
-"@MMK_R_to-kata" = -10;
-"@MMK_R_tu-kata" = -50;
-"a-kata" = -70;
+"@MMK_R_ki-kata" = -60;
+"@MMK_R_ko-kana" = -50;
+"@MMK_R_ku-kana" = -90;
+"@MMK_R_sa-kata" = -100;
+"@MMK_R_se-kata" = -90;
+"@MMK_R_si-kata" = -80;
+"@MMK_R_so-kata" = -80;
+"@MMK_R_su-kata" = -30;
+"@MMK_R_ta-kata" = -80;
+"@MMK_R_te-kata" = -60;
+"@MMK_R_ti-kata" = -40;
+"@MMK_R_to-kata" = -30;
+"@MMK_R_tu-kata" = -70;
+"@MMK_R_vi-kata" = -20;
+"@MMK_R_we-kata" = -20;
+"a-kata" = -80;
+"digraphkoto-kata" = -90;
+"e-kata" = -10;
 "i-kata" = -30;
-"ma-kata" = -60;
-"me-kata" = -10;
-"mo-kata" = -30;
+"ma-kata" = -90;
+"me-kata" = -20;
+"mi-kata" = -10;
+"mo-kata" = -80;
 "mu-kata" = -20;
-"n-kata" = -40;
-"na-kata" = -60;
-"nu-kata" = -50;
-"ra-kata" = -50;
-"ri-kata" = -40;
-"ru-kata" = -10;
-"u-kata" = -50;
-"wa-kata" = -50;
-"wo-kata" = -60;
-"ya-kata" = -60;
-"zi-kata" = -50;
+"n-kata" = -60;
+"na-kata" = -80;
+"ne-kata" = -10;
+"ni-kata" = -10;
+"no-kata" = -20;
+"nu-hira" = -20;
+"nu-kata" = -70;
+"o-kata" = -10;
+"ra-kata" = -60;
+"re-kata" = -20;
+"ri-kata" = -60;
+"ro-kata" = -20;
+"ru-kata" = -20;
+"su-kata" = -40;
+"u-kata" = -70;
+"va-kata" = -80;
+"wa-kata" = -60;
+"wo-kata" = -80;
+"ya-kata" = -80;
+"yo-kata" = -30;
+"yu-kata" = -10;
+"zi-kata" = -60;
 };
 nine = {
 "@MMK_R_Q" = -10;
@@ -50289,131 +50890,207 @@ nine = {
 "@MMK_R_z" = -10;
 };
 "no-hira" = {
+"@MMK_R_ha" = -10;
 "@MMK_R_he" = -10;
-"@MMK_R_hi" = -60;
-"@MMK_R_ho" = 0;
-"@MMK_R_hu" = -30;
-"@MMK_R_ka" = -20;
-"@MMK_R_ku" = 0;
-"@MMK_R_sa" = -30;
-"@MMK_R_se" = -20;
-"@MMK_R_so" = -20;
-"@MMK_R_su" = -50;
-"@MMK_R_ta" = -30;
+"@MMK_R_hi" = -70;
+"@MMK_R_ho" = -10;
+"@MMK_R_hu" = -40;
+"@MMK_R_ka" = -30;
+"@MMK_R_ke" = -10;
+"@MMK_R_ki" = -30;
+"@MMK_R_ko" = -20;
+"@MMK_R_ku" = -10;
+"@MMK_R_sa" = -40;
+"@MMK_R_se" = -30;
+"@MMK_R_si" = -10;
+"@MMK_R_so" = -40;
+"@MMK_R_su" = -60;
+"@MMK_R_ta" = -40;
 "@MMK_R_te" = -70;
-"@MMK_R_ti" = -60;
-"@MMK_R_to" = -20;
-"@MMK_R_tu" = -40;
-"a-hira" = -30;
-"e-hira" = -20;
-"ma-hira" = -20;
+"@MMK_R_ti" = -80;
+"@MMK_R_to" = -30;
+"@MMK_R_tu" = -50;
+"a-hira" = -50;
+"digraphyori-hira" = -30;
+"e-hira" = -30;
+"i-hira" = -10;
+"ma-hira" = -30;
+"me-hira" = -10;
+"mi-hira" = -10;
 "mo-hira" = -20;
-"mu-hira" = -10;
-"ne-hira" = -10;
-"o-hira" = -20;
-"re-hira" = -20;
-"ru-hira" = -10;
-"u-hira" = -20;
+"mu-hira" = -20;
+"n-hira" = -20;
+"na-hira" = -50;
+"ne-hira" = -30;
+"ni-hira" = -10;
+"no-hira" = -10;
+"no-kata" = -40;
+"nu-hira" = -20;
+"o-hira" = -30;
+"ra-hira" = -10;
+"re-hira" = -30;
+"ri-hira" = -10;
+"ro-hira" = -30;
+"ru-hira" = -30;
+"u-hira" = -40;
+"vu-hira" = -30;
 "wa-hira" = -40;
-"we-hira" = -60;
-"wo-hira" = -50;
+"we-hira" = -70;
+"wi-hira" = -20;
+"wo-hira" = -70;
 "ya-hira" = -20;
 "yo-hira" = -20;
+"yu-hira" = -20;
 };
 "no-kata" = {
-"@MMK_R_ha-kata" = -20;
+"@MMK_R_ha-kata" = -30;
 "@MMK_R_he-kata" = -20;
-"@MMK_R_hi-kata" = 30;
-"@MMK_R_hu-kata" = 20;
+"@MMK_R_hi-kata" = 20;
+"@MMK_R_hu-kata" = 0;
 "@MMK_R_ka-kana" = 20;
-"@MMK_R_ke-kana" = 10;
+"@MMK_R_ka-kata" = -10;
+"@MMK_R_ke-kana" = -10;
 "@MMK_R_ki-kana" = 30;
-"@MMK_R_ko-kana" = 30;
-"@MMK_R_ku-kana" = 10;
-"@MMK_R_sa-kata" = 20;
-"@MMK_R_se-kata" = 10;
-"@MMK_R_si-kata" = 20;
-"@MMK_R_so-kata" = 20;
-"@MMK_R_ta-kata" = -10;
-"@MMK_R_te-kata" = 20;
-"@MMK_R_ti-kata" = 10;
-"@MMK_R_to-kata" = 20;
-"@MMK_R_tu-kata" = 20;
-"a-kata" = 10;
-"e-kata" = 30;
+"@MMK_R_ki-kata" = -10;
+"@MMK_R_ko-kana" = 0;
+"@MMK_R_ku-kana" = -10;
+"@MMK_R_sa-kata" = 0;
+"@MMK_R_se-kata" = 0;
+"@MMK_R_si-kata" = 10;
+"@MMK_R_so-kata" = 0;
+"@MMK_R_su-kata" = -10;
+"@MMK_R_ta-kata" = -30;
+"@MMK_R_te-kata" = 10;
+"@MMK_R_ti-kata" = -10;
+"@MMK_R_to-kata" = 0;
+"@MMK_R_tu-kata" = 10;
+"@MMK_R_vi-kata" = -10;
+"@MMK_R_we-kata" = -20;
+"a-kata" = -10;
+"e-kata" = 0;
+"i-kata" = -60;
 "ma-kata" = 20;
-"me-kata" = -10;
+"me-kata" = -20;
 "mo-kata" = 30;
 "mu-kata" = -30;
 "n-kata" = 20;
-"na-kata" = 10;
-"ni-kata" = -40;
-"no-kata" = -60;
-"nu-kata" = 10;
-"o-kata" = 20;
-"ra-kata" = 20;
+"na-kata" = -10;
+"ne-kata" = -20;
+"ni-kata" = -70;
+"no-kata" = -90;
+"nu-kata" = -10;
+"o-kata" = 10;
+"ra-kata" = 10;
 "re-kata" = 40;
 "ri-kata" = 20;
-"ro-kata" = 20;
+"ro-kata" = 10;
 "u-kata" = 10;
 "wa-kata" = 20;
-"wo-kata" = 10;
+"wo-kata" = 0;
 "ya-kata" = 20;
 "yo-kata" = 30;
+"yu-kata" = -20;
 };
 "nu-hira" = {
-"@MMK_R_ha" = -20;
-"@MMK_R_hi" = -80;
+"@MMK_R_ha" = -30;
+"@MMK_R_he" = -10;
+"@MMK_R_hi" = -90;
 "@MMK_R_ho" = -20;
-"@MMK_R_hu" = -20;
-"@MMK_R_ka" = -50;
-"@MMK_R_ke" = -10;
-"@MMK_R_ki" = -30;
-"@MMK_R_ku" = -20;
+"@MMK_R_hu" = -30;
+"@MMK_R_ka" = -70;
+"@MMK_R_ke" = -30;
+"@MMK_R_ki" = -50;
+"@MMK_R_ko" = -20;
+"@MMK_R_ku" = -30;
 "@MMK_R_sa" = -70;
-"@MMK_R_se" = -50;
+"@MMK_R_se" = -90;
 "@MMK_R_si" = -30;
-"@MMK_R_so" = -30;
-"@MMK_R_su" = -100;
-"@MMK_R_ta" = -40;
-"@MMK_R_te" = -100;
-"@MMK_R_ti" = -100;
-"@MMK_R_to" = -30;
-"@MMK_R_tu" = -90;
+"@MMK_R_so" = -60;
+"@MMK_R_su" = -110;
+"@MMK_R_ta" = -50;
+"@MMK_R_te" = -150;
+"@MMK_R_ti" = -120;
+"@MMK_R_to" = -50;
+"@MMK_R_tu" = -120;
 "a-hira" = -50;
-"e-hira" = -40;
-"i-hira" = -20;
-"ma-hira" = -40;
-"mo-hira" = -20;
-"mu-hira" = -10;
-"na-hira" = -40;
+"digraphyori-hira" = -30;
+"e-hira" = -70;
+"i-hira" = -30;
+"ma-hira" = -70;
+"me-hira" = -10;
+"mi-hira" = -10;
+"mo-hira" = -40;
+"mu-hira" = -20;
+"n-hira" = -20;
+"na-hira" = -60;
 "ne-hira" = -30;
-"no-hira" = -10;
-"nu-kata" = -30;
+"ni-hira" = -30;
+"no-hira" = -20;
+"nu-hira" = -20;
+"nu-kata" = -70;
 "o-hira" = -30;
-"ra-hira" = -10;
+"ra-hira" = -20;
 "re-hira" = -20;
-"ri-hira" = -30;
-"ro-hira" = -50;
-"ru-hira" = -50;
-"we-hira" = -60;
-"wi-hira" = -10;
-"wo-hira" = -80;
-"ya-hira" = -50;
-"yo-hira" = -10;
-"yu-hira" = -20;
+"ri-hira" = -40;
+"ro-hira" = -60;
+"ru-hira" = -60;
+"u-hira" = -65;
+"vu-hira" = -70;
+"wa-hira" = -30;
+"we-hira" = -80;
+"wi-hira" = -20;
+"wo-hira" = -100;
+"ya-hira" = -60;
+"yo-hira" = -20;
+"yu-hira" = -40;
 };
 "nu-kata" = {
-"@MMK_R_ha-kata" = -50;
-"@MMK_R_he-kata" = -50;
-"@MMK_R_ta-kata" = -20;
-"i-kata" = -30;
+"@MMK_R_ha-kata" = -80;
+"@MMK_R_he-kata" = -60;
+"@MMK_R_hi-kata" = -10;
+"@MMK_R_ho-kata" = -10;
+"@MMK_R_hu-kata" = -10;
+"@MMK_R_ka-kata" = -10;
+"@MMK_R_ke-kana" = -40;
+"@MMK_R_ki-kata" = -10;
+"@MMK_R_ko-kana" = -20;
+"@MMK_R_ku-kana" = -30;
+"@MMK_R_sa-kata" = -10;
+"@MMK_R_se-kata" = -20;
+"@MMK_R_si-kata" = -10;
+"@MMK_R_so-kata" = -10;
+"@MMK_R_su-kata" = -10;
+"@MMK_R_ta-kata" = -50;
+"@MMK_R_te-kata" = -20;
+"@MMK_R_ti-kata" = -20;
+"@MMK_R_to-kata" = -20;
+"@MMK_R_tu-kata" = -10;
+"@MMK_R_vi-kata" = -30;
+"@MMK_R_we-kata" = -30;
+"a-kata" = -20;
+"digraphkoto-kata" = -20;
+"e-kata" = -10;
+"i-kata" = -70;
+"ma-kata" = -10;
 "me-kata" = -40;
-"mu-kata" = -50;
-"na-kata" = -10;
-"ni-kata" = -60;
-"no-kata" = -50;
-"yu-kata" = -20;
+"mi-kata" = -10;
+"mo-kata" = -20;
+"mu-kata" = -60;
+"n-kata" = -10;
+"na-kata" = -20;
+"ne-kata" = -20;
+"ni-kata" = -80;
+"no-kata" = -80;
+"nu-kata" = -20;
+"ra-kata" = -30;
+"ro-kata" = -10;
+"ru-kata" = -50;
+"su-kata" = -20;
+"u-kata" = -20;
+"wo-kata" = -20;
+"ya-kata" = -10;
+"yo-kata" = -20;
+"yu-kata" = -40;
 };
 "o-hira" = {
 "@MMK_R_ha" = -10;
@@ -50424,10 +51101,10 @@ nine = {
 "@MMK_R_ki" = -20;
 "@MMK_R_ko" = -20;
 "@MMK_R_sa" = -30;
-"@MMK_R_se" = -30;
+"@MMK_R_se" = -40;
 "@MMK_R_so" = -20;
 "@MMK_R_su" = -80;
-"@MMK_R_ta" = -40;
+"@MMK_R_ta" = -50;
 "@MMK_R_te" = -80;
 "@MMK_R_ti" = -90;
 "@MMK_R_to" = -30;
@@ -50439,10 +51116,10 @@ nine = {
 "mi-hira" = -20;
 "mu-hira" = -50;
 "n-hira" = -20;
-"na-hira" = -40;
+"na-hira" = -50;
 "ne-hira" = -40;
 "no-hira" = -10;
-"nu-hira" = -10;
+"nu-hira" = -20;
 "o-hira" = -40;
 "re-hira" = -40;
 "ro-hira" = -30;
@@ -50458,19 +51135,43 @@ nine = {
 };
 "o-kata" = {
 "@MMK_R_ha-kata" = -100;
-"@MMK_R_he-kata" = -90;
-"@MMK_R_ta-kata" = -40;
+"@MMK_R_he-kata" = -100;
+"@MMK_R_ka-kata" = -10;
+"@MMK_R_ke-kana" = -30;
+"@MMK_R_ko-kana" = -10;
+"@MMK_R_ku-kana" = -40;
+"@MMK_R_sa-kata" = -10;
+"@MMK_R_se-kata" = -10;
+"@MMK_R_si-kata" = -10;
+"@MMK_R_ta-kata" = -50;
+"@MMK_R_te-kata" = -20;
 "@MMK_R_ti-kata" = -10;
-"i-kata" = -90;
+"@MMK_R_to-kata" = -10;
+"@MMK_R_vi-kata" = -20;
+"@MMK_R_we-kata" = -20;
+"a-kata" = -10;
+"digraphkoto-kata" = -10;
+"i-kata" = -140;
+"ma-kata" = -10;
 "me-kata" = -30;
-"mu-kata" = -70;
+"mi-kata" = -10;
+"mo-kata" = -10;
+"mu-kata" = -90;
 "n-kata" = 0;
-"no-kata" = -90;
+"na-kata" = -20;
+"ne-kata" = -20;
+"ni-kata" = -70;
+"no-kata" = -130;
 "nu-kata" = -10;
-"ru-kata" = -50;
+"ra-kata" = -40;
+"ro-kata" = -10;
+"ru-kata" = -60;
+"su-kata" = -10;
 "u-kata" = -10;
+"wo-kata" = -10;
 "ya-kata" = -10;
-"yu-kata" = -20;
+"yo-kata" = -10;
+"yu-kata" = -30;
 };
 one = {
 "@MMK_R_H" = -30;
@@ -50524,11 +51225,15 @@ p.full = {
 "@MMK_R_ka" = -10;
 "@MMK_R_ke" = -20;
 "@MMK_R_ku" = -70;
+"@MMK_R_se" = -10;
+"dot-kata" = -10;
 "e-hira" = -10;
 "i-hira" = -10;
 "n-hira" = -70;
+"ne-hira" = 10;
+"ni-hira" = -20;
 "no-hira" = -70;
-"nu-hira" = -60;
+"nu-hira" = -70;
 "we-hira" = -40;
 "yo-hira" = -140;
 "yu-hira" = -60;
@@ -50539,21 +51244,27 @@ p.full = {
 "@MMK_R_hi-kata" = -20;
 "@MMK_R_ho-kata" = -50;
 "@MMK_R_hu-kata" = -30;
-"@MMK_R_sa-kata" = -40;
+"@MMK_R_ka-kata" = -50;
+"@MMK_R_sa-kata" = -70;
 "@MMK_R_se-kata" = -50;
 "@MMK_R_so-kata" = -10;
-"@MMK_R_ta-kata" = -80;
-"@MMK_R_te-kata" = -10;
-"@MMK_R_ti-kata" = -30;
-"@MMK_R_to-kata" = -20;
+"@MMK_R_ta-kata" = -120;
+"@MMK_R_te-kata" = -20;
+"@MMK_R_ti-kata" = -40;
+"@MMK_R_to-kata" = -30;
 "@MMK_R_tu-kata" = -10;
-"i-kata" = -100;
+"i-kata" = -110;
 "mi-kata" = -10;
 "mu-kata" = -90;
-"ni-kata" = -70;
-"no-kata" = -70;
+"na-kata" = -130;
+"ne-kata" = -20;
+"ni-kata" = -80;
+"no-kata" = -80;
+"nu-kata" = -10;
+"o-kata" = -30;
 "ri-kata" = -10;
 "ru-kata" = -40;
+"su-kata" = -30;
 "u-kata" = -70;
 "ya-kata" = -90;
 "yu-kata" = -40;
@@ -50566,16 +51277,19 @@ p.full = {
 "@MMK_R_ka" = -10;
 "@MMK_R_ku" = -50;
 "@MMK_R_sa" = -10;
+"@MMK_R_se" = -20;
 "@MMK_R_si" = -10;
+"@MMK_R_ta" = -10;
 "@MMK_R_te" = -10;
 "@MMK_R_ti" = -10;
 "@MMK_R_tu" = -20;
 "i-hira" = -20;
 "me-hira" = -20;
 "n-hira" = -30;
-"ni-hira" = -10;
+"na-hira" = -10;
+"ni-hira" = -30;
 "no-hira" = -50;
-"nu-hira" = -40;
+"nu-hira" = -50;
 "ra-hira" = -50;
 "u-hira" = 10;
 "we-hira" = -20;
@@ -50592,12 +51306,17 @@ p.full = {
 "@MMK_R_sa-kata" = -30;
 "@MMK_R_se-kata" = -50;
 "@MMK_R_si-kata" = -10;
-"@MMK_R_ta-kata" = -30;
+"@MMK_R_ta-kata" = -50;
 "@MMK_R_te-kata" = -10;
-"@MMK_R_ti-kata" = -10;
+"@MMK_R_ti-kata" = -20;
+"@MMK_R_tu-kata" = -10;
 "i-kata" = -30;
-"na-kata" = -40;
+"n-kata" = -10;
+"na-kata" = -50;
+"ni-kata" = -10;
+"nu-kata" = -10;
 "re-kata" = 10;
+"su-kata" = -10;
 "u-kata" = -10;
 };
 period = {
@@ -50614,8 +51333,9 @@ period = -30;
 "@MMK_R_ki" = -10;
 "@MMK_R_ku" = -80;
 "@MMK_R_sa" = -20;
-"@MMK_R_se" = -10;
+"@MMK_R_se" = -40;
 "@MMK_R_si" = -20;
+"@MMK_R_su" = -10;
 "@MMK_R_te" = -20;
 "@MMK_R_tu" = -30;
 "a-hira" = -20;
@@ -50625,9 +51345,10 @@ period = -30;
 "mo-hira" = -10;
 "mu-hira" = -20;
 "n-hira" = -80;
-"ni-hira" = -30;
+"na-hira" = -10;
+"ni-hira" = -40;
 "no-hira" = -80;
-"nu-hira" = -60;
+"nu-hira" = -80;
 "o-hira" = -20;
 "ra-hira" = -50;
 "ri-hira" = -10;
@@ -50646,19 +51367,22 @@ period = -30;
 "@MMK_R_ka-kana" = -20;
 "@MMK_R_ke-kana" = -30;
 "@MMK_R_ku-kana" = -40;
-"@MMK_R_sa-kata" = -10;
+"@MMK_R_sa-kata" = -20;
 "@MMK_R_se-kata" = -20;
-"@MMK_R_ta-kata" = -40;
+"@MMK_R_ta-kata" = -70;
 "@MMK_R_ti-kata" = -10;
+"@MMK_R_to-kata" = -10;
 "i-kata" = -100;
 "me-kata" = -50;
 "mu-kata" = -70;
-"na-kata" = -50;
-"ni-kata" = -70;
+"na-kata" = -60;
+"ne-kata" = -20;
+"ni-kata" = -80;
 "no-kata" = -80;
 "ra-kata" = -10;
 "ro-kata" = -20;
 "ru-kata" = -50;
+"su-kata" = -10;
 "u-kata" = -40;
 "wa-kata" = -10;
 "we-kata" = -10;
@@ -50678,13 +51402,13 @@ period = -30;
 "@MMK_R_ko" = -20;
 "@MMK_R_ku" = -120;
 "@MMK_R_sa" = -70;
-"@MMK_R_se" = -80;
-"@MMK_R_si" = -30;
-"@MMK_R_so" = 10;
+"@MMK_R_se" = -90;
+"@MMK_R_si" = -31;
+"@MMK_R_so" = 0;
 "@MMK_R_su" = -20;
 "@MMK_R_ta" = -20;
 "@MMK_R_te" = -30;
-"@MMK_R_ti" = -10;
+"@MMK_R_ti" = -20;
 "@MMK_R_tu" = -60;
 "i-hira" = -60;
 "ma-hira" = -20;
@@ -50693,9 +51417,9 @@ period = -30;
 "mo-hira" = -40;
 "mu-hira" = -60;
 "n-hira" = -100;
-"na-hira" = -30;
+"na-hira" = -40;
 "ni-hira" = -50;
-"no-hira" = -130;
+"no-hira" = -140;
 "nu-hira" = -100;
 "o-hira" = -40;
 "ra-hira" = -100;
@@ -50717,21 +51441,28 @@ period = -30;
 "@MMK_R_ke-kana" = -20;
 "@MMK_R_ki-kana" = -10;
 "@MMK_R_ku-kana" = -40;
-"@MMK_R_sa-kata" = -20;
+"@MMK_R_sa-kata" = -30;
 "@MMK_R_se-kata" = -20;
-"@MMK_R_ta-kata" = -30;
+"@MMK_R_ta-kata" = -60;
+"@MMK_R_te-kata" = -10;
+"@MMK_R_ti-kata" = -20;
 "@MMK_R_to-kata" = 10;
+"@MMK_R_tu-kata" = -10;
 "a-kata" = -10;
 "i-kata" = -40;
 "ma-kata" = -10;
 "me-kata" = -20;
 "mu-kata" = -40;
 "na-kata" = -40;
-"ni-kata" = -20;
+"ni-kata" = -30;
 "re-kata" = 10;
+"su-kata" = -20;
 "u-kata" = -30;
 "we-kata" = -10;
 "ya-kata" = -20;
+};
+"prolonged-kana" = {
+"ru-kata" = -50;
 };
 "pu-hira" = {
 "@MMK_R_ha" = -20;
@@ -50746,12 +51477,13 @@ period = -30;
 "@MMK_R_ko" = -20;
 "@MMK_R_ku" = -20;
 "@MMK_R_sa" = -20;
+"@MMK_R_se" = -10;
 "@MMK_R_si" = -10;
 "@MMK_R_so" = -40;
-"@MMK_R_su" = -30;
-"@MMK_R_ta" = -30;
+"@MMK_R_su" = -40;
+"@MMK_R_ta" = -40;
 "@MMK_R_te" = -40;
-"@MMK_R_ti" = -30;
+"@MMK_R_ti" = -40;
 "@MMK_R_to" = -50;
 "@MMK_R_tu" = -20;
 "a-hira" = -50;
@@ -50763,8 +51495,11 @@ period = -30;
 "mo-hira" = -30;
 "mu-hira" = -20;
 "n-hira" = -50;
-"ne-hira" = -20;
+"na-hira" = -30;
+"ne-hira" = -30;
+"ni-hira" = -20;
 "no-hira" = -40;
+"nu-hira" = -50;
 "o-hira" = -20;
 "ra-hira" = -10;
 "re-hira" = -30;
@@ -50787,18 +51522,24 @@ period = -30;
 "@MMK_R_ka-kana" = -30;
 "@MMK_R_ke-kana" = -30;
 "@MMK_R_ku-kana" = -50;
+"@MMK_R_sa-kata" = -30;
 "@MMK_R_se-kata" = -30;
-"@MMK_R_ta-kata" = -60;
+"@MMK_R_si-kata" = 10;
+"@MMK_R_ta-kata" = -80;
 "@MMK_R_te-kata" = -10;
 "@MMK_R_ti-kata" = -20;
+"@MMK_R_to-kata" = -10;
 "i-kata" = -110;
 "me-kata" = -60;
 "mu-kata" = -100;
-"na-kata" = -60;
+"na-kata" = -90;
+"ne-kata" = 0;
 "ni-kata" = -80;
-"no-kata" = -120;
+"no-kata" = -140;
+"nu-kata" = 10;
 "ro-kata" = -30;
 "ru-kata" = -50;
+"su-kata" = -5;
 "u-kata" = -60;
 "wa-kata" = -10;
 "ya-kata" = -50;
@@ -50830,13 +51571,22 @@ y = -20;
 "@MMK_R_he" = 20;
 "@MMK_R_hi" = -30;
 "@MMK_R_ko" = 20;
-"@MMK_R_se" = -30;
+"@MMK_R_sa" = -20;
+"@MMK_R_se" = -40;
+"@MMK_R_so" = -40;
 "@MMK_R_su" = -20;
+"@MMK_R_ta" = -20;
 "@MMK_R_te" = -40;
-"@MMK_R_tu" = -40;
+"@MMK_R_ti" = -30;
+"@MMK_R_to" = -10;
+"@MMK_R_tu" = -50;
 "a-hira" = -20;
 "i-hira" = -10;
+"me-hira" = 10;
 "mi-hira" = 10;
+"na-hira" = -20;
+"nu-hira" = -10;
+"ya-hira" = -20;
 "yo-hira" = 10;
 "yu-hira" = -10;
 };
@@ -50846,10 +51596,20 @@ y = -20;
 "@MMK_R_sa-kata" = -30;
 "@MMK_R_se-kata" = -40;
 "@MMK_R_si-kata" = -10;
+"@MMK_R_so-kata" = -20;
+"@MMK_R_ta-kata" = -10;
+"@MMK_R_ti-kata" = -10;
+"@MMK_R_tu-kata" = -20;
+"a-kata" = -10;
+"e-kata" = -10;
 "i-kata" = -10;
 "ma-kata" = -20;
-"ni-kata" = -30;
+"ne-kata" = -10;
+"ni-kata" = -40;
 "no-kata" = -40;
+"nu-kata" = -20;
+"o-kata" = -20;
+"su-kata" = -35;
 "wo-kata" = -10;
 "yu-kata" = -20;
 };
@@ -50863,27 +51623,32 @@ y = -20;
 "@MMK_R_ki" = -20;
 "@MMK_R_ko" = -10;
 "@MMK_R_ku" = -30;
-"@MMK_R_se" = -50;
+"@MMK_R_se" = -70;
 "@MMK_R_si" = -30;
-"@MMK_R_so" = -50;
+"@MMK_R_so" = -70;
 "@MMK_R_su" = -60;
+"@MMK_R_ta" = -70;
 "@MMK_R_te" = -90;
-"@MMK_R_ti" = -60;
+"@MMK_R_ti" = -100;
 "@MMK_R_to" = -20;
-"@MMK_R_tu" = -60;
+"@MMK_R_tu" = -100;
 "a-hira" = -60;
 "e-hira" = -30;
 "i-hira" = -40;
 "mi-hira" = -10;
 "mu-hira" = -10;
 "n-hira" = -10;
-"no-hira" = -30;
+"na-hira" = -100;
+"ne-hira" = -20;
+"ni-hira" = -40;
+"no-hira" = -40;
+"nu-hira" = -40;
 "o-hira" = -30;
 "ra-hira" = -40;
 "re-hira" = -10;
 "ri-hira" = -40;
 "ro-hira" = -70;
-"ru-hira" = -40;
+"ru-hira" = -70;
 "u-hira" = -60;
 "wa-hira" = -40;
 "we-hira" = -10;
@@ -50902,29 +51667,30 @@ y = -20;
 "@MMK_R_ki-kana" = -40;
 "@MMK_R_ko-kana" = -60;
 "@MMK_R_ku-kana" = -30;
-"@MMK_R_sa-kata" = -80;
-"@MMK_R_se-kata" = -70;
-"@MMK_R_si-kata" = -30;
-"@MMK_R_so-kata" = -80;
+"@MMK_R_sa-kata" = -90;
+"@MMK_R_se-kata" = -90;
+"@MMK_R_si-kata" = -40;
+"@MMK_R_so-kata" = -90;
 "@MMK_R_su-kata" = -70;
 "@MMK_R_ta-kata" = -10;
 "@MMK_R_te-kata" = -10;
+"@MMK_R_to-kata" = -10;
 "@MMK_R_tu-kata" = -40;
 "a-kata" = -130;
-"e-kata" = -40;
+"e-kata" = -50;
 "i-kata" = -10;
 "me-kata" = -70;
 "n-kata" = -120;
 "na-kata" = -40;
-"ne-kata" = -20;
+"ne-kata" = -30;
 "ni-kata" = -50;
 "no-kata" = -70;
-"nu-kata" = -90;
+"nu-kata" = -110;
 "o-kata" = -50;
 "ra-kata" = -20;
 "ri-kata" = -20;
 "ru-kata" = -40;
-"su-kata" = -70;
+"su-kata" = -90;
 "u-kata" = -30;
 "wa-kata" = -50;
 "wo-kata" = -60;
@@ -50934,11 +51700,19 @@ y = -20;
 "ri-hira" = {
 "@MMK_R_he" = -10;
 "@MMK_R_hi" = -10;
+"@MMK_R_se" = -10;
+"@MMK_R_so" = -20;
+"@MMK_R_su" = -10;
 "@MMK_R_te" = -10;
+"@MMK_R_ti" = -10;
 "@MMK_R_to" = 0;
 "@MMK_R_tu" = -10;
 "a-hira" = -10;
+"na-hira" = -10;
+"no-hira" = -20;
+"nu-hira" = -20;
 "ri-hira" = 10;
+"ru-hira" = -10;
 "we-hira" = -20;
 "yo-hira" = -20;
 };
@@ -50949,29 +51723,42 @@ y = -20;
 "@MMK_R_hu-kata" = 0;
 "@MMK_R_sa-kata" = -10;
 "@MMK_R_se-kata" = -10;
-"@MMK_R_si-kata" = 0;
+"@MMK_R_si-kata" = -10;
 "@MMK_R_su-kata" = -10;
-"@MMK_R_ta-kata" = -10;
+"@MMK_R_ta-kata" = -20;
+"@MMK_R_ti-kata" = -10;
 "@MMK_R_to-kata" = 10;
 "@MMK_R_tu-kata" = 10;
+"a-kata" = -10;
 "i-kata" = -30;
 "ma-kata" = -10;
 "me-kata" = -20;
 "mu-kata" = -20;
 "n-kata" = 10;
-"ni-kata" = -20;
+"na-kata" = -10;
+"ni-kata" = -50;
 "no-kata" = -70;
+"nu-kata" = -10;
+"o-kata" = 10;
 "re-kata" = 20;
 "ro-kata" = 10;
 "ru-kata" = -30;
+"su-kata" = -10;
 "we-kata" = -10;
 "yu-kata" = -30;
 };
 "ro-hira" = {
 "@MMK_R_hi" = -10;
 "@MMK_R_sa" = -10;
+"@MMK_R_se" = -30;
+"@MMK_R_so" = -15;
+"@MMK_R_ta" = -10;
 "@MMK_R_te" = -10;
-"@MMK_R_tu" = -10;
+"@MMK_R_ti" = -10;
+"@MMK_R_tu" = -20;
+"na-hira" = -20;
+"ni-hira" = -10;
+"no-hira" = -10;
 "ya-hira" = -20;
 };
 "ro-kata" = {
@@ -50980,27 +51767,44 @@ y = -20;
 "@MMK_R_ho-kata" = -10;
 "@MMK_R_hu-kata" = -20;
 "@MMK_R_ko-kana" = -20;
-"@MMK_R_se-kata" = -10;
+"@MMK_R_sa-kata" = -10;
+"@MMK_R_se-kata" = -20;
+"@MMK_R_si-kata" = -20;
 "@MMK_R_so-kata" = -10;
 "@MMK_R_su-kata" = -10;
 "@MMK_R_ta-kata" = -10;
+"@MMK_R_ti-kata" = -10;
 "@MMK_R_to-kata" = 10;
-"i-kata" = -20;
+"a-kata" = -30;
+"e-kata" = -10;
+"i-kata" = -10;
 "me-kata" = -40;
 "n-kata" = -20;
-"no-kata" = -40;
+"ne-kata" = -10;
+"ni-kata" = -30;
+"no-kata" = -30;
+"nu-kata" = -30;
 "re-kata" = 10;
+"su-kata" = -20;
 "we-kata" = -30;
 "yu-kata" = -30;
 };
 "ru-hira" = {
 "@MMK_R_ko" = 20;
+"@MMK_R_se" = -20;
+"@MMK_R_so" = -10;
+"@MMK_R_su" = -20;
+"@MMK_R_ta" = -10;
 "@MMK_R_te" = -20;
+"@MMK_R_ti" = -10;
 "@MMK_R_tu" = -40;
+"i-hira" = -10;
 "mi-hira" = 10;
 "mo-hira" = -10;
+"na-hira" = -20;
 "o-hira" = 10;
 "we-hira" = -20;
+"yu-hira" = -10;
 };
 "ru-kata" = {
 "@MMK_R_ha-kata" = -30;
@@ -51012,25 +51816,28 @@ y = -20;
 "@MMK_R_ki-kana" = -30;
 "@MMK_R_ko-kana" = -40;
 "@MMK_R_ku-kana" = -40;
-"@MMK_R_sa-kata" = -90;
-"@MMK_R_se-kata" = -90;
+"@MMK_R_sa-kata" = -110;
+"@MMK_R_se-kata" = -110;
 "@MMK_R_si-kata" = -50;
 "@MMK_R_so-kata" = -90;
 "@MMK_R_su-kata" = -80;
 "@MMK_R_ta-kata" = -20;
 "@MMK_R_te-kata" = -10;
+"@MMK_R_ti-kata" = -10;
+"@MMK_R_to-kata" = -10;
 "@MMK_R_tu-kata" = -60;
-"a-kata" = -120;
-"e-kata" = -30;
+"a-kata" = -140;
+"e-kata" = -40;
 "ma-kata" = -110;
 "me-kata" = -40;
 "mo-kata" = -20;
 "n-kata" = -80;
-"na-kata" = -40;
-"ni-kata" = -20;
+"na-kata" = -50;
+"ne-kata" = -30;
+"ni-kata" = -40;
 "no-kata" = -40;
-"nu-kata" = -80;
-"o-kata" = -20;
+"nu-kata" = -110;
+"o-kata" = -40;
 "ra-kata" = -20;
 "re-kata" = -10;
 "ri-kata" = -30;
@@ -51044,77 +51851,198 @@ y = -20;
 "yu-kata" = -30;
 };
 "sa-hira" = {
+"@MMK_R_a" = -10;
 "@MMK_R_he" = -40;
-"@MMK_R_hi" = -20;
-"@MMK_R_ho" = -1;
+"@MMK_R_hi" = -40;
+"@MMK_R_ho" = -11;
 "@MMK_R_hu" = -20;
 "@MMK_R_ku" = -30;
+"@MMK_R_so" = -30;
 "@MMK_R_su" = -10;
+"@MMK_R_ta" = -10;
+"@MMK_R_te" = -10;
+"@MMK_R_ti" = -11;
+"@MMK_R_to" = -20;
 "e-hira" = -20;
+"i-hira" = -10;
+"ma-hira" = -10;
 "me-hira" = -40;
-"n-hira" = -50;
+"mi-hira" = -20;
+"mo-hira" = -10;
+"mu-hira" = -10;
+"n-hira" = -60;
+"na-hira" = -5;
+"ne-hira" = -10;
+"ni-hira" = -10;
 "no-hira" = -40;
 "nu-hira" = -50;
+"ra-hira" = -20;
 "ro-hira" = -30;
 "ru-hira" = -30;
 "u-hira" = -20;
+"vu-hira" = -20;
+"wa-hira" = -10;
 "we-hira" = -60;
 "wi-hira" = -30;
+"wo-hira" = -10;
+"ya-hira" = -40;
 "yo-hira" = -90;
-"yu-hira" = -10;
+"yu-hira" = -20;
 };
 "sa-kata" = {
-"@MMK_R_ha-kata" = -100;
-"@MMK_R_he-kata" = -80;
-"@MMK_R_ho-kata" = -10;
-"@MMK_R_hu-kata" = -10;
-"@MMK_R_ta-kata" = -40;
-"@MMK_R_to-kata" = -10;
-"a-kata" = -10;
-"i-kata" = -80;
-"me-kata" = -30;
+"@MMK_R_ha-kata" = -90;
+"@MMK_R_he-kata" = -90;
+"@MMK_R_hi-kata" = -20;
+"@MMK_R_ho-kata" = -20;
+"@MMK_R_hu-kata" = -20;
+"@MMK_R_ka-kana" = -20;
+"@MMK_R_ka-kata" = -20;
+"@MMK_R_ke-kana" = -60;
+"@MMK_R_ki-kana" = -20;
+"@MMK_R_ki-kata" = -20;
+"@MMK_R_ko-kana" = -30;
+"@MMK_R_ku-kana" = -30;
+"@MMK_R_sa-kata" = -20;
+"@MMK_R_se-kata" = -20;
+"@MMK_R_si-kata" = -10;
+"@MMK_R_so-kata" = -20;
+"@MMK_R_su" = -10;
+"@MMK_R_su-kata" = -20;
+"@MMK_R_ta-kata" = -50;
+"@MMK_R_te-kata" = -30;
+"@MMK_R_ti-kata" = -20;
+"@MMK_R_to-kata" = -20;
+"@MMK_R_tu-kata" = -10;
+"@MMK_R_we-kata" = -50;
+"a-kata" = -30;
+"digraphkoto-kata" = -30;
+"e-kata" = -40;
+"i-kata" = -90;
+"ma-kata" = -30;
+"me-kata" = -60;
+"mi-kata" = -25;
+"mo-kata" = -20;
 "mu-kata" = -70;
-"ni-kata" = -60;
+"n-kata" = -20;
+"na-kata" = -30;
+"ne-kata" = -20;
+"ni-kata" = -110;
 "no-kata" = -110;
+"nu-kata" = -40;
+"o-kata" = -10;
+"ra-kata" = -50;
+"re-kata" = -10;
 "ri-kata" = -10;
-"ru-kata" = -40;
+"ro-kata" = -20;
+"ru-kata" = -70;
+"su-kata" = -20;
 "u-kata" = -10;
-"wo-kata" = -30;
+"va-kata" = -10;
+"vi-kata" = -40;
+"wa-kata" = -10;
+"wi-kata" = -40;
+"wo-kata" = -40;
+"ya-kata" = -20;
 "yo-kata" = -20;
-"zi-kata" = -20;
+"yu-kata" = -40;
+"zi-kata" = -30;
 };
 "se-hira" = {
-"@MMK_R_he" = -30;
-"@MMK_R_hu" = -30;
-"@MMK_R_ku" = -10;
-"@MMK_R_se" = 20;
-"@MMK_R_ti" = -10;
-"no-hira" = -20;
-"nu-hira" = -20;
-"ro-hira" = -30;
-"u-hira" = -20;
-"we-hira" = -40;
-"yo-hira" = -60;
+"@MMK_R_a" = -30;
+"@MMK_R_ha" = 0;
+"@MMK_R_he" = -50;
+"@MMK_R_hi" = -40;
+"@MMK_R_ho" = -10;
+"@MMK_R_hu" = -40;
+"@MMK_R_ke" = -10;
+"@MMK_R_ki" = -10;
+"@MMK_R_ko" = -10;
+"@MMK_R_ku" = -40;
+"@MMK_R_se" = 0;
+"@MMK_R_so" = -30;
+"@MMK_R_su" = -10;
+"@MMK_R_ta" = -10;
+"@MMK_R_te" = -20;
+"@MMK_R_ti" = -20;
+"@MMK_R_to" = -20;
+"@MMK_R_tu" = -10;
+"digraphyori-hira" = -50;
+"e-hira" = -30;
+"i-hira" = -10;
+"ma-hira" = -20;
+"me-hira" = -40;
+"mi-hira" = -20;
+"mo-hira" = -10;
+"mu-hira" = -20;
+"n-hira" = -50;
+"na-hira" = -10;
+"no-hira" = -30;
+"nu-hira" = -50;
+"o-hira" = 0;
+"ra-hira" = -20;
+"re-hira" = -10;
+"ro-hira" = -40;
+"ru-hira" = -20;
+"u-hira" = -40;
+"vu-hira" = -30;
+"wa-hira" = -10;
+"we-hira" = -60;
+"wi-hira" = -40;
+"wo-hira" = -10;
+"ya-hira" = -40;
+"yo-hira" = -70;
+"yu-hira" = -20;
 };
 "se-kata" = {
 "@MMK_R_ha-kata" = -70;
 "@MMK_R_he-kata" = -40;
-"@MMK_R_ho-kata" = -10;
+"@MMK_R_hi-kata" = -10;
+"@MMK_R_ho-kata" = -20;
 "@MMK_R_hu-kata" = -30;
+"@MMK_R_ke-kana" = -20;
+"@MMK_R_ko-kana" = -40;
+"@MMK_R_ku-kana" = -20;
+"@MMK_R_sa-kata" = -20;
 "@MMK_R_se-kata" = -20;
+"@MMK_R_si-kata" = -10;
+"@MMK_R_so" = -30;
 "@MMK_R_so-kata" = -20;
-"@MMK_R_su-kata" = -20;
+"@MMK_R_su-kata" = -40;
 "@MMK_R_ta-kata" = -20;
-"a-kata" = -20;
-"i-kata" = -40;
+"@MMK_R_te-kata" = -30;
+"@MMK_R_ti-kata" = -20;
+"@MMK_R_to-kata" = -10;
+"@MMK_R_tu-kata" = -10;
+"@MMK_R_vi-kata" = -40;
+"@MMK_R_we-kata" = -50;
+"a-kata" = -40;
+"digraphkoto-kata" = -40;
+"e-kata" = -30;
+"i-kata" = -50;
+"ma-kata" = -50;
 "me-kata" = -50;
-"n-kata" = -10;
+"mi-kata" = -20;
+"mo-kata" = -20;
+"mu-kata" = -50;
+"n-kata" = -30;
+"na-kata" = -10;
+"ne-kata" = -10;
+"ni-kata" = -80;
 "no-kata" = -70;
-"nu-kata" = -20;
+"nu-kata" = -50;
+"o-kata" = -10;
+"ra-kata" = -20;
 "re-kata" = 10;
+"ri-kata" = -10;
+"ro-kata" = -10;
 "ru-kata" = -40;
-"wo-kata" = -30;
-"yo-kata" = -20;
+"su-kata" = -30;
+"u-kata" = -10;
+"va-kata" = -10;
+"wa-kata" = -10;
+"wo-kata" = -40;
+"yo-kata" = -30;
+"yu-kata" = -40;
 "zi-kata" = -20;
 };
 seven = {
@@ -51130,45 +52058,92 @@ seven = {
 u = -50;
 };
 "si-hira" = {
-"@MMK_R_he" = 10;
-"@MMK_R_hi" = -70;
+"@MMK_R_he" = 5;
+"@MMK_R_hi" = -60;
 "@MMK_R_hu" = -20;
 "@MMK_R_ka" = -40;
-"@MMK_R_se" = -60;
-"@MMK_R_su" = -90;
+"@MMK_R_sa" = -40;
+"@MMK_R_sa-kata" = -70;
+"@MMK_R_se" = -80;
+"@MMK_R_si" = -10;
+"@MMK_R_so" = -35;
+"@MMK_R_su" = -100;
 "@MMK_R_ta" = -30;
-"@MMK_R_te" = -100;
-"@MMK_R_ti" = -80;
+"@MMK_R_te" = -110;
+"@MMK_R_ti" = -90;
 "@MMK_R_to" = -20;
-"@MMK_R_tu" = -90;
+"@MMK_R_tu" = -100;
 "a-hira" = -30;
 "e-hira" = -50;
+"i-hira" = -10;
+"ma-hira" = -60;
 "mi-hira" = 10;
+"mo-hira" = -20;
+"n-hira" = -10;
+"na-hira" = -45;
 "ne-hira" = -10;
+"ni-hira" = -10;
+"no-hira" = -10;
+"nu-hira" = -10;
 "o-hira" = -20;
+"ri-hira" = -30;
 "ro-hira" = -40;
 "ru-hira" = -30;
-"u-hira" = -40;
+"u-hira" = -50;
+"vu-hira" = -40;
+"wa-hira" = -30;
 "we-hira" = -60;
-"wo-hira" = -90;
+"wo-hira" = -100;
+"yasmall-hira" = -10;
+"yosmall-hira" = -10;
+"yu-hira" = -30;
 };
 "si-kata" = {
 "@MMK_R_ha-kata" = -70;
-"@MMK_R_he-kata" = -20;
-"@MMK_R_ho-kata" = -10;
-"@MMK_R_hu-kata" = -20;
+"@MMK_R_he-kata" = -30;
+"@MMK_R_ho-kata" = -20;
+"@MMK_R_hu-kata" = -30;
+"@MMK_R_ka-kata" = -30;
+"@MMK_R_ki-kana" = -10;
+"@MMK_R_ki-kata" = -30;
+"@MMK_R_ko-kana" = -50;
+"@MMK_R_ku-kana" = -10;
+"@MMK_R_sa-kata" = -20;
 "@MMK_R_se-kata" = -10;
-"@MMK_R_si-kata" = -10;
-"@MMK_R_so-kata" = -10;
+"@MMK_R_si-kata" = -20;
+"@MMK_R_so-kata" = -30;
 "@MMK_R_su-kata" = -30;
-"@MMK_R_ta-kata" = -10;
-"a-kata" = -40;
+"@MMK_R_ta-kata" = -20;
+"@MMK_R_te-kata" = -20;
+"@MMK_R_ti-kata" = -20;
+"@MMK_R_to-kata" = -10;
+"@MMK_R_tu-kata" = -10;
+"@MMK_R_vi-kata" = -40;
+"a-kata" = -50;
+"digraphkoto-kata" = -60;
+"e-kata" = -40;
+"i-kata" = -40;
+"ma-kata" = -60;
 "me-kata" = -50;
+"mi-kata" = -20;
+"mo-kata" = -20;
 "mu-kata" = -40;
-"n-kata" = -20;
-"ni-kata" = -40;
-"no-kata" = -70;
+"n-kata" = -30;
+"na-kata" = -10;
+"ne-kata" = -10;
+"ni-kata" = -70;
+"no-kata" = -80;
+"nu-kata" = -50;
+"o-kata" = -10;
+"ra-kata" = -30;
+"ri-kata" = -10;
+"ro-kata" = -10;
 "ru-kata" = -30;
+"su-kata" = -40;
+"u-kata" = -10;
+"ve-kata" = -50;
+"wa-kata" = -20;
+"we-kata" = -70;
 "wo-kata" = -40;
 "yo-kata" = -30;
 "yu-kata" = -40;
@@ -51183,61 +52158,162 @@ six = {
 y = -20;
 };
 "so-hira" = {
-"@MMK_R_ka" = -10;
+"@MMK_R_ha" = -20;
+"@MMK_R_he" = -30;
+"@MMK_R_hi" = -10;
+"@MMK_R_ho" = -20;
+"@MMK_R_hu" = -20;
+"@MMK_R_ka" = -30;
+"@MMK_R_ki" = -10;
+"@MMK_R_ko" = -20;
 "@MMK_R_ku" = -10;
+"@MMK_R_sa" = -20;
+"@MMK_R_se" = -30;
+"@MMK_R_si" = -10;
+"@MMK_R_so" = 0;
+"@MMK_R_su" = -10;
+"@MMK_R_ta" = -10;
+"@MMK_R_te" = -20;
+"@MMK_R_ti" = -10;
+"@MMK_R_to" = 0;
+"@MMK_R_tu" = -20;
+"digraphyori-hira" = -30;
 "i-hira" = -20;
+"ma-hira" = -20;
+"me-hira" = -30;
+"mi-hira" = -5;
+"mo-hira" = -20;
+"mu-hira" = -20;
+"n-hira" = -40;
+"na-hira" = -10;
+"ni-hira" = -20;
 "no-hira" = -30;
-"yo-hira" = -30;
+"nu-hira" = -30;
+"ra-hira" = -20;
+"re-hira" = -10;
+"ri-hira" = -20;
+"ro-hira" = -10;
+"ru-hira" = -10;
+"wa-hira" = -10;
+"we-hira" = -40;
+"wi-hira" = -20;
+"ya-hira" = -30;
+"yo-hira" = -50;
+"yu-hira" = -30;
 };
 "so-kata" = {
 "@MMK_R_ha-kata" = -70;
 "@MMK_R_he-kata" = -40;
+"@MMK_R_hi-kata" = 10;
+"@MMK_R_ke-kana" = -10;
+"@MMK_R_ki-kata" = -10;
+"@MMK_R_ku-kana" = -10;
+"@MMK_R_sa-kata" = -10;
+"@MMK_R_se-kata" = -10;
+"@MMK_R_si-kata" = -10;
+"@MMK_R_so-kata" = -10;
 "@MMK_R_ta-kata" = -20;
+"@MMK_R_ti-kata" = -10;
+"@MMK_R_to-kata" = -10;
 "@MMK_R_tu-kata" = 10;
-"i-kata" = -40;
+"@MMK_R_vi-kata" = -30;
+"@MMK_R_we-kata" = -20;
+"a-kata" = -10;
+"digraphkoto-kata" = -10;
+"i-kata" = -50;
+"ma-kata" = -10;
 "me-kata" = -30;
 "mu-kata" = -30;
-"ni-kata" = -40;
-"no-kata" = -40;
+"na-kata" = -10;
+"ne-kata" = -20;
+"ni-kata" = -70;
+"no-kata" = -90;
+"nu-kata" = -10;
+"ra-kata" = -10;
 "re-kata" = 10;
+"ro-kata" = 5;
 "ru-kata" = -20;
+"su-kata" = -10;
+"wo-kata" = -10;
+"yo-kata" = -10;
 "yu-kata" = -20;
 };
 "su-hira" = {
 "@MMK_R_ha" = -20;
 "@MMK_R_he" = -90;
 "@MMK_R_ho" = -20;
+"@MMK_R_hu" = -20;
 "@MMK_R_ka" = -20;
 "@MMK_R_ke" = -20;
-"@MMK_R_ku" = -60;
-"@MMK_R_se" = -10;
-"@MMK_R_so" = 10;
+"@MMK_R_ku" = -70;
+"@MMK_R_sa" = -10;
+"@MMK_R_se" = -20;
+"@MMK_R_si" = -10;
+"@MMK_R_so" = 0;
 "@MMK_R_su" = 0;
+"@MMK_R_to" = 0;
 "@MMK_R_tu" = -10;
+"digraphyori-hira" = -80;
 "e-hira" = -20;
 "i-hira" = -20;
 "me-hira" = -50;
-"mi-hira" = 10;
+"mi-hira" = 0;
 "mu-hira" = -10;
 "n-hira" = -50;
+"ne-hira" = 10;
+"ni-hira" = -20;
 "no-hira" = -70;
 "nu-hira" = -60;
 "ra-hira" = -40;
 "we-hira" = -50;
 "ya-hira" = -70;
-"yo-hira" = -90;
+"yo-hira" = -110;
 "yu-hira" = -90;
 };
 "su-kata" = {
 "@MMK_R_ha-kata" = -20;
-"@MMK_R_he-kata" = -30;
-"@MMK_R_sa-kata" = -10;
-"@MMK_R_se-kata" = -20;
-"@MMK_R_so-kata" = -20;
-"@MMK_R_ta-kata" = -20;
-"@MMK_R_tu-kata" = -30;
-"i-kata" = -20;
-"re-kata" = 10;
+"@MMK_R_he-kata" = -50;
+"@MMK_R_hi-kata" = -10;
+"@MMK_R_hu-kata" = -40;
+"@MMK_R_ka-kata" = -35;
+"@MMK_R_ke-kana" = -50;
+"@MMK_R_ki-kata" = -30;
+"@MMK_R_ko-kana" = -20;
+"@MMK_R_ku-kana" = -40;
+"@MMK_R_sa-kata" = -40;
+"@MMK_R_se-kata" = -30;
+"@MMK_R_si-kata" = -50;
+"@MMK_R_so-kata" = -40;
+"@MMK_R_ta-kata" = -40;
+"@MMK_R_ti-kata" = -20;
+"@MMK_R_tu-kata" = -20;
+"@MMK_R_vi-kata" = -30;
+"@MMK_R_we-kata" = -10;
+"a-kata" = -30;
+"digraphkoto-kata" = -50;
+"e-kata" = -10;
+"i-kata" = -55;
+"ma-kata" = -50;
+"me-kata" = -20;
+"mi-kata" = -10;
+"mo-kata" = -40;
+"mu-kata" = -20;
+"n-kata" = -40;
+"na-kata" = -30;
+"ni-kata" = -20;
+"no-kata" = -10;
+"nu-kata" = -40;
+"ra-kata" = -30;
+"re-kata" = 0;
+"ri-kata" = -20;
+"ro-kata" = -20;
+"su-kata" = -30;
+"u-kata" = -30;
+"va-kata" = -30;
+"wa-kata" = -40;
+"wo-kata" = -50;
+"ya-kata" = -20;
+"yo-kata" = -30;
 "yu-kata" = -10;
 "zi-kata" = -20;
 "zu-kata" = -20;
@@ -51274,19 +52350,89 @@ two = -20;
 u = -40;
 };
 "ta-hira" = {
+"@MMK_R_ha" = -20;
+"@MMK_R_he" = -20;
 "@MMK_R_hi" = -20;
-"@MMK_R_te" = -10;
-"@MMK_R_to" = 20;
+"@MMK_R_ho" = -10;
+"@MMK_R_ka" = -30;
+"@MMK_R_ke" = -20;
+"@MMK_R_ki" = -20;
+"@MMK_R_ku" = -30;
+"@MMK_R_sa" = -20;
+"@MMK_R_se" = -30;
+"@MMK_R_si" = -10;
+"@MMK_R_so" = -10;
+"@MMK_R_su" = -10;
+"@MMK_R_ta" = -10;
+"@MMK_R_ta-kata" = -20;
+"@MMK_R_te" = -20;
+"@MMK_R_ti" = -10;
+"@MMK_R_to" = 0;
+"@MMK_R_tu" = -30;
+"e-hira" = -10;
+"i-hira" = -20;
+"ma-hira" = -10;
+"me-hira" = -20;
+"mo-hira" = -20;
 "na-hira" = -20;
+"ni-hira" = -10;
+"no-hira" = -20;
+"nu-hira" = -20;
+"o-hira" = -10;
+"ra-hira" = -20;
+"ri-hira" = -10;
+"ro-hira" = -10;
+"ru-hira" = -10;
+"u-hira" = -10;
+"vu-hira" = -10;
+"we-hira" = -10;
+"ya-hira" = -40;
+"yo-hira" = -10;
+"yu-hira" = -20;
 };
 "ta-kata" = {
-"@MMK_R_ha-kata" = -70;
+"@MMK_R_ha-kata" = -90;
 "@MMK_R_he-kata" = -40;
-"@MMK_R_ta-kata" = -20;
-"@MMK_R_to-kata" = 10;
+"@MMK_R_hi-kata" = 10;
+"@MMK_R_ho-kata" = -10;
+"@MMK_R_hu-kata" = -10;
+"@MMK_R_ka-kata" = -10;
+"@MMK_R_ke-kana" = -20;
+"@MMK_R_ki-kata" = -10;
+"@MMK_R_ko-kana" = -10;
+"@MMK_R_ku-kana" = -10;
+"@MMK_R_sa-kata" = -20;
+"@MMK_R_se-kata" = -10;
+"@MMK_R_si-kata" = -10;
+"@MMK_R_so-kata" = -10;
+"@MMK_R_ta-kata" = -30;
+"@MMK_R_te-kata" = -10;
+"@MMK_R_ti-kata" = -10;
+"@MMK_R_to-kata" = -10;
+"@MMK_R_vi-kata" = -30;
+"@MMK_R_we-kata" = -30;
+"a-kata" = -10;
+"digraphkoto-kata" = -10;
+"i-kata" = -50;
+"ma-kata" = -20;
 "me-kata" = -40;
-"no-kata" = -70;
+"mi-kata" = -10;
+"mo-kata" = -10;
+"mu-kata" = -40;
+"n-kata" = -20;
+"na-kata" = -20;
+"ne-kata" = -20;
+"ni-kata" = -80;
+"no-kata" = -100;
+"nu-kata" = -20;
+"ra-kata" = -10;
 "re-kata" = 10;
+"ro-kata" = -10;
+"ru-kata" = -50;
+"su-kata" = -10;
+"wa-kata" = -10;
+"yo-kata" = -10;
+"yu-kata" = -40;
 };
 "te-hira" = {
 "@MMK_R_ha" = -20;
@@ -51295,15 +52441,25 @@ u = -40;
 "@MMK_R_ka" = -20;
 "@MMK_R_ke" = -20;
 "@MMK_R_ku" = -60;
+"@MMK_R_sa" = -10;
+"@MMK_R_se" = -10;
+"@MMK_R_so" = -20;
+"@MMK_R_su" = -10;
+"@MMK_R_ta" = -10;
 "@MMK_R_te" = -10;
-"@MMK_R_tu" = -10;
+"@MMK_R_to" = -10;
+"@MMK_R_tu" = -20;
 "a-hira" = -20;
+"digraphyori-hira" = -70;
 "me-hira" = -50;
 "mi-hira" = -20;
+"n-hira" = -60;
+"ni-hira" = -20;
 "no-hira" = -60;
-"nu-hira" = -60;
+"nu-hira" = -83;
 "ra-hira" = -30;
 "ro-hira" = -20;
+"vu-hira" = -10;
 "we-hira" = -60;
 "wi-hira" = -10;
 "ya-hira" = -60;
@@ -51313,145 +52469,308 @@ u = -40;
 "te-kata" = {
 "@MMK_R_ha-kata" = -70;
 "@MMK_R_he-kata" = -20;
-"@MMK_R_ho-kata" = -10;
+"@MMK_R_ho-kata" = -20;
+"@MMK_R_hu-kata" = -20;
+"@MMK_R_ka-kata" = -20;
+"@MMK_R_sa-kata" = -30;
 "@MMK_R_se-kata" = -20;
+"@MMK_R_ti-kata" = -10;
+"@MMK_R_to-kata" = -10;
+"@MMK_R_tu-kata" = -10;
+"@MMK_R_vi-kata" = -30;
+"@MMK_R_we-kata" = -20;
+"a-kata" = -10;
+"digraphkoto-kata" = -10;
 "i-kata" = -10;
-"me-kata" = -30;
+"ma-kata" = -10;
+"me-kata" = -40;
+"mi-kata" = -10;
+"n-kata" = -10;
+"na-kata" = -30;
+"ne-kata" = -10;
+"ni-kata" = -50;
 "no-kata" = -80;
+"nu-kata" = -10;
+"ro-kata" = -10;
+"ru-kata" = -40;
+"su-kata" = -10;
 "u-kata" = -10;
+"va-kata" = -10;
+"wa-kata" = -10;
+"yo-kata" = -10;
+"yu-kata" = -40;
 };
 three = {
 "@MMK_R_t" = 10;
 };
 "ti-hira" = {
+"@MMK_R_a" = -20;
 "@MMK_R_ha" = -20;
+"@MMK_R_he" = -20;
+"@MMK_R_hi" = -10;
+"@MMK_R_ho" = -10;
+"@MMK_R_hu" = -10;
 "@MMK_R_ka" = -20;
+"@MMK_R_ke" = -20;
+"@MMK_R_ki" = -10;
+"@MMK_R_ku" = -20;
+"@MMK_R_sa" = -20;
+"@MMK_R_se" = -25;
+"@MMK_R_si" = -10;
+"@MMK_R_so" = -10;
+"@MMK_R_su" = -10;
+"@MMK_R_te" = -10;
+"@MMK_R_ti" = -10;
+"@MMK_R_ti-kata" = -10;
+"@MMK_R_to" = -5;
+"digraphyori-hira" = -30;
+"e-hira" = -20;
+"i-hira" = -20;
 "ma-hira" = -10;
-"n-hira" = -30;
+"mo-hira" = -10;
+"mu-hira" = -10;
+"n-hira" = -20;
+"ne-hira" = 10;
+"ni-hira" = -10;
 "no-hira" = -30;
-"nu-hira" = -20;
-"o-hira" = -10;
+"nu-hira" = -35;
+"o-hira" = 0;
+"ra-hira" = -20;
+"ro-hira" = -10;
 "tu-hira" = -20;
-"wa-hira" = -20;
+"u-hira" = -10;
+"wa-hira" = -10;
+"we-hira" = -50;
+"wi-hira" = -10;
 "ya-hira" = -50;
 "yo-hira" = -20;
-"yu-hira" = -30;
+"yu-hira" = -40;
 };
 "ti-kata" = {
 "@MMK_R_ha-kata" = -60;
 "@MMK_R_he-kata" = -20;
-"@MMK_R_ho-kata" = -30;
-"@MMK_R_hu-kata" = -40;
-"@MMK_R_se-kata" = -40;
-"@MMK_R_so-kata" = -20;
-"@MMK_R_su-kata" = -30;
+"@MMK_R_hi-kata" = -10;
+"@MMK_R_ho-kata" = -40;
+"@MMK_R_hu-kata" = -50;
+"@MMK_R_ka-kata" = -40;
+"@MMK_R_ke-kana" = -10;
+"@MMK_R_ki-kata" = -20;
+"@MMK_R_ko-kana" = -30;
+"@MMK_R_ku-kana" = -20;
+"@MMK_R_sa-kata" = -60;
+"@MMK_R_se-kata" = -60;
+"@MMK_R_si-kata" = -20;
+"@MMK_R_so-kata" = -40;
+"@MMK_R_su-kata" = -40;
+"@MMK_R_ta-kata" = -20;
+"@MMK_R_te-kata" = -10;
 "@MMK_R_ti-kata" = -10;
-"a-kata" = -20;
-"me-kata" = -50;
+"@MMK_R_to-kata" = -10;
+"@MMK_R_tu-kata" = -30;
+"@MMK_R_vi-kata" = -20;
+"@MMK_R_we-kata" = -40;
+"a-kata" = -40;
+"digraphkoto-kata" = -30;
+"e-kata" = -20;
+"i-kata" = -10;
+"ma-kata" = -40;
+"me-kata" = -60;
+"mi-kata" = -20;
 "mu-kata" = -20;
+"n-kata" = -40;
+"na-kata" = -60;
+"ne-kata" = -30;
 "ni-kata" = -50;
 "no-kata" = -80;
-"nu-kata" = -10;
-"u-kata" = -30;
-"yu-kata" = -40;
-"zi-kata" = -10;
+"nu-kata" = -40;
+"o-kata" = -30;
+"ra-kata" = -20;
+"re-kata" = -10;
+"ri-kata" = -20;
+"ro-kata" = -10;
+"ru-kata" = -50;
+"su-kata" = -40;
+"u-kata" = -20;
+"va-kata" = -20;
+"wa-kata" = -40;
+"wo-kata" = -20;
+"ya-kata" = -10;
+"yo-kata" = -30;
+"yu-kata" = -50;
+"zi-kata" = -20;
 };
 "to-hira" = {
+"@MMK_R_ha" = -10;
 "@MMK_R_he" = -50;
-"@MMK_R_hi" = -20;
+"@MMK_R_hi" = -29;
+"@MMK_R_ho" = -10;
+"@MMK_R_hu" = -20;
 "@MMK_R_ka" = -10;
+"@MMK_R_ke" = -10;
+"@MMK_R_ki" = -10;
 "@MMK_R_ku" = -30;
+"@MMK_R_se" = -10;
+"@MMK_R_si" = -10;
+"@MMK_R_so" = -10;
 "@MMK_R_su" = -10;
+"@MMK_R_ta" = 0;
 "@MMK_R_te" = -10;
 "@MMK_R_ti" = -10;
 "@MMK_R_to" = -20;
 "@MMK_R_tu" = -10;
 "a-hira" = -20;
+"digraphyori-hira" = -30;
 "e-hira" = -20;
-"mu-hira" = -10;
+"me-hira" = -30;
+"mi-hira" = -10;
+"mo-hira" = -10;
+"mu-hira" = -20;
 "n-hira" = -30;
-"no-hira" = -30;
+"ni-hira" = -20;
+"no-hira" = -50;
+"nu-hira" = -60;
 "ra-hira" = -20;
+"ro-hira" = -30;
 "u-hira" = -30;
+"vu-hira" = -20;
 "we-hira" = -50;
 "wi-hira" = -20;
+"ya-hira" = -50;
 "yo-hira" = -50;
+"yu-hira" = -30;
 };
 "to-kata" = {
 "@MMK_R_ha-kata" = -60;
 "@MMK_R_he-kata" = -10;
+"@MMK_R_hi-kata" = -10;
 "@MMK_R_ho-kata" = -40;
-"@MMK_R_hu-kata" = -70;
+"@MMK_R_hu-kata" = -80;
 "@MMK_R_ka-kana" = -60;
+"@MMK_R_ka-kata" = -70;
 "@MMK_R_ki-kana" = -30;
+"@MMK_R_ki-kata" = -30;
 "@MMK_R_ko-kana" = -60;
 "@MMK_R_ku-kana" = -20;
-"@MMK_R_sa-kata" = -70;
+"@MMK_R_sa-kata" = -90;
 "@MMK_R_se-kata" = -70;
-"@MMK_R_si-kata" = -20;
-"@MMK_R_so-kata" = -80;
+"@MMK_R_si-kata" = -30;
+"@MMK_R_so-kata" = -70;
 "@MMK_R_su-kata" = -80;
 "@MMK_R_ta-kata" = -10;
 "@MMK_R_te-kata" = -10;
 "@MMK_R_ti-kata" = -10;
-"@MMK_R_to-kata" = -10;
-"@MMK_R_tu-kata" = -50;
-"a-kata" = -90;
+"@MMK_R_to-kata" = -20;
+"@MMK_R_tu-kata" = -40;
+"@MMK_R_vi-kata" = -20;
+"@MMK_R_we-kata" = -60;
+"a-kata" = -140;
+"digraphkoto-kata" = -100;
 "e-kata" = -60;
-"i-kata" = -20;
+"i-kata" = -10;
 "ma-kata" = -90;
 "me-kata" = -60;
+"mi-kata" = -20;
 "mu-kata" = -10;
 "n-kata" = -70;
-"na-kata" = -20;
+"na-kata" = -50;
+"ne-kata" = -30;
 "ni-kata" = -50;
-"no-kata" = -70;
-"nu-kata" = -80;
+"no-kata" = -90;
+"nu-kata" = -100;
 "o-kata" = -30;
 "ra-kata" = -10;
+"ri-kata" = -10;
 "ru-kata" = -40;
-"su-kata" = -60;
-"u-kata" = -30;
+"su-kata" = -70;
+"u-kata" = -20;
+"va-kata" = -30;
 "wa-kata" = -40;
-"we-kata" = -50;
+"we-kata" = -60;
 "wo-kata" = -60;
 "ya-kata" = -10;
 "yo-kata" = -30;
 "yu-kata" = -50;
 };
 "tu-hira" = {
-"@MMK_R_he" = -10;
+"@MMK_R_he" = 0;
 "@MMK_R_hi" = -60;
-"@MMK_R_hu" = -30;
+"@MMK_R_hu" = -40;
 "@MMK_R_ka" = -20;
-"@MMK_R_so" = -10;
+"@MMK_R_ki" = -10;
+"@MMK_R_ko" = -10;
+"@MMK_R_sa" = -20;
+"@MMK_R_se" = -20;
+"@MMK_R_si" = 10;
+"@MMK_R_so" = -30;
 "@MMK_R_su" = -50;
-"@MMK_R_ta" = -20;
-"@MMK_R_te" = -50;
-"@MMK_R_ti" = -40;
-"@MMK_R_tu" = -10;
+"@MMK_R_ta" = -40;
+"@MMK_R_te" = -60;
+"@MMK_R_ti" = -60;
+"@MMK_R_to" = -30;
+"@MMK_R_tu" = -31;
 "a-hira" = -50;
-"mu-hira" = -10;
-"na-hira" = -20;
+"ma-hira" = -20;
+"mi-hira" = -10;
+"mo-hira" = -10;
+"mu-hira" = -20;
+"n-hira" = -20;
+"na-hira" = -30;
+"ne-hira" = -30;
+"ni-hira" = -10;
 "no-hira" = -10;
+"nu-hira" = -20;
 "o-hira" = -20;
-"ri-hira" = 10;
-"ro-hira" = -20;
-"we-hira" = -90;
+"re-hira" = -30;
+"ri-hira" = 0;
+"ro-hira" = -40;
+"ru-hira" = -20;
+"u-hira" = -20;
+"vu-hira" = -20;
+"wa-hira" = -30;
+"we-hira" = -80;
+"wi-hira" = -20;
 "wo-hira" = -50;
 "yo-hira" = -20;
+"yu-hira" = -10;
 };
 "tu-kata" = {
-"@MMK_R_ha-kata" = -70;
-"@MMK_R_he-kata" = -30;
-"@MMK_R_so-kata" = 10;
-"i-kata" = -30;
+"@MMK_R_ha-kata" = -80;
+"@MMK_R_he-kata" = -40;
+"@MMK_R_ho-kata" = -10;
+"@MMK_R_hu-kata" = -10;
+"@MMK_R_ka-kata" = -10;
+"@MMK_R_ke-kana" = -10;
+"@MMK_R_ko-kana" = -10;
+"@MMK_R_ku-kana" = -10;
+"@MMK_R_sa-kata" = -10;
+"@MMK_R_so-kata" = -10;
+"@MMK_R_ta-kata" = -20;
+"@MMK_R_te-kata" = -10;
+"@MMK_R_ti-kata" = -10;
+"@MMK_R_to-kata" = -10;
+"@MMK_R_vi-kata" = -20;
+"@MMK_R_we-kata" = -30;
+"a-kata" = -10;
+"digraphkoto-kata" = -10;
+"i-kata" = -50;
+"ma-kata" = -10;
 "me-kata" = -40;
+"mi-kata" = -10;
+"mo-kata" = -10;
 "mu-kata" = -30;
-"no-kata" = -40;
+"na-kata" = -20;
+"ni-kata" = -70;
+"no-kata" = -90;
+"nu-kata" = -20;
 "re-kata" = 10;
 "ri-kata" = 10;
 "ru-kata" = -30;
+"su-kata" = -10;
+};
+"tusmall-hira" = {
+"@MMK_R_hi" = -50;
+"@MMK_R_te" = -60;
+"@MMK_R_tu" = -70;
 };
 two = {
 "@MMK_R_O" = -10;
@@ -51485,20 +52804,27 @@ u = -10;
 };
 "u-hira" = {
 "@MMK_R_a" = -20;
+"@MMK_R_ha" = -20;
 "@MMK_R_he" = -20;
 "@MMK_R_hi" = -10;
 "@MMK_R_ho" = -10;
 "@MMK_R_ka" = -30;
 "@MMK_R_ke" = -10;
-"@MMK_R_se" = -30;
-"@MMK_R_si" = -10;
+"@MMK_R_se" = -40;
+"@MMK_R_si" = -20;
 "@MMK_R_su" = -10;
+"@MMK_R_ta" = -10;
+"@MMK_R_ti" = -10;
 "@MMK_R_tu" = -30;
 "i-hira" = -20;
 "mo-hira" = -20;
 "n-hira" = -10;
-"no-hira" = -20;
+"na-hira" = -10;
+"ni-hira" = -30;
+"no-hira" = -30;
+"nu-hira" = -30;
 "o-hira" = -10;
+"ra-hira" = -20;
 "we-hira" = -30;
 "yo-hira" = -30;
 "yu-hira" = -30;
@@ -51512,30 +52838,97 @@ u = -10;
 "@MMK_R_hu-kata" = -30;
 "@MMK_R_ka-kana" = -10;
 "@MMK_R_ko-kana" = -20;
-"@MMK_R_sa-kata" = -10;
-"@MMK_R_se-kata" = -10;
+"@MMK_R_sa-kata" = -30;
+"@MMK_R_se-kata" = -20;
+"@MMK_R_si-kata" = -20;
 "@MMK_R_so-kata" = -20;
 "@MMK_R_su-kata" = -20;
-"@MMK_R_to-kata" = 10;
-"a-kata" = -20;
+"@MMK_R_ta-kata" = -10;
+"@MMK_R_te-kata" = -10;
+"@MMK_R_ti-kata" = -10;
+"@MMK_R_to-kata" = 0;
+"a-kata" = -30;
 "e-kata" = -30;
 "i-kata" = -20;
 "ma-kata" = -30;
 "me-kata" = -50;
 "mu-kata" = -20;
 "n-kata" = -20;
-"ni-kata" = -30;
-"no-kata" = -40;
+"ne-kata" = -10;
+"ni-kata" = -60;
+"no-kata" = -50;
+"nu-kata" = -40;
 "re-kata" = 10;
 "ri-kata" = 10;
 "ru-kata" = -30;
-"su-kata" = -20;
+"su-kata" = -30;
 "we-kata" = -50;
 "yu-kata" = -40;
 };
+"va-kata" = {
+"@MMK_R_sa-kata" = -30;
+"@MMK_R_se-kata" = -50;
+"@MMK_R_ta-kata" = -40;
+"@MMK_R_te-kata" = -40;
+"@MMK_R_ti-kata" = -30;
+"@MMK_R_tu-kata" = -30;
+"a-kata" = -30;
+"i-kata" = -60;
+"na-kata" = -50;
+"ne-kata" = -30;
+"ni-kata" = -100;
+"no-kata" = -50;
+"nu-kata" = -40;
+"o-kata" = -20;
+"su-kata" = -30;
+};
+"ve-kata" = {
+"@MMK_R_sa-kata" = -20;
+"@MMK_R_se-kata" = -20;
+"@MMK_R_si-kata" = -10;
+"@MMK_R_ta-kata" = -60;
+"@MMK_R_te-kata" = -20;
+"a-kata" = -10;
+"i-kata" = -60;
+"ne-kata" = -20;
+"ni-kata" = -40;
+"no-kata" = -20;
+"nu-kata" = -20;
+"su-kata" = -20;
+};
+"vi-kata" = {
+"@MMK_R_sa-kata" = -30;
+"@MMK_R_se-kata" = -30;
+"@MMK_R_so-kata" = -20;
+"@MMK_R_ta-kata" = -60;
+"@MMK_R_te-kata" = -10;
+"@MMK_R_ti-kata" = -10;
+"@MMK_R_tu-kata" = -20;
+"a-kata" = -10;
+"e-kata" = -10;
+"i-kata" = -10;
+"ne-kata" = 0;
+"ni-kata" = -30;
+"no-kata" = -30;
+"nu-kata" = -20;
+"su-kata" = -30;
+};
 "vu-hira" = {
 "@MMK_R_ki" = -20;
+"@MMK_R_se" = 0;
+"@MMK_R_so" = -40;
+"@MMK_R_su" = -20;
+"@MMK_R_ta" = -20;
+"@MMK_R_te" = -20;
+"@MMK_R_ti" = -20;
+"@MMK_R_to" = -30;
+"@MMK_R_tu" = -10;
 "digraphyori-hira" = -60;
+"na-hira" = -10;
+"ne-hira" = -10;
+"ni-hira" = -10;
+"no-hira" = -30;
+"nu-hira" = -50;
 };
 "wa-hira" = {
 "@MMK_R_hi" = -50;
@@ -51543,25 +52936,32 @@ u = -10;
 "@MMK_R_ke" = -10;
 "@MMK_R_ki" = -30;
 "@MMK_R_ku" = -10;
+"@MMK_R_sa" = -50;
+"@MMK_R_se" = -70;
 "@MMK_R_si" = -10;
+"@MMK_R_so" = -50;
 "@MMK_R_su" = -70;
 "@MMK_R_ta" = -30;
-"@MMK_R_te" = -90;
+"@MMK_R_te" = -110;
 "@MMK_R_ti" = -60;
+"@MMK_R_to" = -20;
 "@MMK_R_tu" = -50;
 "a-hira" = -40;
 "e-hira" = -40;
 "i-hira" = -20;
 "ma-hira" = -50;
 "na-hira" = -40;
+"ne-hira" = -10;
+"ni-hira" = -10;
+"no-hira" = -10;
 "o-hira" = -19;
 "ra-hira" = -10;
 "re-hira" = -10;
 "ri-hira" = -30;
 "ro-hira" = -50;
-"ru-hira" = -30;
-"ti-hira" = -80;
-"tu-hira" = -80;
+"ru-hira" = -40;
+"ti-hira" = -90;
+"tu-hira" = -100;
 "u-hira" = -40;
 "wo-hira" = -80;
 "ya-hira" = -20;
@@ -51572,10 +52972,21 @@ u = -10;
 "@MMK_R_he-kata" = -40;
 "@MMK_R_hi-kata" = 10;
 "@MMK_R_ho-kata" = -10;
+"@MMK_R_sa-kata" = -20;
+"@MMK_R_se-kata" = -20;
+"@MMK_R_si-kata" = -20;
+"@MMK_R_ta-kata" = -20;
+"@MMK_R_te-kata" = -10;
+"a-kata" = -10;
+"e-kata" = -10;
+"i-kata" = -20;
 "mu-kata" = -30;
-"ni-kata" = -40;
+"ne-kata" = -10;
+"ni-kata" = -70;
 "no-kata" = -90;
+"nu-kata" = -20;
 "ru-kata" = -10;
+"su-kata" = -20;
 "yu-kata" = -30;
 };
 "we-hira" = {
@@ -51589,15 +53000,15 @@ u = -10;
 "@MMK_R_ko" = -20;
 "@MMK_R_ku" = -60;
 "@MMK_R_sa" = -60;
-"@MMK_R_se" = -70;
+"@MMK_R_se" = -90;
 "@MMK_R_si" = -40;
-"@MMK_R_so" = -60;
+"@MMK_R_so" = -80;
 "@MMK_R_su" = -90;
-"@MMK_R_ta" = -40;
+"@MMK_R_ta" = -60;
 "@MMK_R_te" = -90;
-"@MMK_R_ti" = -90;
-"@MMK_R_to" = -50;
-"@MMK_R_tu" = -80;
+"@MMK_R_ti" = -100;
+"@MMK_R_to" = -60;
+"@MMK_R_tu" = -110;
 "a-hira" = -50;
 "e-hira" = -30;
 "i-hira" = -50;
@@ -51606,11 +53017,11 @@ u = -10;
 "mi-hira" = -20;
 "mo-hira" = -60;
 "mu-hira" = -20;
-"na-hira" = -70;
-"ne-hira" = -40;
-"ni-hira" = -40;
-"no-hira" = -40;
-"nu-hira" = -30;
+"na-hira" = -80;
+"ne-hira" = -50;
+"ni-hira" = -50;
+"no-hira" = -50;
+"nu-hira" = -50;
 "ra-hira" = -50;
 "re-hira" = -30;
 "ri-hira" = -40;
@@ -51627,8 +53038,22 @@ u = -10;
 "we-kata" = {
 "@MMK_R_ha-kata" = -30;
 "@MMK_R_he-kata" = -40;
+"@MMK_R_sa-kata" = -10;
 "@MMK_R_se-kata" = -10;
 "@MMK_R_si-kata" = -10;
+"@MMK_R_so-kata" = -10;
+"@MMK_R_ta-kata" = -50;
+"@MMK_R_te-kata" = -10;
+"@MMK_R_to-kata" = -10;
+"e-kata" = -10;
+"i-kata" = -50;
+"na-kata" = -20;
+"ne-kata" = -10;
+"ni-kata" = -20;
+"no-kata" = -10;
+"nu-kata" = -10;
+"o-kata" = 10;
+"su-kata" = -10;
 "u-kata" = -10;
 };
 "wi-hira" = {
@@ -51639,27 +53064,30 @@ u = -10;
 "@MMK_R_ke" = -10;
 "@MMK_R_ki" = -30;
 "@MMK_R_sa" = -50;
-"@MMK_R_se" = -40;
+"@MMK_R_se" = -80;
 "@MMK_R_si" = -10;
-"@MMK_R_so" = -40;
+"@MMK_R_so" = -50;
 "@MMK_R_su" = -90;
 "@MMK_R_ta" = -40;
 "@MMK_R_te" = -120;
-"@MMK_R_ti" = -90;
-"@MMK_R_to" = -20;
-"@MMK_R_tu" = -60;
+"@MMK_R_ti" = -110;
+"@MMK_R_to" = -30;
+"@MMK_R_tu" = -100;
 "a-hira" = -40;
 "i-hira" = -20;
 "me-hira" = -10;
 "mo-hira" = -30;
-"na-hira" = -40;
-"ni-hira" = -10;
-"no-hira" = -10;
+"na-hira" = -50;
+"ne-hira" = -20;
+"ni-hira" = -20;
+"no-hira" = -20;
+"nu-hira" = -10;
 "ri-hira" = -30;
 "ro-hira" = -50;
 "ru-hira" = -30;
 "u-hira" = -50;
 "wa-hira" = -20;
+"we-hira" = -40;
 "wo-hira" = -90;
 "ya-hira" = -30;
 "yo-hira" = -10;
@@ -51669,11 +53097,22 @@ u = -10;
 "@MMK_R_ha-kata" = -20;
 "@MMK_R_ho-kata" = -10;
 "@MMK_R_hu-kata" = -10;
-"@MMK_R_se-kata" = -20;
-"@MMK_R_si-kata" = -20;
-"@MMK_R_ta-kata" = -20;
+"@MMK_R_sa-kata" = -30;
+"@MMK_R_se-kata" = -30;
+"@MMK_R_si-kata" = -30;
+"@MMK_R_so-kata" = -20;
+"@MMK_R_ta-kata" = -40;
+"@MMK_R_te-kata" = -30;
+"@MMK_R_ti-kata" = -10;
+"a-kata" = -30;
+"e-kata" = -10;
+"na-kata" = -40;
+"ne-kata" = -20;
+"ni-kata" = -20;
 "no-kata" = -20;
+"nu-kata" = -30;
 "ri-kata" = -10;
+"su-kata" = -20;
 };
 "wo-hira" = {
 "@MMK_R_ha" = -10;
@@ -51684,14 +53123,20 @@ u = -10;
 "@MMK_R_ki" = -10;
 "@MMK_R_ku" = -50;
 "@MMK_R_sa" = -10;
+"@MMK_R_se" = -20;
+"@MMK_R_so" = -10;
+"@MMK_R_ta" = -5;
 "@MMK_R_te" = -10;
+"@MMK_R_ti" = -10;
 "@MMK_R_tu" = -20;
 "i-hira" = -20;
 "me-hira" = -30;
 "mu-hira" = -20;
 "n-hira" = -40;
-"no-hira" = -40;
-"nu-hira" = -50;
+"na-hira" = -10;
+"ni-hira" = -20;
+"no-hira" = -50;
+"nu-hira" = -60;
 "ro-hira" = -10;
 "we-hira" = -30;
 "ya-hira" = -50;
@@ -51701,14 +53146,23 @@ u = -10;
 "wo-kata" = {
 "@MMK_R_ha-kata" = -40;
 "@MMK_R_he-kata" = -20;
-"@MMK_R_to-kata" = 20;
+"@MMK_R_sa-kata" = -10;
+"@MMK_R_se-kata" = -10;
+"@MMK_R_si-kata" = -20;
+"@MMK_R_ta-kata" = -10;
+"@MMK_R_ti-kata" = -10;
+"@MMK_R_to-kata" = 10;
+"e-kata" = -10;
+"i-kata" = -20;
 "ma-kata" = -20;
 "me-kata" = -40;
 "na-kata" = -10;
-"ni-kata" = -60;
+"ne-kata" = -10;
+"ni-kata" = -70;
 "no-kata" = -70;
+"nu-kata" = -30;
 "re-kata" = 10;
-"su-kata" = -10;
+"su-kata" = -20;
 "we-kata" = -30;
 "wo-kata" = -10;
 };
@@ -51750,10 +53204,13 @@ seven = -40;
 "@MMK_R_ka" = -10;
 "@MMK_R_ke" = -10;
 "@MMK_R_ki" = -20;
-"@MMK_R_se" = -10;
+"@MMK_R_se" = -20;
+"@MMK_R_so" = -30;
 "@MMK_R_su" = -40;
+"@MMK_R_ta" = -50;
 "@MMK_R_te" = -50;
-"@MMK_R_ti" = -30;
+"@MMK_R_ti" = -50;
+"@MMK_R_to" = -30;
 "@MMK_R_tu" = -20;
 "a-hira" = -50;
 "e-hira" = -30;
@@ -51761,16 +53218,21 @@ seven = -40;
 "me-hira" = -10;
 "mi-hira" = -10;
 "n-hira" = -30;
-"nu-hira" = -10;
+"na-hira" = -60;
+"ne-hira" = -50;
+"ni-hira" = -10;
+"no-hira" = -20;
+"nu-hira" = -20;
 "o-hira" = -30;
 "ro-hira" = -20;
-"tu-hira" = -40;
+"tu-hira" = -30;
 "wa-hira" = -20;
 "we-hira" = -60;
 "wi-hira" = -30;
 "wo-hira" = -40;
 "ya-kata" = 10;
 "yo-hira" = -40;
+"yu-hira" = -10;
 };
 "ya-kata" = {
 "@MMK_R_ha-kata" = -70;
@@ -51779,15 +53241,20 @@ seven = -40;
 "@MMK_R_ho-kata" = -10;
 "@MMK_R_hu-kata" = -10;
 "@MMK_R_ku-kana" = -10;
+"@MMK_R_se-kata" = -10;
 "@MMK_R_si-kata" = -10;
+"@MMK_R_so-kata" = -10;
+"@MMK_R_ta-kata" = -20;
+"@MMK_R_te-kata" = -10;
 "a-kata" = -20;
 "i-kata" = -40;
 "mi-kata" = -20;
 "mu-kata" = -40;
-"ni-kata" = -70;
+"ni-kata" = -80;
 "no-kata" = -90;
 "nu-kata" = -20;
 "ru-kata" = -40;
+"su-kata" = -20;
 "ya-kata" = 10;
 "yu-kata" = -40;
 };
@@ -51802,8 +53269,13 @@ seven = -40;
 "@MMK_R_ki" = -10;
 "@MMK_R_ku" = -40;
 "@MMK_R_sa" = -10;
+"@MMK_R_se" = -20;
 "@MMK_R_si" = -10;
+"@MMK_R_so" = -20;
+"@MMK_R_ta" = -10;
 "@MMK_R_te" = -10;
+"@MMK_R_ti" = -10;
+"@MMK_R_to" = -10;
 "@MMK_R_tu" = -10;
 "e-hira" = -10;
 "i-hira" = -20;
@@ -51811,9 +53283,11 @@ seven = -40;
 "mi-hira" = -10;
 "mu-hira" = -10;
 "n-hira" = -60;
-"no-hira" = -40;
-"nu-hira" = -40;
-"ra-hira" = -20;
+"na-hira" = -10;
+"ni-hira" = -20;
+"no-hira" = -60;
+"nu-hira" = -60;
+"ra-hira" = -30;
 "u-hira" = -10;
 "we-hira" = -50;
 "wi-hira" = -20;
@@ -51829,45 +53303,58 @@ seven = -40;
 "@MMK_R_ki-kana" = -20;
 "@MMK_R_ko-kana" = -20;
 "@MMK_R_sa-kata" = -20;
-"@MMK_R_se-kata" = -10;
+"@MMK_R_se-kata" = -20;
 "@MMK_R_si-kata" = -20;
-"@MMK_R_so-kata" = -10;
+"@MMK_R_so-kata" = -20;
 "@MMK_R_ta-kata" = -10;
+"@MMK_R_tu-kata" = -10;
 "a-kata" = -40;
+"e-kata" = -20;
 "i-kata" = -10;
 "me-kata" = -30;
 "n-kata" = -20;
+"na-kata" = -20;
 "ni-kata" = -40;
 "no-kata" = -50;
+"nu-kata" = -50;
+"o-kata" = -10;
 "re-kata" = 20;
 "ru-kata" = -10;
 "su-kata" = -30;
 "wo-kata" = -10;
 "yu-kata" = -30;
 };
+"yosmall-hira" = {
+"@MMK_R_se" = -10;
+"u-hira" = -30;
+};
 "yu-hira" = {
 "@MMK_R_hi" = -60;
 "@MMK_R_hu" = -40;
 "@MMK_R_ka" = -30;
 "@MMK_R_ke" = -10;
+"@MMK_R_se" = -40;
 "@MMK_R_so" = -30;
 "@MMK_R_su" = -60;
 "@MMK_R_ta" = -40;
 "@MMK_R_te" = -90;
 "@MMK_R_ti" = -40;
+"@MMK_R_to" = -30;
 "@MMK_R_tu" = -50;
 "a-hira" = -40;
 "e-hira" = -30;
 "ko-hira" = -20;
 "ma-hira" = -30;
 "n-hira" = -10;
-"na-hira" = -40;
-"ne-hira" = -30;
+"na-hira" = -50;
+"ne-hira" = -40;
+"ni-hira" = -10;
 "no-hira" = -10;
+"nu-hira" = -10;
 "o-hira" = -30;
 "ra-hira" = -10;
 "re-hira" = -40;
-"ru-hira" = -20;
+"ru-hira" = -30;
 "ti-hira" = -80;
 "tu-hira" = -60;
 "u-hira" = -20;
@@ -51886,32 +53373,34 @@ seven = -40;
 "@MMK_R_ki-kana" = -50;
 "@MMK_R_ko-kana" = -40;
 "@MMK_R_ku-kana" = -90;
-"@MMK_R_sa-kata" = -70;
-"@MMK_R_se-kata" = -90;
+"@MMK_R_sa-kata" = -90;
+"@MMK_R_se-kata" = -110;
 "@MMK_R_si-kata" = -80;
-"@MMK_R_so-kata" = -80;
+"@MMK_R_so-kata" = -90;
 "@MMK_R_su-kata" = -50;
-"@MMK_R_ta-kata" = -60;
-"@MMK_R_te-kata" = -30;
-"@MMK_R_ti-kata" = -40;
-"@MMK_R_to-kata" = -10;
-"@MMK_R_tu-kata" = -80;
-"a-kata" = -90;
+"@MMK_R_ta-kata" = -70;
+"@MMK_R_te-kata" = -80;
+"@MMK_R_ti-kata" = -60;
+"@MMK_R_to-kata" = -30;
+"@MMK_R_tu-kata" = -100;
+"a-kata" = -110;
 "i-kata" = -30;
 "ma-kata" = -100;
 "me-kata" = -20;
 "mo-kata" = -50;
 "mu-kata" = -20;
 "n-kata" = -80;
-"na-kata" = -60;
+"na-kata" = -90;
+"ne-kata" = -10;
 "ni-kata" = -10;
-"nu-kata" = -60;
+"no-kata" = -10;
+"nu-kata" = -70;
 "o-kata" = -20;
 "ra-kata" = -60;
 "ri-kata" = -40;
 "ro-kata" = -20;
 "ru-kata" = -20;
-"su-kata" = -50;
+"su-kata" = -40;
 "u-kata" = -70;
 "wa-kata" = -90;
 "wi-kata" = -10;
@@ -51927,11 +53416,18 @@ t = 0;
 "@MMK_R_ha" = -10;
 "@MMK_R_he" = -60;
 "@MMK_R_ku" = -30;
+"@MMK_R_sa" = -10;
+"@MMK_R_se" = -10;
+"@MMK_R_si" = -10;
+"@MMK_R_ta" = -10;
 "@MMK_R_te" = -10;
+"@MMK_R_tu" = -10;
 "i-hira" = -20;
 "mo-hira" = -10;
 "n-hira" = -60;
+"ni-hira" = -20;
 "no-hira" = -50;
+"nu-hira" = -60;
 "ri-hira" = 10;
 "ru-hira" = 10;
 "ya-hira" = -30;
@@ -51952,22 +53448,23 @@ t = 0;
 "@MMK_R_sa-kata" = -80;
 "@MMK_R_se-kata" = -80;
 "@MMK_R_su-kata" = -10;
-"@MMK_R_ta-kata" = -60;
+"@MMK_R_ta-kata" = -110;
 "@MMK_R_te-kata" = -10;
-"@MMK_R_ti-kata" = -40;
+"@MMK_R_ti-kata" = -50;
 "@MMK_R_to-kata" = -20;
 "i-kata" = -160;
 "ma-kata" = -10;
 "me-kata" = -80;
 "mu-kata" = -140;
 "n-kata" = -10;
-"na-kata" = -90;
-"ni-kata" = -120;
+"na-kata" = -80;
+"ne-kata" = -10;
+"ni-kata" = -110;
 "no-kata" = -150;
-"o-kata" = -40;
+"o-kata" = -50;
 "ro-kata" = -40;
 "ru-kata" = -60;
-"si-kata" = 20;
+"si-kata" = 10;
 "su-kata" = -30;
 "u-kata" = -80;
 "wa-kata" = -20;
@@ -51988,11 +53485,13 @@ t = 0;
 "@MMK_R_ko" = -10;
 "@MMK_R_ku" = -80;
 "@MMK_R_sa" = -50;
-"@MMK_R_se" = -40;
+"@MMK_R_se" = -70;
 "@MMK_R_se-kata" = -20;
 "@MMK_R_si" = -20;
 "@MMK_R_so" = 20;
+"@MMK_R_ta" = -10;
 "@MMK_R_te" = -10;
+"@MMK_R_to" = 10;
 "@MMK_R_tu" = -40;
 "de-hira" = -10;
 "i-hira" = -30;
@@ -52000,11 +53499,11 @@ t = 0;
 "mo-hira" = -20;
 "mu-hira" = -30;
 "n-hira" = -90;
-"na-hira" = -10;
+"na-hira" = -20;
 "ne-hira" = 10;
-"ni-hira" = -20;
-"no-hira" = -90;
-"nu-hira" = -60;
+"ni-hira" = -30;
+"no-hira" = -100;
+"nu-hira" = -70;
 "o-hira" = -10;
 "ra-hira" = -50;
 "ru-hira" = 10;
@@ -52026,29 +53525,32 @@ t = 0;
 "@MMK_R_ko-kana" = -10;
 "@MMK_R_ku-kana" = -30;
 "@MMK_R_sa-kata" = -40;
-"@MMK_R_se-kata" = -40;
+"@MMK_R_se-kata" = -50;
 "@MMK_R_si-kata" = -10;
 "@MMK_R_so-kata" = -20;
 "@MMK_R_su-kata" = -30;
-"@MMK_R_ta-kata" = -40;
+"@MMK_R_ta-kata" = -50;
 "@MMK_R_te-kata" = -10;
-"@MMK_R_to-kata" = -20;
-"a-kata" = -20;
-"e-kata" = -10;
+"@MMK_R_to-kata" = -30;
+"@MMK_R_tu-kata" = -10;
+"a-kata" = -30;
+"e-kata" = -20;
 "i-kata" = -80;
 "ma-kata" = -30;
 "me-kata" = -60;
 "mo-kata" = -10;
 "mu-kata" = -70;
 "n-kata" = -20;
-"na-kata" = -30;
-"ni-kata" = -70;
+"na-kata" = -50;
+"ne-kata" = -20;
+"ni-kata" = -90;
 "no-kata" = -100;
-"nu-kata" = -10;
-"o-kata" = -20;
+"nu-kata" = -20;
+"o-kata" = -30;
 "ra-kata" = -10;
 "ro-kata" = -30;
 "ru-kata" = -50;
+"su-kata" = -30;
 "u-kata" = -40;
 "wa-kata" = -20;
 "we-kata" = -30;
@@ -52064,18 +53566,26 @@ zero = {
 "@MMK_R_hi" = -10;
 "@MMK_R_ka" = -20;
 "@MMK_R_ku" = -10;
-"@MMK_R_sa" = -20;
-"@MMK_R_se" = -20;
-"@MMK_R_ta" = 0;
+"@MMK_R_sa" = -30;
+"@MMK_R_se" = -30;
+"@MMK_R_su" = -10;
+"@MMK_R_ta" = -20;
 "@MMK_R_te" = -20;
 "@MMK_R_ti" = -10;
-"@MMK_R_tu" = -20;
+"@MMK_R_to" = -10;
+"@MMK_R_tu" = -40;
 "mo-hira" = -20;
+"na-hira" = -20;
+"ne-hira" = -10;
+"ni-hira" = -20;
+"no-hira" = -10;
+"nu-hira" = -10;
 "ra-hira" = -10;
 "ri-hira" = -10;
 "ro-hira" = -10;
 "we-hira" = -30;
 "ya-hira" = -30;
+"yosmall-hira" = -10;
 "yu-hira" = -20;
 };
 "zi-kata" = {
@@ -52090,21 +53600,22 @@ zero = {
 "@MMK_R_ko-kana" = -10;
 "@MMK_R_ku-kana" = -40;
 "@MMK_R_sa-kata" = -50;
-"@MMK_R_se-kata" = -40;
+"@MMK_R_se-kata" = -50;
 "@MMK_R_ta-kata" = -50;
 "@MMK_R_te-kata" = -20;
 "@MMK_R_ti-kata" = -30;
 "@MMK_R_to-kata" = -20;
+"a-kata" = -10;
 "i-kata" = -80;
 "ma-kata" = -10;
 "mu-kata" = -80;
 "n-kata" = -10;
 "na-kata" = -60;
-"ne-kata" = -10;
-"ni-kata" = -70;
+"ne-kata" = -20;
+"ni-kata" = -80;
 "no-kata" = -120;
 "nu-kata" = -10;
-"o-kata" = -10;
+"o-kata" = -20;
 "ra-kata" = -10;
 "ro-kata" = -10;
 "ru-kata" = -50;
@@ -52127,10 +53638,11 @@ zero = {
 "@MMK_R_ku" = -20;
 "@MMK_R_se" = 10;
 "@MMK_R_so" = -40;
-"@MMK_R_su" = -20;
+"@MMK_R_su" = -30;
+"@MMK_R_ta" = -20;
 "@MMK_R_te" = -30;
 "@MMK_R_ti" = -20;
-"@MMK_R_to" = -30;
+"@MMK_R_to" = -40;
 "@MMK_R_tu" = -10;
 "e-hira" = -20;
 "ma-hira" = -10;
@@ -52139,8 +53651,9 @@ zero = {
 "mo-hira" = -10;
 "mu-hira" = -20;
 "n-hira" = -40;
+"na-hira" = -15;
 "ne-hira" = -10;
-"no-hira" = -20;
+"no-hira" = -30;
 "nu-hira" = -30;
 "o-hira" = -20;
 "ro-hira" = -50;
@@ -52156,16 +53669,22 @@ zero = {
 "@MMK_R_ha-kata" = -40;
 "@MMK_R_he-kata" = -40;
 "@MMK_R_hi-kata" = 20;
-"@MMK_R_ta-kata" = -10;
-"@MMK_R_to-kata" = 10;
+"@MMK_R_sa-kata" = -10;
+"@MMK_R_se-kata" = -10;
+"@MMK_R_ta-kata" = -30;
+"@MMK_R_to-kata" = 0;
+"a-kata" = -10;
 "i-kata" = -40;
 "mu-kata" = -30;
-"ni-kata" = -40;
-"no-kata" = -40;
-"o-kata" = 10;
+"na-kata" = -20;
+"ni-kata" = -80;
+"no-kata" = -70;
+"nu-kata" = -20;
+"o-kata" = 0;
 "re-kata" = 10;
 "ri-kata" = 10;
 "ru-kata" = -20;
+"su-kata" = -10;
 };
 "zu-hira" = {
 "@MMK_R_ha" = -10;
@@ -52176,17 +53695,20 @@ zero = {
 "@MMK_R_ko" = 10;
 "@MMK_R_ku" = -50;
 "@MMK_R_sa" = -10;
+"@MMK_R_se" = -30;
 "@MMK_R_su" = 10;
+"@MMK_R_ta" = 10;
 "@MMK_R_ti" = 10;
 "@MMK_R_to" = 10;
+"@MMK_R_tu" = -10;
 "me-hira" = -30;
 "mu-hira" = -10;
 "n-hira" = -60;
-"na-hira" = 10;
-"ne-hira" = 20;
-"ni-hira" = -10;
-"no-hira" = -60;
-"nu-hira" = -60;
+"na-hira" = 0;
+"ne-hira" = 10;
+"ni-hira" = -20;
+"no-hira" = -70;
+"nu-hira" = -70;
 "ra-hira" = -30;
 "re-hira" = 10;
 "ri-hira" = 10;
@@ -52205,13 +53727,16 @@ zero = {
 "@MMK_R_ka-kana" = -20;
 "@MMK_R_sa-kata" = -30;
 "@MMK_R_se-kata" = -30;
-"@MMK_R_ta-kata" = -20;
+"@MMK_R_so-kata" = -10;
+"@MMK_R_ta-kata" = -30;
 "@MMK_R_to-kata" = 10;
-"a-kata" = -20;
+"a-kata" = -30;
 "i-kata" = -40;
 "ma-kata" = -20;
 "me-kata" = 10;
 "na-kata" = -20;
+"ni-kata" = -10;
+"nu-kata" = -20;
 "re-kata" = 20;
 "u-kata" = -20;
 "ya-kata" = -20;
