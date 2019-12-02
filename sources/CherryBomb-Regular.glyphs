@@ -3,11 +3,11 @@
 classes = (
 {
 automatic = 1;
-code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE AEacute Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adotbelow Ahookabove Ainvertedbreve Aringacute Cacute Ccaron Ccedilla Ccircumflex Cdotaccent DZcaron Dzcaron Eth Dcaron Dcroat Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edotbelow Ehookabove Einvertedbreve Etilde Gcaron Gbreve Gcircumflex Gcommaaccent Gdotaccent Hcircumflex Hbar Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde Idblgrave Idotbelow Ihookabove Iinvertedbreve Jcircumflex Kcommaaccent LJ Lj Lacute Lcaron Lcommaaccent Ldot Lslash Nacute Ncaron Ncommaaccent NJ Nj Eng Ntilde Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresismacron Odotaccentmacron Odotbelow Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Oinvertedbreve Oogonek Otildemacron OE Thorn Racute Rcaron Rcommaaccent Rdblgrave Rinvertedbreve Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls Schwa Tbar Tcaron Tcedilla Tcommaaccent Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde Udblgrave Udotbelow Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uinvertedbreve Wacute Wcircumflex Wdieresis Wgrave Yacute Ycircumflex Ydieresis Ygrave Ytilde Ydotbelow Yhookabove Ymacron Zacute Zcaron Zdotaccent";
+code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE AEacute Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adotbelow Ahookabove Ainvertedbreve Aringacute Cacute Ccaron Ccedilla Ccircumflex Cdotaccent DZcaron Dzcaron Eth Dcaron Dcroat Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edotbelow Ehookabove Einvertedbreve Etilde Gcaron Gbreve Gcircumflex Gcommaaccent Gdotaccent Hcircumflex Hbar Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde Idblgrave Idotbelow Ihookabove Iinvertedbreve Jcircumflex Kcommaaccent LJ Lj Lacute Lcaron Lcommaaccent Ldot Lslash Nacute Ncaron Ncommaaccent NJ Nj Eng Ntilde Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresismacron Odotaccentmacron Odotbelow Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Oinvertedbreve Oogonek Otildemacron OE Thorn Racute Rcaron Rcommaaccent Rdblgrave Rinvertedbreve Sacute Scaron Scedilla Scircumflex Scommaaccent Schwa Tbar Tcaron Tcedilla Tcommaaccent Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde Udblgrave Udotbelow Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uinvertedbreve Wacute Wcircumflex Wdieresis Wgrave Yacute Ycircumflex Ydieresis Ygrave Ytilde Ydotbelow Yhookabove Ymacron Zacute Zcaron Zdotaccent";
 name = Uppercase;
 }
 );
-copyright = "Copyright © 2019 by satsuyako. All rights reserved.";
+copyright = "Copyright 2019 The Cherry Bomb Project Authors (https://github.com/satsuyako/CherryBomb)";
 customParameters = (
 {
 name = glyphOrder;
@@ -843,6 +843,23 @@ value = (
 {
 name = ROS;
 value = "Adobe-Identity-0";
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = "New Parameter";
+value = 0;
 }
 );
 date = "2019-11-21 17:01:08 +0000";
@@ -850,7 +867,7 @@ designer = satsuyako;
 designerURL = "https://satsuyako.com/";
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
-familyName = "CHERRYBOMB!";
+familyName = "Cherry Bomb";
 featurePrefixes = (
 {
 automatic = 1;
@@ -961,11 +978,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 880;
+value = 1054;
 },
 {
 name = winDescent;
-value = -120;
+value = 272;
 },
 {
 name = hheaAscender;
@@ -977,7 +994,7 @@ value = -120;
 },
 {
 name = hheaLineGap;
-value = 500;
+value = 0;
 },
 {
 name = vheaVertAscender;
@@ -1006,16 +1023,6 @@ xHeight = 470;
 }
 );
 glyphs = (
-{
-glyphname = .notdef;
-lastChange = "2019-10-01 07:49:00 +0000";
-layers = (
-{
-layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 600;
-}
-);
-},
 {
 glyphname = .null;
 lastChange = "2019-10-01 07:49:00 +0000";
@@ -1069,7 +1076,7 @@ unicode = 000D;
 },
 {
 glyphname = space;
-lastChange = "2019-11-07 16:50:47 +0000";
+lastChange = "2019-12-02 09:30:31 +0000";
 layers = (
 {
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
@@ -6190,6 +6197,7 @@ unicode = 201A;
 },
 {
 glyphname = quotedblbase;
+lastChange = "2019-12-02 10:10:01 +0000";
 layers = (
 {
 components = (
@@ -6198,6 +6206,10 @@ name = comma;
 },
 {
 name = comma;
+},
+{
+name = comma;
+transform = "{1, 0, 0, 1, 276, 0}";
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
@@ -15379,26 +15391,6 @@ width = 596;
 }
 );
 unicode = 0218;
-},
-{
-glyphname = Germandbls;
-lastChange = "2019-11-10 18:29:22 +0000";
-layers = (
-{
-components = (
-{
-name = S;
-},
-{
-name = S;
-transform = "{1, 0, 0, 1, 573, 0}";
-}
-);
-layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 1169;
-}
-);
-unicode = 1E9E;
 },
 {
 glyphname = Schwa;
@@ -41811,8 +41803,18 @@ width = 1000;
 unicode = FE12;
 },
 {
+glyphname = uni3000;
+layers = (
+{
+layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
+width = 1000;
+}
+);
+unicode = 3000;
+},
+{
 glyphname = nbspace;
-lastChange = "2019-11-10 17:58:41 +0000";
+lastChange = "2019-12-02 09:30:11 +0000";
 layers = (
 {
 hints = (
@@ -41822,7 +41824,7 @@ type = Stem;
 }
 );
 layerId = "09A42E70-DC24-4DD4-94A7-946B904CEA41";
-width = 1000;
+width = 300;
 }
 );
 unicode = 00A0;
@@ -43474,16 +43476,6 @@ width = 651;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = "CHERRYBOMB!";
-},
-{
-name = postscriptFullName;
-value = "CHERRYBOMB!";
-}
-);
 instanceInterpolations = {
 "09A42E70-DC24-4DD4-94A7-946B904CEA41" = 1;
 };
@@ -44688,6 +44680,10 @@ X = -10;
 Z = -30;
 u = -20;
 };
+e = {
+"@MMK_R_t" = -30;
+t = -20;
+};
 eight = {
 "@MMK_R_b" = -20;
 "@MMK_R_v" = -20;
@@ -44994,10 +44990,6 @@ Y = -30;
 zero = {
 "@MMK_R_o" = -20;
 };
-e = {
-"@MMK_R_t" = -30;
-t = -20;
-};
 };
 };
 manufacturer = satsuyako;
@@ -45009,6 +45001,6 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 };
-versionMajor = 3;
+versionMajor = 4;
 versionMinor = 0;
 }
