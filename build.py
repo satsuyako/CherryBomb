@@ -2,28 +2,36 @@ from fontmake import __main__
 from fontTools.ttLib import TTFont, newTable
 import shutil
 import subprocess
+from glyphsLib.cli import main
+import ufoLib2
+import ufo2ft
+import os
 
-__main__.main(("-g","sources/CherryBomb.glyphs", "-o","ttf",))
+print ("Converting to UFO")
+main(("glyphs2ufo", "sources/CherryBomb.glyphs"))
 
-path = "master_ttf/CherryBombOne-Regular.ttf"
+exportFont = ufoLib2.Font.open("sources/CherryBombOne-Regular.ufo")
 
+exportFont.lib['com.github.googlei18n.ufo2ft.filters'] = [{
+    "name": "flattenComponents",
+    "pre": 1,
+}]
 
-modifiedFont = TTFont(path)
-print ("Adding additional tables")
-modifiedFont["DSIG"] = newTable("DSIG")     #need that stub dsig
+print ("Compiling")
+static_ttf = ufo2ft.compileTTF(exportFont, removeOverlaps=True)
 
-print ("Making other changes")
-modifiedFont["DSIG"].ulVersion = 1
-modifiedFont["DSIG"].usFlag = 0
-modifiedFont["DSIG"].usNumSigs = 0
-modifiedFont["DSIG"].signatureRecords = []
-modifiedFont["head"].flags |= 1 << 3        #sets flag to always round PPEM to integer
+static_ttf["DSIG"] = newTable("DSIG")
+static_ttf["DSIG"].ulVersion = 1
+static_ttf["DSIG"].usFlag = 0
+static_ttf["DSIG"].usNumSigs = 0
+static_ttf["DSIG"].signatureRecords = []
+static_ttf["head"].flags |= 1 << 3        #sets flag to always round PPEM to integer
 
-modifiedFont.save("fonts/ttf/CherryBombOne-Regular.ttf")
+print ("[Cherry Bomb One] Saving")
+static_ttf.save("fonts/ttf/CherryBombOne-Regular.ttf")
 
-shutil.rmtree("instance_ufo")
-shutil.rmtree("master_ufo")
-shutil.rmtree("master_ttf")
+shutil.rmtree("sources/CherryBombOne-Regular.ufo")
+os.remove("sources/CherryBomb.designspace")
 
 subprocess.check_call(
         [
