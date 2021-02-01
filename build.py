@@ -8,14 +8,20 @@ import ufo2ft
 import os
 
 print ("Converting to UFO")
-main(("glyphs2ufo", "sources/CherryBomb.glyphs"))
+main(("glyphs2ufo", "sources/CherryBomb.glyphs", "--"))
 
 exportFont = ufoLib2.Font.open("sources/CherryBombOne-Regular.ufo")
 
-exportFont.lib['com.github.googlei18n.ufo2ft.filters'] = [{
+exportFont.lib['com.github.googlei18n.ufo2ft.filters'] = [
+    {
+    "name": "decomposeTransformedComponents",
+    "pre": 1,
+    },
+    {
     "name": "flattenComponents",
     "pre": 1,
-}]
+    }
+]
 
 print ("Compiling")
 static_ttf = ufo2ft.compileTTF(exportFont, removeOverlaps=True)
